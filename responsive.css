@@ -36,14 +36,14 @@
      }
 .nav1 ul{
      margin-top: 3em;
-     margin-left: -4em;
+     margin-left: -5em;
 }
      .nav1 ul li a {
           text-align: left;
      }
 
      .nav2 ul {
-          ml
+          margin-left: -5em;
           margin-top: 10rem;
           display: flex;
      }
