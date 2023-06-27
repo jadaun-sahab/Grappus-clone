@@ -23,13 +23,7 @@
  
      .nav li a {
           display: block;
-          text-decoration: none;
-          color: white;
           padding: 1rem;
-     }
-
-     .nav li:hover {
-          background-color: #555;
      }
 
      .nav ul {
@@ -46,6 +40,9 @@
      }
 
      .nav2 ul {
+          position: absolute;
+          bottom: 0;
+          left: 0;
           display: flex;
      }
 }
