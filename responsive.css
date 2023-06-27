@@ -1,12 +1,6 @@
 @media(max-width: 800px){
-     .fa-bars{
-          display: flex;
-     }
-     .nav{
-          display: none;
-     }
-}
-/* navbar  toggle*/
+    
+     /* navbar  toggle*/
 
 
      .nav li a {
@@ -47,3 +41,4 @@
 
 
      /* navbar toggle */
+}
