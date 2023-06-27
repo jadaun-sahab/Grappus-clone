@@ -1,19 +1,4 @@
 @media(max-width: 830px) {
-
-     /* navbar  toggle*/
-
-
-     .nav li a {
-          display: block;
-          text-decoration: none;
-          color: white;
-          padding: 1rem;
-     }
-
-     .nav li:hover {
-          background-color: #555;
-     }
-
      .fa-bars {
           display: flex;
      }
@@ -28,19 +13,31 @@
           display: block;
      }
 
+     .nav li a {
+          display: block;
+          text-decoration: none;
+          color: white;
+          padding: 1rem;
+     }
+
+     .nav li:hover {
+          background-color: #555;
+     }
+
      .nav ul {
           display: block;
           width: 280px;
      }
 
      .nav ul li {
-          padding: 1em; 
-          text-align: center;
+          padding: 1em;
+     }
+
+     .nav1 ul li a {
+          text-align: left;
      }
 
      .nav2 ul {
           display: flex;
      }
-
-     /* navbar toggle */
 }
