@@ -2,4 +2,7 @@
      .fa-bars{
           display: flex;
      }
+     .nav{
+          display: none;
+     }
 }
