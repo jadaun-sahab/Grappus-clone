@@ -9,41 +9,41 @@
 /* navbar  toggle*/
 
 
-.nav li a {
-     display: block;
-     text-decoration: none;
-     color: white;
-     padding: 1rem;
-}
+     .nav li a {
+          display: block;
+          text-decoration: none;
+          color: white;
+          padding: 1rem;
+     }
 
-.nav li:hover {
-     background-color: #555;
-}
+     .nav li:hover {
+          background-color: #555;
+     }
 
-.fa-bars {
-     display: flex;
-}
+     .fa-bars {
+          display: flex;
+     }
 
-.nav {
-     height: 100%;
-     display: none;
-     width: 100%;
-}
+     .nav {
+          height: 100%;
+          display: none;
+          width: 100%;
+     }
 
-.nav.active {
-     display: flex;
-}
+     .nav.active {
+          display: flex;
+     }
 
-.nav ul {
-     display: block;
-     width: 280px;
-}
+     .nav ul {
+          display: block;
+          width: 280px;
+     }
 
-.nav ul li {
-     padding: 1em;
-     background-color: #b9b9b9;
-     text-align: center;
-}
+     .nav ul li {
+          padding: 1em;
+          background-color: #b9b9b9;
+          text-align: center;
+     }
 
 
-/* navbar toggle */
+     /* navbar toggle */
