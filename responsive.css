@@ -34,12 +34,16 @@
      .nav ul li {
           padding: 1em;
      }
-.nav1
+.nav1 ul{
+     margin-top: 3em;
+     margin-left: -4em;
+}
      .nav1 ul li a {
           text-align: left;
      }
 
      .nav2 ul {
+          ml
           margin-top: 10rem;
           display: flex;
      }
