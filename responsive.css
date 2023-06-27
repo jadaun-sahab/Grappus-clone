@@ -1,5 +1,5 @@
-@media(max-width: 830px){
-    
+@media(max-width: 830px) {
+
      /* navbar  toggle*/
 
 
@@ -38,9 +38,10 @@
           background-color: #b9b9b9;
           text-align: center;
      }
-.nav2 ul{
-     display: flex;
-}
+
+     .nav2 ul {
+          display: flex;
+     }
 
      /* navbar toggle */
 }
