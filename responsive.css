@@ -1,4 +1,7 @@
 @media(max-width: 830px) {
+     #navbar{
+          width: 100%;
+     }
      .fa-bars {
           display: flex;
      }
@@ -10,6 +13,8 @@
      }
 
      .nav.active {
+          position: absolute;
+          left: 0;
           display: block;
      }
 
