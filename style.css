@@ -113,6 +113,7 @@ a {
 }
 
 .section1child2 img {
+     
      z-index: -1;
      height: 600px;
      border-radius: 20px;
