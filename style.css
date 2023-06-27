@@ -109,6 +109,7 @@ a {
      color: #ffffff;
      padding: 1rem 12.20em;
      background-color: #00000066;
+     box-shadow: 2px 2px 20px black;
 }
 
 .section1child2 img {
