@@ -15,6 +15,7 @@ a {
 }
 
 #navbar {
+     background-color: #070707;
      top: 16px;
      position: fixed;
      left: 4em;
@@ -36,7 +37,7 @@ a {
      font-size: 1.7rem;
 }
 
-.nav{
+.nav{ 
      padding-top: 1rem;
      display: flex;
 }
