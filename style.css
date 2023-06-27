@@ -22,6 +22,7 @@ a {
      justify-content: space-between;
 }
 .logo a{
+     color: white;
      font-weight: 900;
      font-size: 2rem;
 }
@@ -46,6 +47,7 @@ a {
 }
 
 .nav2 ul li a {
+     color: white;
      padding: 0 14px;
      font-size: 1.7rem;
 }
