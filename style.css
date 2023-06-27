@@ -15,6 +15,9 @@ a {
 #navbar {
      display: flex;
 }
+.logo a{
+     
+}
 
 .nav1 ul {
      display: flex;
