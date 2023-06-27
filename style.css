@@ -89,6 +89,7 @@ a {
 }
 
 .section1child1 p {
+     font-weight: 600;
      line-height: 50px;
      width: 70%;
      margin: 0 3rem 0 6rem;
