@@ -25,6 +25,7 @@ a {
 }
 .fa-bars{
      color: white;
+     display: none;
      padding-top: 10px;
      font-size: 2rem;
 }
