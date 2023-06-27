@@ -8,9 +8,9 @@
     display: flex; 
 }
 
-.nav1{
+.nav1 ul {
 display: flex;
 }
-.nav2{
+.nav2 ul {
 display: flex;
 }
