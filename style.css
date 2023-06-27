@@ -31,6 +31,7 @@ a {
 }
 
 .nav1 ul {
+     padding-top: 6px;
      display: flex;
 }
 
