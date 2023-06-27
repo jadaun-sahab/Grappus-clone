@@ -41,7 +41,7 @@
      .nav1 ul {
           padding-bottom: 12em;
           margin-top: 3em;
-          margin-left: -5em;
+          margin-left: -3em;
      }
 
      .nav1 ul li a {
@@ -50,8 +50,7 @@
      }
 
      .nav2 ul {
-          width: 265.5px;
-          /* margin-left: -4.1em; */
+          width: 265.5px; 
           display: flex;
      }
      .nav2 ul li a {
