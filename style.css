@@ -35,6 +35,7 @@ a {
 }
 
 .nav1 ul {
+     margin-left: 3rem;
      padding-top: 6px;
      display: flex;
 }
