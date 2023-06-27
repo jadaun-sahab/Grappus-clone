@@ -10,7 +10,7 @@
           display: flex;
      }
 
-     .nav {
+     .nav { 
           height: 100%;
           display: none;
           width: 100%;
@@ -28,8 +28,10 @@
      }
 
      .nav ul {
+          background-color: #fc2c2c;
           display: block;
           width: 280px;
+          
      }
 
      .nav ul li {
@@ -37,6 +39,7 @@
      }
 
      .nav1 ul {
+          padding-bottom: 4em;
           margin-top: 3em;
           margin-left: -5em;
      }
@@ -47,8 +50,8 @@
      }
 
      .nav2 ul {
+          width: 48.1%;
           margin-left: -4.1em;
-          margin-top: 10rem;
           display: flex;
      }
      .nav2 ul li a {
