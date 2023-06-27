@@ -25,7 +25,7 @@
      }
 
      .nav.active {
-          display: flex;
+          display: block;
      }
 
      .nav ul {
@@ -38,7 +38,9 @@
           background-color: #b9b9b9;
           text-align: center;
      }
-
+.nav2 ul{
+     display: flex;
+}
 
      /* navbar toggle */
 }
