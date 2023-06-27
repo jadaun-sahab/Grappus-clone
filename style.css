@@ -104,13 +104,16 @@ a {
 .button{
      font-size: 1.5rem;
      margin-left: 13em;
-     z-index: 3990;
      background-color: #ff1818;
      color: white;
      margin-top: -2rem;
 }
+.button a{
+     
+}
 
 .section1child2 img {
+     z-index: -1;
      height: 600px;
      border-radius: 20px;
      width: 100%;
