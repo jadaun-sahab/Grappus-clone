@@ -51,7 +51,7 @@
 
      .nav2 ul {
           width: 265.5px;
-          margin-left: -4.1em;
+          /* margin-left: -4.1em; */
           display: flex;
      }
      .nav2 ul li a {
