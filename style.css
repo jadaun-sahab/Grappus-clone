@@ -103,9 +103,7 @@ a {
 
 .button{
      color: white;
-     position: relative; 
-     top: 0;
-     right: 0;
+     margin-top: -2rem;
 }
 
 .section1child2 img {
