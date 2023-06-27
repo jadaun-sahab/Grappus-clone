@@ -103,13 +103,12 @@ a {
 
 .button{
      font-size: 1.5rem;
-     margin-left: 13em;
-     color: white;
-     margin-top: 2rem;
+     margin-top: -2rem;
 }
 .button a{
-     width: 100%;
-     background-color: #bababa;
+     color: #ffffff;
+     padding: 1em 10em;
+     background-color: #000000;
 }
 
 .section1child2 img {
