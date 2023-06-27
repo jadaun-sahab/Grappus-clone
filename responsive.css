@@ -51,4 +51,9 @@
           margin-top: 10rem;
           display: flex;
      }
+     .nav2 ul li a {
+          color: white;
+          padding: 0 14px;
+          font-size: 1.7rem;
+     }
 }
