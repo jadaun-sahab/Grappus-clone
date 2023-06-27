@@ -3,7 +3,9 @@
      padding: 0;
      box-sizing: border-box;
 }
-
+body{
+     background-color: #000000;
+}
 li {
      list-style: none;
 }
@@ -15,9 +17,9 @@ a {
 #navbar {
      background-color: #000000;
      position: fixed;
-     /* left: 4em; */
+     left: 4em;
      margin: 0 auto;
-     width: 100%;
+     width: 90%;
      display: flex;
      justify-content: space-between;
 }
