@@ -105,10 +105,11 @@ a {
      font-size: 1.5rem;
      margin-left: 13em;
      color: white;
-     margin-top: -2rem;
+     margin-top: 2rem;
 }
 .button a{
-     
+     width: 100%;
+     background-color: #bababa;
 }
 
 .section1child2 img {
