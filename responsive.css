@@ -1,3 +1,5 @@
 @media(max-width: 800px){
-     
+     .fa-bars{
+          display: flex;
+     }
 }
