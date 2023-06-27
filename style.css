@@ -103,8 +103,7 @@ a {
 
 .button{
      color: white;
-     position: relative;
-     z-index: 4;
+     position: relative; 
      top: 0;
      right: 0;
 }
