@@ -26,6 +26,7 @@ a {
 }
 
 .nav{
+     padding-top: 1rem;
      display: flex;
 }
 
