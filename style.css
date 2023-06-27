@@ -102,6 +102,7 @@ a {
 }
 
 .section1child2 img {
+     height: 600px;
      border-radius: 20px;
      width: 100%;
 }
