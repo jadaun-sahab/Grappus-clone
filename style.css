@@ -70,7 +70,11 @@ a {
      display: flex;
 }
 .section1child1{
+     width: 50%;
      color: white;
+}
+.section1child2 {
+     width: 50%;
 }
 .section1child2 img{
      width: 100%;
