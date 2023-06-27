@@ -101,6 +101,11 @@ a {
      width: 50%;
 }
 
+.section1child2 button{
+     color: white;
+     position: relative;
+}
+
 .section1child2 img {
      height: 600px;
      border-radius: 20px;
