@@ -3,6 +3,9 @@
           width: 100%;
      }
      .fa-bars {
+          position: absolute;
+          right: 3rem;
+          top: 2rem;
           display: flex;
      }
 
@@ -17,10 +20,7 @@
           left: 0;
           display: block;
      }
-.nav1{
-     position: absolute;
-     left: 0;
-}
+ 
      .nav li a {
           display: block;
           text-decoration: none;
