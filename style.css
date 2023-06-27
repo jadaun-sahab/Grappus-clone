@@ -18,9 +18,8 @@ a {
      padding: 1rem 0;
      background-color: #070707;
      position: fixed;
-     left: 4em;
      margin: 0 auto;
-     width: 99%;
+     width: 100%;
      display: flex;
      justify-content: space-between;
 }
