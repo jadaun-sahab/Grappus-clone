@@ -23,6 +23,10 @@ a {
      display: flex;
      justify-content: space-between;
 }
+.fa-bars{
+     color: white;
+     font-size: 2rem;
+}
 .logo a{
      color: white;
      font-weight: 900;
