@@ -14,7 +14,7 @@ a {
 
 #navbar {
      position: fixed;
-     right: 1.6em;
+     left: 4em;
      margin: 0 auto;
      width: 90%;
      display: flex;
