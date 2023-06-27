@@ -13,10 +13,11 @@ a {
 }
 
 #navbar {
+     background-color: #000000;
      position: fixed;
      left: 4em;
      margin: 0 auto;
-     width: 90%;
+     width: 100%;
      display: flex;
      justify-content: space-between;
 }
