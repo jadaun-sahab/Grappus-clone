@@ -15,11 +15,12 @@ a {
 }
 
 #navbar {
+     padding: 1rem 0;
      background-color: #070707;
      position: fixed;
      left: 4em;
      margin: 0 auto;
-     width: 90%;
+     width: 99%;
      display: flex;
      justify-content: space-between;
 }
