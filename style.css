@@ -69,3 +69,6 @@ a {
 #section1{
      display: flex;
 }
+.section1child2 img{
+     width: 100%;
+}
