@@ -67,7 +67,7 @@ a {
 
 
 #section1{
-     padding-top: 6em;
+     /* padding-top: 6em; */
      display: flex;
 }
 .section1child1{
