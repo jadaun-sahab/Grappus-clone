@@ -17,7 +17,10 @@
           left: 0;
           display: block;
      }
-
+.nav1{
+     position: absolute;
+     left: 0;
+}
      .nav li a {
           display: block;
           text-decoration: none;
