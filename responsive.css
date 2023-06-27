@@ -1,7 +1,8 @@
 @media(max-width: 830px) {
-     #navbar{
+     #navbar {
           width: 100%;
      }
+
      .fa-bars {
           position: absolute;
           right: 5rem;
@@ -20,7 +21,7 @@
           left: 0;
           display: block;
      }
- 
+
      .nav li a {
           display: block;
           padding: 1rem;
@@ -34,10 +35,12 @@
      .nav ul li {
           padding: 1em;
      }
-.nav1 ul{
-     margin-top: 3em;
-     margin-left: -5em;
-}
+
+     .nav1 ul {
+          margin-top: 3em;
+          margin-left: -5em;
+     }
+
      .nav1 ul li a {
           text-align: left;
      }
