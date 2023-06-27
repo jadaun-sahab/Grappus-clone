@@ -13,6 +13,7 @@ a {
 }
 
 #navbar {
+     position: fixed;
      margin: 0 auto;
      width: 90%;
      display: flex;
