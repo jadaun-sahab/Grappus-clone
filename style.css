@@ -82,14 +82,14 @@ a {
      width: 100%;
      background-color: #000000;
      animation-name: js;
-     animation-duration: 999999999999s;
+     animation-duration: 9999999999999s;
      animation-iteration-count: 1;
 }
 
 @keyframes js {
      0% {
           display: block;
-          text-shadow: 1px 1px 1rem rgb(0, 255, 179);
+          text-shadow: 1px 1px 1rem rgb(80, 229, 255);
      }
      0.0000000001%{
           display: none;
