@@ -89,6 +89,9 @@ a {
      font-size: 13em;
 }
 #banner h3{
+     position: absolute;
+     top: 30%;
+     left: 25%;
      color: white;
 }
 
