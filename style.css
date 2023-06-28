@@ -82,7 +82,7 @@ a {
      width: 100%;
      background-color: #000000;
      animation-name: banner;
-     animation-duration: 9999999999999s;
+     animation-duration: 9999999999999999999s;
      animation-iteration-count: 1;
 }
 
@@ -92,12 +92,12 @@ a {
           text-shadow: 1px 1px 1rem rgb(255, 255, 255);
      }
 
-     0.0000000001% {
-          z-index: -10000;
+     0.0000000000000001% {
+          opacity: 0;
      }
 
-     0.0000000001% {
-          opacity: 0;
+     0.0000000000000001% {
+          z-index: -10000;
      }
 
      100% {
