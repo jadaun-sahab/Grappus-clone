@@ -82,7 +82,7 @@ a {
      width: 100%;
      background-color: #000000;
      animation-name: js;
-     animation-duration: 9999999s;
+     animation-duration: 999999999999s;
      animation-iteration-count: 1;
 }
 
@@ -91,7 +91,7 @@ a {
           display: block;
           text-shadow: 1px 1px 1rem rgb(0, 255, 179);
      }
-     0.001%{
+     0.0000000001%{
           display: none;
           z-index: -10000;
           opacity: 0.0;
