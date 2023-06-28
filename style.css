@@ -82,7 +82,11 @@ a {
      top: 50%;
      left: 50%;
 }
-#banner h1,h3{
+#banner h1{
+     color: white;
+     font-size: 8em;
+}
+#banner h3{
      color: white;
 }
 
