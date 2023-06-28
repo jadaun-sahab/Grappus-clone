@@ -219,6 +219,7 @@ a {
      text-align: center;
 }
 #section2 h1{
+     font-family: 'Raleway', sans-serif;
      margin: 0 auto;
      width: 50%;
      color: white;
@@ -226,6 +227,7 @@ a {
 }
 
 #section2 p{
+     font-family: 'Raleway', sans-serif;
      color: rgb(147, 143, 143);
      font-size: 1.2em;
      text-align: center;
