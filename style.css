@@ -179,6 +179,7 @@ a {
 }
 
 .section1child1 p {
+     font-family: 'Raleway', sans-serif;
      line-height: 50px;
      width: 70%;
      margin: 0 3rem 0 6rem;
