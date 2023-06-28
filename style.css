@@ -81,8 +81,8 @@ a {
      width: 100%;
      background-color: #000000;
      animation-name: js;
-     animation-duration: 6s;
-     animation-iteration-count: infinite;
+     animation-duration: 3s;
+     animation-iteration-count: 1;
 }
 
 @keyframes js {
