@@ -91,12 +91,15 @@ a {
           display: block;
           text-shadow: 1px 1px 1rem rgb(255, 255, 255);
      }
-     0.0000000001%{
+
+     0.0000000001% {
           z-index: -10000;
      }
-     0.0000000001%{
+
+     0.0000000001% {
           opacity: 0;
      }
+
      100% {
           visibility: hidden;
           text-shadow: 1px 1px 1rem rgb(36, 240, 255);
@@ -115,12 +118,12 @@ a {
      animation-duration: 3s;
      animation-iteration-count: 1;
 }
+
 @keyframes bannerheading {
      0% {
-         font-size: 8rem;
+          font-size: 8rem;
      }
-      
-      
+
      100% {
           font-size: 13rem;
      }
