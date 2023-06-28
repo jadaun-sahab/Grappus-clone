@@ -217,10 +217,11 @@ a {
      text-align: center;
 }
 #section2 h1{
-     text-align: center;
+    font-size: 3em;
 }
 
 #section2 p{
+     font-size: 2em;
      text-align: center;
 }
 
