@@ -167,6 +167,7 @@ a {
 }
 
 .button a {
+     cursor: pointer;
      color: #ffffff;
      padding: 1rem 11em;
      background-color: #00000066;
@@ -175,7 +176,7 @@ a {
 
 .section1child2 img {
 
-     z-index: -1;
+     /* z-index:01; */
      height: 600px;
      border-radius: 20px;
      width: 100%;
