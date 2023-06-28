@@ -93,7 +93,7 @@ a {
      }
      0.0000000001%{
           display: none;
-          z-index: -10000;
+          /* z-index: -10000; */
           opacity: 0.0;
      }
 
