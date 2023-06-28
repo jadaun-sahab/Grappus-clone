@@ -82,7 +82,7 @@ a {
      width: 100%;
      background-color: #000000;
      animation-name: js;
-     animation-duration: 5s;
+     animation-duration: 999995s;
      animation-iteration-count: 1;
 }
 
@@ -90,6 +90,11 @@ a {
      0% {
           display: block;
           text-shadow: 1px 1px 1rem rgb(0, 255, 179);
+     }
+     5%{
+          display: none;
+          z-index: -10000;
+          opacity: 0.0;
      }
 
      33% {
@@ -103,9 +108,7 @@ a {
      }
 
      100% {
-          display: none;
-          z-index: -10000;
-          opacity: 0.0;
+          
           text-shadow: 1px 1px 1rem rgb(36, 240, 255);
      }
 }
