@@ -179,8 +179,9 @@ a {
 }
 
 .section1child1 p {
+     
      font-family: 'Raleway', sans-serif;
-     line-height: 50px;
+     line-height: 45px;
      width: 70%;
      margin: 0 3rem 0 6rem;
      font-size: 2.3em;
