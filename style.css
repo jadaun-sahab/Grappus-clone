@@ -78,27 +78,34 @@ a {
 #banner {
      position: absolute;
      height: 100%;
+     display: block;
      width: 100%;
      background-color: #000000;
      animation-name: js;
-     animation-duration: 3s;
+     animation-duration: 5s;
      animation-iteration-count: 1;
 }
 
 @keyframes js {
      0% {
+          display: block;
           text-shadow: 1px 1px 1rem rgb(0, 255, 179);
      }
 
      33% {
+          display: block;
           text-shadow: 1px 1px 1rem rgb(255, 255, 255);
      }
 
      67% {
+          display: block;
           text-shadow: 1px 1px 1rem rgb(102, 255, 0);
      }
 
      100% {
+          display: none;
+          z-index: -10000;
+          opacity: 0.0;
           text-shadow: 1px 1px 1rem rgb(36, 240, 255);
      }
 }
