@@ -105,9 +105,7 @@ a {
 }
 
 #banner h1 {
-     position: absolute;
-     top: 25%; 
-     /* left: 25%; */ 
+     margin-top: 3em;
      color: white;
      font-size: 13em;
      display: flex;
