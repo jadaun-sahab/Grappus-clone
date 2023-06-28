@@ -82,6 +82,9 @@ a {
      background-color: #e93a3a;
 }
 #banner h1{
+     position: absolute;
+     top: 30%;
+     left: 25%;
      color: white;
      font-size: 13em;
 }
