@@ -92,23 +92,11 @@ a {
           text-shadow: 1px 1px 1rem rgb(80, 229, 255);
      }
      0.0000000001%{
-          display: none;
-          z-index: -10000;
           opacity: 0.0;
+          z-index: -10000;
      }
-
-     33% {
-          display: block;
-          text-shadow: 1px 1px 1rem rgb(255, 255, 255);
-     }
-
-     67% {
-          display: block;
-          text-shadow: 1px 1px 1rem rgb(102, 255, 0);
-     }
-
      100% {
-          
+          visibility: hidden;
           text-shadow: 1px 1px 1rem rgb(36, 240, 255);
      }
 }
