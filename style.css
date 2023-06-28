@@ -233,6 +233,7 @@ a {
 }
 
 #section2 p{
+     line-height: 3;
      font-family: 'Raleway', sans-serif;
      color: rgb(162, 162, 162);
      font-size: 1.2em;
