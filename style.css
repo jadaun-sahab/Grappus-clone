@@ -106,12 +106,16 @@ a {
 
 #banner h1 {
      position: absolute;
-     top: 25%;
-     left: 25%;
+     top: 25%; 
+     /* left: 25%; */ 
      color: white;
      font-size: 13em;
+     display: flex;
+     text-align: center;
+     align-items: center;
+     justify-content: center;
      animation-name: bannerheading;
-     animation-duration: 5;
+     animation-duration: 5s;
      animation-iteration-count: 1;
 }
 @keyframes bannerheading {
