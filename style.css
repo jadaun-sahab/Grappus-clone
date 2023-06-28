@@ -140,6 +140,21 @@ a {
      left: 48%;
      color: white;
 }
+@keyframes bannerheading {
+     0% {
+          font-size: 8rem;
+     }
+
+     80% {
+          opacity: 0;
+          z-index: -11;
+          font-size: 13rem;
+     }
+     100% {
+          opacity: 0;
+          font-size: 13rem;
+     }
+}
 
 /* ---------------------------------------------Banner--------------------------------------------- */
 
