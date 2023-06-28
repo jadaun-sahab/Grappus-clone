@@ -202,7 +202,7 @@ a {
 }
 
 .section1child2 img {
-     object-fit: cover;
+     object-fit: contain;
      height: 600px;
      border-radius: 20px;
      width: 100%;
