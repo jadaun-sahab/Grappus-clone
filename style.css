@@ -116,13 +116,14 @@ a {
 }
 @keyframes bannerheading {
      0% {
-          display: block;
-          text-shadow: 1px 1px 1rem rgb(255, 255, 255);
+         font-size: 8rem;
      }
+     50% {
+          font-size: 13rem;
+      }
       
      100% {
-          visibility: hidden;
-          text-shadow: 1px 1px 1rem rgb(36, 240, 255);
+          font-size: 8rem;
      }
 }
 
