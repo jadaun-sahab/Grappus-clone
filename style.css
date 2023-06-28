@@ -131,7 +131,7 @@ a {
 }
 
 #banner h3 {
-     animation-name: bannerheading;
+     animation-name: bannerheading2;
      animation-duration: 8s;
      animation-iteration-count: 1;
      font-size: 1.5rem;
@@ -140,19 +140,19 @@ a {
      left: 48%;
      color: white;
 }
-@keyframes bannerheading {
+@keyframes bannerheading2 {
      0% {
-          font-size: 8rem;
+           
      }
 
      80% {
           opacity: 0;
           z-index: -11;
-          font-size: 13rem;
+           
      }
      100% {
           opacity: 0;
-          font-size: 13rem;
+           
      }
 }
 
