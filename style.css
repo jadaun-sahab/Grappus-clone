@@ -75,20 +75,43 @@ a {
 /* ---------------------------------------------Banner--------------------------------------------- */
 
 
-#banner{
+#banner {
      position: absolute;
      height: 100%;
      width: 100%;
      background-color: #000000;
+     animation-name: js;
+     animation-duration: 6s;
+     animation-iteration-count: infinite;
 }
-#banner h1{
+
+@keyframes js {
+     0% {
+          text-shadow: 1px 1px 1rem rgb(0, 255, 179);
+     }
+
+     33% {
+          text-shadow: 1px 1px 1rem rgb(255, 255, 255);
+     }
+
+     67% {
+          text-shadow: 1px 1px 1rem rgb(102, 255, 0);
+     }
+
+     100% {
+          text-shadow: 1px 1px 1rem rgb(36, 240, 255);
+     }
+}
+
+#banner h1 {
      position: absolute;
      top: 25%;
      left: 25%;
      color: white;
      font-size: 13em;
 }
-#banner h3{
+
+#banner h3 {
      font-size: 1.5rem;
      position: absolute;
      top: 89%;
@@ -128,11 +151,12 @@ a {
      width: 50%;
 }
 
-.button{
+.button {
      font-size: 1.5rem;
      margin-top: -2.8rem;
 }
-.button a{
+
+.button a {
      color: #ffffff;
      padding: 1rem 11em;
      background-color: #00000066;
@@ -140,7 +164,7 @@ a {
 }
 
 .section1child2 img {
-     
+
      z-index: -1;
      height: 600px;
      border-radius: 20px;
