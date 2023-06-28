@@ -170,6 +170,7 @@ a {
 }
 
 .section1child1 h1 {
+     font-family: 'Raleway', sans-serif;
      color: #898989;
      line-height: 90px;
      width: 75%;
