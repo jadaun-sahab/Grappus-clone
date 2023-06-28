@@ -93,10 +93,7 @@ a {
 
      0.0000000000000001% {
           opacity: 0;
-     }
-
-     0.0000000000000001% {
-          z-index: -10000;
+          z-index: -199999;
      }
 
      100% {
@@ -113,7 +110,7 @@ a {
      align-items: center;
      justify-content: center;
      animation-name: bannerheading;
-     animation-duration: 5s;
+     animation-duration: 6s;
      animation-iteration-count: 1;
 }
 
@@ -122,6 +119,11 @@ a {
           font-size: 8rem;
      }
 
+     80% {
+          opacity: 0;
+          z-index: -11;
+          font-size: 13rem;
+     }
      100% {
           opacity: 0;
           font-size: 13rem;
