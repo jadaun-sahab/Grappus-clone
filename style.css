@@ -92,8 +92,11 @@ a {
           text-shadow: 1px 1px 1rem rgb(80, 229, 255);
      }
      0.0000000001%{
+          
+          /* z-index: -10000; */
+     }
+     0.0000000001%{
           opacity: 0.0;
-          z-index: -10000;
      }
      100% {
           visibility: hidden;
