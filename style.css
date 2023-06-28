@@ -78,9 +78,11 @@ a {
 #banner{
      position: absolute;
      height: 700px;
-     width: 1500px;
+     width: 100%;
+     top: 50%;
+     left: 50%;
 }
-#banner h1{
+#banner h1,h3{
      color: white;
 }
 
