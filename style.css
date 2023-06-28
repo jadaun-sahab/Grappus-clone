@@ -119,13 +119,7 @@ a {
           display: block;
           text-shadow: 1px 1px 1rem rgb(255, 255, 255);
      }
-     0.0000000001%{
-          
-          /* z-index: -10000; */
-     }
-     0.0000000001%{
-          opacity: 0.0;
-     }
+      
      100% {
           visibility: hidden;
           text-shadow: 1px 1px 1rem rgb(36, 240, 255);
