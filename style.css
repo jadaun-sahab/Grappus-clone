@@ -110,7 +110,7 @@ a {
      align-items: center;
      justify-content: center;
      animation-name: bannerheading;
-     animation-duration: 6s;
+     animation-duration: 8s;
      animation-iteration-count: 1;
 }
 
@@ -131,6 +131,9 @@ a {
 }
 
 #banner h3 {
+     animation-name: bannerheading;
+     animation-duration: 8s;
+     animation-iteration-count: 1;
      font-size: 1.5rem;
      position: absolute;
      top: 89%;
