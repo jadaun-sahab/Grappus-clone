@@ -111,7 +111,7 @@ a {
      color: white;
      font-size: 13em;
      animation-name: bannerheading;
-     animation-duration: 9999999999999s;
+     animation-duration: 5;
      animation-iteration-count: 1;
 }
 @keyframes bannerheading {
