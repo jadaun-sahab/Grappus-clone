@@ -89,20 +89,18 @@ a {
 @keyframes banner {
      0% {
           display: block;
-          text-shadow: 1px 1px 1rem rgb(255, 255, 255);
      }
 
      0.0000000000000001% {
           opacity: 0;
      }
 
-     0.000000000000001% {
+     0.0000000000000001% {
           z-index: -10000;
      }
 
      100% {
           visibility: hidden;
-          text-shadow: 1px 1px 1rem rgb(36, 240, 255);
      }
 }
 
@@ -125,6 +123,7 @@ a {
      }
 
      100% {
+          opacity: 0;
           font-size: 13rem;
      }
 }
