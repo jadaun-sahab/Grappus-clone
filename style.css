@@ -217,7 +217,8 @@ a {
      text-align: center;
 }
 #section2 h1{
-     width: 70%;
+     margin: 0 auto;
+     width: 60%;
      color: white;
     font-size: 3em;
 }
