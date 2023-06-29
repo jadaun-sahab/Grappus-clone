@@ -275,10 +275,13 @@ display: block;
      align-items: center;
      height: 140px;
      width: 140px;
-     background-color: #fff;
+     background-color: #373737;
      margin: 5px 2.5px;
      border-radius: 20px;
      font-size: 1rem;
+}
+.block img{
+     width: 100%;
 }
 
 
