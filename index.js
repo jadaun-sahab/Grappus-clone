@@ -40,4 +40,4 @@ let prev = document.getElementById('previous');
     if (i < arr.length - 1) i++;
     else i = 0;
   }
-  setInterval(slides, 3500);
+  setInterval(slides, 500);
