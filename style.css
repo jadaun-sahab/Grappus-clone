@@ -303,10 +303,10 @@ display: block;
           background: linear-gradient(50deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
      20%{
-          background: linear-gradient(50deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+          background: linear-gradient(80deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
-     10%{
-          background: linear-gradient(50deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     30%{
+          background: linear-gradient(110deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
      10%{
           background: linear-gradient(50deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
