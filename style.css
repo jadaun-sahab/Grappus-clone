@@ -257,7 +257,7 @@ a {
 }
 
 .twosection {
-     margin-top: 20px;
+     margin-top: 40px;
      display: block;
 }
 
@@ -265,7 +265,7 @@ a {
      display: block;
 }
 .block{
-     height: 150px;
+     height: 140px;
      width: 150px;
      background-color: #fff;
      margin: 5px;
