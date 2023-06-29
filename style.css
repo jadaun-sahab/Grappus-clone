@@ -317,10 +317,15 @@ display: block;
      60%{
           background: linear-gradient(200deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
+     70%{
+          background: linear-gradient(200deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     }
 
-     80% {
-          opacity: 0;
-          z-index: -11;
+     60%{
+          background: linear-gradient(200deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     }
+     60%{
+          background: linear-gradient(200deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
 
      100% {
