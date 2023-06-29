@@ -296,7 +296,7 @@ display: block;
      margin:  auto;
      align-items: center;
      display: flex;
-     width: 99px;
+     width: 100%;
 }
 
 
