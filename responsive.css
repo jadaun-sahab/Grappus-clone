@@ -122,6 +122,7 @@
      }
      .button a {
           text-align: center;
+          color: black;
           padding: 1rem;
           background-color: #ffffff;
      }
