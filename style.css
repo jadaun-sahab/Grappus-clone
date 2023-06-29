@@ -42,7 +42,7 @@ a {
 }
 
 .nav {
-     padding-top:  10px;
+     padding-top: 10px;
      display: flex;
 }
 
@@ -125,6 +125,7 @@ a {
           z-index: -11;
           font-size: 13rem;
      }
+
      100% {
           opacity: 0;
           font-size: 13rem;
@@ -141,15 +142,15 @@ a {
      left: 48%;
      color: white;
 }
+
 @keyframes bannerheading2 {
-     0% {
-           
-     }
+     0% {}
 
      80% {
           opacity: 0;
           z-index: -11;
      }
+
      100% {
           opacity: 0;
      }
@@ -193,16 +194,16 @@ a {
      width: 50%;
 }
 
-.button { 
+.button {
      width: 100%;
      font-size: 1.5rem;
-     margin-top: -2.8rem; 
+     margin-top: -2.8rem;
 }
 
 .button a {
      width: 100%;
      cursor: pointer;
-     color: #ffffff; 
+     color: #ffffff;
      padding: 1rem 10em;
      background-color: #04040466;
      box-shadow: 2px 2px 20px black;
@@ -221,21 +222,22 @@ a {
 
 /* ---------------------------------------------SECTION-2--------------------------------------------- */
 
-#section2{
+#section2 {
      padding: 6em 0;
      text-align: center;
 }
-#section2 h1{
-     font-weight:bolder;
+
+#section2 h1 {
+     font-weight: bolder;
      font-family: 'Raleway', sans-serif;
      margin: 0 auto;
      width: 50%;
      color: white;
-    font-size: 3.5em;
-    line-height: 1;
+     font-size: 3.5em;
+     line-height: 1;
 }
 
-#section2 p{
+#section2 p {
      line-height: 3;
      font-family: 'Raleway', sans-serif;
      color: rgb(162, 162, 162);
@@ -250,12 +252,16 @@ a {
 /* ---------------------------------------------SECTION-3--------------------------------------------- */
 
 
-.section3{
+.section3 {
      display: flex;
 }
 
-.threesection{
+.twosection {
+     display: block;
+}
 
+.threesection {
+     display: block;
 }
 
 
