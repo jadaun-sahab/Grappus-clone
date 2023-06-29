@@ -272,7 +272,7 @@ display: block;
      align-items: center;
      height: 140px;
      width: 140px; 
-     background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     background: linear-gradient(140deg,rgba(235, 233, 233, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      margin: 5px 2.5px;
      border-radius: 20px;
      font-size: 1rem;
@@ -281,13 +281,13 @@ display: block;
      animation-iteration-count: infinite;
 }
 @keyframes blocks2 {
-     0% {
-          background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     /* 0% {
+          background: linear-gradient(140deg,rgba(236, 232, 232, 0.497),rgba(153, 151, 151, 0.481),rgba(0, 0, 0, 0.437));
      }
       
      100%{
           background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
-     }
+     } */
 }
 
 .threesection {
