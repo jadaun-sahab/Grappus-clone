@@ -102,4 +102,10 @@
      #section1{
           display: block;
      }
+     .section1child2 img {
+          object-fit: cover;
+          height: 600px;
+          border-radius: 20px;
+          width: 100%;
+     }
 }
