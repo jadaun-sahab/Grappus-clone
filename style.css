@@ -314,8 +314,8 @@ display: block;
      50%{
           background: linear-gradient(170deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
-     10%{
-          background: linear-gradient(50deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     60%{
+          background: linear-gradient(200deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
 
      80% {
