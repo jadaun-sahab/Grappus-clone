@@ -320,3 +320,6 @@ display: block;
 .section4{
      display: flex;
 }
+.scetion4child1 img{
+     width: 300px;
+}
