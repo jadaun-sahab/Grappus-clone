@@ -287,7 +287,7 @@ display: block;
      align-items: center;
      height: 140px;
      width: 140px; 
-     background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+     background: linear-gradient(190deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      margin: 5px 2.5px;
      border-radius: 20px;
      font-size: 1rem;
