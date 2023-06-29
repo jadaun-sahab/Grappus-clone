@@ -199,6 +199,7 @@ a {
 }
 
 .button a {
+     width: 100%;
      cursor: pointer;
      color: #ffffff;
      /* padding: 1rem 11em; */
