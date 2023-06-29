@@ -266,10 +266,22 @@ display: block;
      display: block;
 }
 
+.twosection >.block{
+     justify-content:center;
+     text-align: center;
+     align-items: center;
+     height: 140px;
+     width: 140px;
+     background-color: #373737;
+     margin: 5px 2.5px;
+     border-radius: 20px;
+     font-size: 1rem;
+}
+
 .threesection {
      display: block;
 }
-.block{
+.threesection  >.block{
      justify-content:center;
      text-align: center;
      align-items: center;
