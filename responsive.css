@@ -99,4 +99,7 @@
           width: 90%;
           font-size: 2.5em; 
      }
+     #section1{
+          display: block;
+     }
 }
