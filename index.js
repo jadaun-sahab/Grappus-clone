@@ -9,19 +9,13 @@ toggleButton.addEventListener('click', () => {
 
 
 
-
-let prev = document.getElementById('previous');
-    let next = document.getElementById('next');
+ 
 
     let arr = ["images/grab.svg", "images/oyo.svg", "images/vk.svg",
     "images/sita.png", "images/uber.svg"];
    
     let i = 0;
-
-   
-   
-   
-
+ 
   function slides() {
     document.getElementById("image").src = arr[i];
 
