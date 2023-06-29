@@ -65,3 +65,12 @@
           padding: 0px;
      }
 }
+@media(max-width: 1100px) {
+     #section2 h1 {
+          font-weight: bolder;
+          margin: 0 auto;
+          width: 80%;
+          font-size: 3.5em;
+          line-height: 1;
+     }
+}
