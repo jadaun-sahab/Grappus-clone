@@ -329,7 +329,7 @@ a {
 }
 
 .scetion4child1 {
-     width: 45%;
+     width: 40%;
      margin: 0 auto;
      display: block;
 }
@@ -348,11 +348,11 @@ a {
 }
 
 .scetion4child2 {
-     width: 55%;
+     width: 60%;
 }
 
 .scetion4child2>.spell>ol {
-     color: white;
+     color: rgb(173, 171, 171);
      font-weight: bold;
      font-size: 4em;
      line-height: 1.6;
