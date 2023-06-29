@@ -1,3 +1,16 @@
+
+@media(max-width: 1480px) {
+     
+     .button a {
+          width: 100%;
+          cursor: pointer;
+          color: #ffffff; 
+          padding: 1rem 8em;
+          background-color: #04040466;
+          box-shadow: 2px 2px 20px black;
+     }
+}
+
 @media(max-width: 1100px) {
      #section2 h1 {
           width: 80%;
