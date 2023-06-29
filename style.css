@@ -321,5 +321,6 @@ display: block;
      display: flex;
 }
 .scetion4child1 img{
-     width: 300px;
+     width: 500px;
+     height: 500px;
 }
