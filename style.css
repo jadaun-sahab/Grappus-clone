@@ -271,6 +271,7 @@ display: block;
 }
 .block{
      justify-content: center;
+     text-align: center;
      align-items: center;
      height: 140px;
      width: 140px;
