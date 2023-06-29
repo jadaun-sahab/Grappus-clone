@@ -310,11 +310,11 @@ display: block;
 }
 @keyframes blocks {
      0% {
-          background: linear-gradient(20deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+          background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
       
      100%{
-          background: linear-gradient(360deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
+          background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
 }
 .block img{
