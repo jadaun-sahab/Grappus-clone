@@ -295,7 +295,7 @@ display: block;
      animation-duration: 3s;
      animation-iteration-count: infinite;
 }
-@keyframes block {
+@keyframes blocks {
      0% {
           background: linear-gradient(20deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
      }
