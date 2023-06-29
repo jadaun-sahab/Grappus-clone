@@ -251,6 +251,11 @@ a {
 
 /* ---------------------------------------------SECTION-3--------------------------------------------- */
 
+#section3{
+margin: 0 auto;
+width: 80%;
+display: block;
+}
 
 .section3 {
      display: flex;
