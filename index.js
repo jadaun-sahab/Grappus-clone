@@ -13,8 +13,8 @@ toggleButton.addEventListener('click', () => {
 let prev = document.getElementById('previous');
     let next = document.getElementById('next');
 
-    let arr = ["images/img1.jpg", "images/img4.jpg", "images/img5.jpg",
-    "images/img6.jpg", "images/img7.jpg"];
+    let arr = ["images/grab.svg", "images/oyo.svg", "images/vk.svg",
+    "images/sita.png", "images/uber.svg"];
    
     let i = 0;
 
