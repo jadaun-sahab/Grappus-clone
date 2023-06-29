@@ -294,7 +294,7 @@ display: block;
      animation-name: blocks;
      animation-duration: 3s;
      animation-iteration-count: infinite;
-     animation: .2s;
+      
 }
 @keyframes blocks {
      0% {
