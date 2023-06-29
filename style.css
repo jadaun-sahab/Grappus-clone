@@ -342,7 +342,8 @@ a {
 
 .scetion4child1 p {
      width: 60%;
-     color: white;
+     font-family: 'Raleway', sans-serif;
+     color: rgb(216, 215, 215);
 }
 
 .scetion4child1 img {
