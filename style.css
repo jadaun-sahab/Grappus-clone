@@ -281,6 +281,8 @@ display: block;
      font-size: 1rem;
 }
 .block img{
+     align-items: center;
+     display: flex;
      width: 99px;
 }
 
