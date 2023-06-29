@@ -194,9 +194,11 @@ a {
 }
 
 .button {
+     z-index: 2;
      width: 100%;
      font-size: 1.5rem;
      margin-top: -2.8rem;
+     background-color: #e1262666;
 }
 
 .button a {
