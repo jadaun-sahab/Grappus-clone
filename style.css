@@ -323,6 +323,7 @@ display: block;
 .scetion4child1{
      width: 45%;
      margin: 0 auto;
+     display: block;
 }
 .scetion4child1 h1{
 color: white;
@@ -335,7 +336,7 @@ color: white;
      height: 350px;
 }
 .scetion4child2{
-     width: 50%;
+     width: 55%;
 }
 .scetion4child2 > .spell >ol{
      color: white;
