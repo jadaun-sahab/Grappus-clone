@@ -326,5 +326,6 @@ display: block;
 }
 .scetion4child2 > .spell >ol{
      color: white;
+     font-weight: bold;
      font-size: 3rem;
 }
