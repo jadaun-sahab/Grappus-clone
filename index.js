@@ -18,21 +18,9 @@ let prev = document.getElementById('previous');
    
     let i = 0;
 
-    next.addEventListener('click', function () {
-        i++;
-        if (i > arr.length - 1) {
-            i = 0;
-        }
-        document.getElementById('image').src = arr[i];
-    })
    
-    prev.addEventListener('click', function () {
-        i--;
-        if (i < 0) {
-            i = arr.length - 1;
-        }
-        document.getElementById('image').src = arr[i];
-    })
+   
+   
 
   function slides() {
     document.getElementById("image").src = arr[i];
