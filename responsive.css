@@ -110,6 +110,13 @@
           font-size: 1.5rem;
           margin-top: 2.8rem; 
      }
+     .section1child2 {
+          width: 100%;
+     }
+     .button {
+          text-align: center;
+     width: 100%;
+     }
      .button a {
           text-align: center;
           padding: 1rem;
