@@ -2,6 +2,14 @@
      #section2 h1 {
           width: 80%;
      }
+     .button a {
+          width: 100%;
+          cursor: pointer;
+          color: #ffffff; 
+          padding: 1rem 6em;
+          background-color: #04040466;
+          box-shadow: 2px 2px 20px black;
+     }
 }
 
 @media(max-width: 830px) {
