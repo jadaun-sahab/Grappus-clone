@@ -193,6 +193,7 @@ a {
 }
 
 .button {
+     width: 100%;
      font-size: 1.5rem;
      margin-top: -2.8rem;
 }
@@ -200,7 +201,7 @@ a {
 .button a {
      cursor: pointer;
      color: #ffffff;
-     padding: 1rem 11em;
+     /* padding: 1rem 11em; */
      background-color: #e1262666;
      box-shadow: 2px 2px 20px black;
 }
