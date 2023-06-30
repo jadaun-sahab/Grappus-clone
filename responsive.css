@@ -337,8 +337,7 @@
      }
      #name,
      #email,
-     #number  {
-          font-size: 1.1rem;
+     #number  { 
           padding: 17px 140px 17px 17px;
           margin: 12px 0;
      }
