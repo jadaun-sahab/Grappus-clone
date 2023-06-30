@@ -1,5 +1,4 @@
 @media(max-width: 1480px) {
-
      .button a {
           width: 100%;
           cursor: pointer;
@@ -8,9 +7,20 @@
           background-color: #04040466;
           box-shadow: 2px 2px 20px black;
      }
+     #section3 {
+          margin: 2em auto 8em auto;
+          width: 65%;
+          display: block;
+     }
 }
 
-@media (max-width: 1250px) {}
+@media (max-width: 1250px) {
+     #section3 {
+          margin: 2em auto 8em auto;
+          width: 65%;
+          display: block;
+     }
+}
 
 @media(max-width: 1100px) {
      #section2 h1 {
