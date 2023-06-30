@@ -280,6 +280,9 @@ a {
      animation-duration: 3s;
      animation-iteration-count: infinite;
 }
+/* .twosection>.block :nth-child(2n+1){
+     background: linear-gradient(140deg, rgba(235, 233, 233, 0.497), rgba(255, 255, 255, 0.481), rgba(0, 0, 0, 0.437));
+} */
 
 @keyframes blocks2 {
      /* 0% {
