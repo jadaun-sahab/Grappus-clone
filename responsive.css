@@ -136,7 +136,11 @@
      }
      .scetion4child1 {
           width: 90%;
-         
+     }
+     .scetion4child2 {
+          width: 43.8%;
+          margin: 0 auto;
+          display: block;
      }
      
 }
