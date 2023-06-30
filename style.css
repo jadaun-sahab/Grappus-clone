@@ -436,6 +436,9 @@ a {
      border-radius: 20px;
      background-color: #1e1e1e;
 }
+.section10 form{
+     display: flex;
+}
 
 .section10 h1{
      font-size: 2.5rem;
@@ -450,7 +453,7 @@ a {
      font-family: 'Raleway', sans-serif;
      color: rgb(192, 192, 192);
 }
-.section10child1{
+.section10 form .section10child1{
      display: block;
 }
 .section10child2{
