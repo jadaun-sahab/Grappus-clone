@@ -411,13 +411,13 @@
      #email,
      #number  {
           font-size: 1.1rem;
-          padding: 17px 100px 17px 17px;
+          padding: 17px 50px 17px 17px;
           margin: 12px 0;
      }
      
      #textarea {
           padding: 17px 200px 17px 17px;
-          width: 280px;
+          width: 275px;
           height: 200px;
           font-size: 1.1rem;
      }
