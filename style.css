@@ -435,7 +435,7 @@ a {
 .section10 {
      padding: 8em 2em 2em 12em;
      border-radius: 20px;
-     background-color: #151515;
+     background-color: #0f0f0f;
 }
 
 .section10 form {
@@ -464,7 +464,7 @@ a {
      font-size: 1.1rem;
      padding: 17px 38px;
      color: rgb(255, 255, 255);
-     background-color: #252525;
+     background-color: #1a1a1a;
      border-radius: 25px;
      border: none;
      margin: 12px 0;
@@ -476,7 +476,7 @@ a {
      border-radius: 30px;
      color: rgb(255, 255, 255);
      border: none;
-     background-color: #252525;
+     background-color: #1a1a1a;
 }
 
 
