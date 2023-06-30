@@ -439,10 +439,12 @@ a {
 
 .section10 h1{
      text-align: center;
-     counter-reset: white;
+     color: white;
+     font-family: 'Raleway', sans-serif;
 }
 .section10 p {
      text-align: center;
+     font-family: 'Raleway', sans-serif;
      color: white;
 }
 
