@@ -17,11 +17,12 @@
      #section3 {
           width: 80%;
      }
+
      #section10 {
           margin: 1rem auto 4em auto;
           width: 92%;
      }
-     
+
      .section10 {
           padding: 8em 2em 2em 8em;
      }
@@ -54,22 +55,29 @@
           background-color: #04040466;
           box-shadow: 2px 2px 20px black;
      }
-    
+
      .section10 {
           padding: 5em 2em 2em 2em;
      }
+
      .section10 form {
           display: grid;
           grid-template-columns: 320px 500px;
      }
-     .formbtn{ 
+
+     .formbtn {
           width: 80%;
           margin-left: 31em;
      }
 }
-@media(max-width: 900px){
 
+@media(max-width: 900px) {
+     .formbtn {
+          width: 80%;
+          margin-left: 31em;
+     }
 }
+
 @media(max-width: 950px) {
      #section3 {
           width: 98%;
