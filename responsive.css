@@ -58,6 +58,10 @@
      .section10 {
           padding: 5em 2em 2em 2em;
      }
+     .section10 form {
+          display: grid;
+          grid-template-columns: 320px 500px;
+     }
 }
 
 @media(max-width: 950px) {
