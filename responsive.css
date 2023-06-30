@@ -23,15 +23,17 @@
      #section3 {
           width: 88%;
      }
+
      .twosection .block {
           height: 120px;
           width: 120px;
      }
-     
+
      .threesection .block {
           height: 120px;
           width: 120px;
      }
+
      #section2 h1 {
           width: 80%;
      }
@@ -50,6 +52,17 @@
      #section3 {
           width: 88%;
      }
+
+     .twosection .block {
+          height: 100px;
+          width: 100px;
+     }
+
+     .threesection .block {
+          height: 100px;
+          width: 100px;
+     }
+
      .button a {
           padding: 1rem 4em;
      }
