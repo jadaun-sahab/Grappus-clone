@@ -521,7 +521,7 @@ a {
 .footerchild2 li a{
      display: flex;
      color: white;
-     padding: 0 15px;
+     padding: 10px 15px 0 15px;
      font-size: 1.4rem;
      font-family: 'Roboto', sans-serif;
 }
