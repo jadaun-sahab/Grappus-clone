@@ -186,13 +186,14 @@
      
      #name,
      #email,
-     #number {
+     #number  {
           font-size: 1.1rem;
           padding: 17px 350px 17px 17px;
           margin: 12px 0;
      }
      
      #textarea {
+          padding: 17px 350px 17px 17px;
           width: 95%;
           height: 100%;
           font-size: 1.1rem;
