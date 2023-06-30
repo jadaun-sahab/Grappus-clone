@@ -447,6 +447,10 @@ a {
      color: white;
      font-family: 'Raleway', sans-serif;
 }
+#name,#email,#number{
+     font-size: 2rem;
+     color: black;
+}
 .section10 p {
      width: 60%;
      margin: 0 auto;
