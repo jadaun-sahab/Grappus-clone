@@ -478,6 +478,9 @@ a {
      border: none;
      background-color: #1a1a1a;
 }
+.formbtn{
+     display: flex; 
+}
 
 
 /* ------------------------------------------SECTION-10-form------------------------------------------ */
