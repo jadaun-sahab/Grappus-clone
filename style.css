@@ -451,6 +451,7 @@ a {
 }
 
 .section10 p { 
+     margin-top: 10px;
      margin-bottom: 30px;
      width: 66%; 
      font-family: 'Raleway', sans-serif;
