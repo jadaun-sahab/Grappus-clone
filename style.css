@@ -453,7 +453,9 @@ a {
 .section10child1{
      display: block;
 }
-section10child1
+.section10child2{
+     display: block;
+}
 
 
 /* ------------------------------------------SECTION-10-form------------------------------------------ */
