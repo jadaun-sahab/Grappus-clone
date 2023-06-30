@@ -183,11 +183,19 @@
           font-size: 1.5rem;
           padding: 0px;
      }
-     .section10child1{
-
+     
+     #name,
+     #email,
+     #number {
+          font-size: 1.1rem;
+          padding: 17px 350px 17px 17px;
+          margin: 12px 0;
      }
-     .section10child2{
-          
+     
+     #textarea {
+          width: 95%;
+          height: 100%;
+          font-size: 1.1rem;
      }
      .section10 form {
           display: grid;
