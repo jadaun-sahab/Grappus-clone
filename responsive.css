@@ -228,6 +228,10 @@
           width: 250px;
           height: 250px;
      }
+     .scetion4child2>.spell>ol {
+          font-size: 2.6em;
+          line-height: 1.3;
+     }
 
 }
 @media(max-width:600px){
