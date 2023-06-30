@@ -271,7 +271,6 @@ a {
 }
 
 .twosection .block {
-     transition: all 0.5s;
      justify-content: center;
      text-align: center;
      align-items: center;
@@ -281,38 +280,21 @@ a {
      margin: 5px 2.5px;
      border-radius: 20px;
      font-size: 1rem;
-     animation-name: blocks;
-     animation-duration: 3s;
-     animation-iteration-count: infinite;
 }
 
 .twosection :nth-child(even) {
      background: linear-gradient(140deg, rgb(220, 211, 211), rgb(53, 54, 54));
-}
-
-.block:hover{
-     background: linear-gradient(140deg,rgb(70, 70, 70),rgb(144, 144, 144),black);
-}
-
-@keyframes blocks {
-     0% {
-          background-color: #202020;
-     }
-     50%{
-          background-color: #878585;
-     }
-
-     100% {
-          background-color: #141313;
-     }
-}
+} 
 
 .threesection {
      display: block;
 }
 
 .threesection>.block {
-     transition: all 0.5s;
+     transition-property: all;
+     transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
+     transition-delay: 1s; 
+     transition-duration: 3s;
      justify-content: center;
      text-align: center;
      align-items: center;
