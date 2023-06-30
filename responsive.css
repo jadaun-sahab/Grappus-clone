@@ -55,7 +55,15 @@
 
      .section3{
           display: grid;
-          grid-template-columns: repeat(3,1fr);
+          grid-template-columns: repeat(2,1fr);
+     }
+     .threesection{
+          display: grid;
+          grid-template-columns: repeat(1,1fr);
+     }
+     .twosection{
+          display: grid;
+          grid-template-columns: repeat(1,1fr);
      }
 
      .button a {
