@@ -285,6 +285,9 @@ a {
      background: linear-gradient(140deg, rgb(220, 211, 211), rgb(53, 54, 54));
 }
 
+.block:hover{
+     background: linear-gradient(140deg,rgb(70, 70, 70),rgb(144, 144, 144),black);
+}
 
 @keyframes blocks {
      0% {
