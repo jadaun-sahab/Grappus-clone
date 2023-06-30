@@ -432,13 +432,13 @@ a {
      width: 87%;
 }
 
-.section10 {
+.section10 { 
      border-radius: 20px;
      background-color: #1e1e1e;
 }
 .section10 form{
    display: grid;
-   grid-template-columns: 190px 100px;
+   grid-template-columns: 490px 200px;
 }
 
 .section10 h1{
