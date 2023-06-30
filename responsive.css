@@ -206,7 +206,6 @@
 @media(max-width:600px){
      .section1child1 p { 
           width: 90%; 
-          margin: 0 3rem 0 6rem;
-
+          margin: 0 3rem 0 2rem;
      }
 }
