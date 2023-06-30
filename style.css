@@ -28,6 +28,9 @@ a {
 }
 
 .fa-bars {
+     position: absolute;
+     right: 5rem;
+     top: 0px;
      color: white;
      display: none;
      padding-top: 10px;
