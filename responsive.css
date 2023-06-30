@@ -417,13 +417,13 @@
      
      #textarea {
           padding: 17px 200px 17px 17px;
-          width: 300px;
+          width: 280px;
           height: 200px;
           font-size: 1.1rem;
      }
      
      .formbtn {
           width: 80%;
-          margin-left: 5em;
+          margin-left: 3em;
      }
 }
