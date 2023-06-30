@@ -8,14 +8,14 @@
           box-shadow: 2px 2px 20px black;
      }
      #section3 {
-          width: 75%;
+          width: 70%;
      }
 }
 
 @media (max-width: 1250px) {
      #section3 {
           margin: 2em auto 8em auto;
-          width: 65%;
+          width: 80%;
           display: block;
      }
 }
