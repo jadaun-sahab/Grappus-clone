@@ -426,18 +426,21 @@ a {
 
 /* ------------------------------------------SECTION-10-form------------------------------------------ */
 
-#section10{
+#section10 {
      margin: 0 auto;
      display: block;
      width: 87%;
 }
-.section10{
+
+.section10 {
      border-radius: 20px;
      background-color: #1e1e1e;
 }
-.section10 h1,p{
-text-align: center;
-color: white;
+
+.section10 h1,
+p {
+     text-align: center;
+     color: white;
 }
 
 
