@@ -13,10 +13,8 @@
 }
 
 @media (max-width: 1250px) {
-     #section3 {
-          margin: 2em auto 8em auto;
-          width: 80%;
-          display: block;
+     #section3 { 
+          width: 80%; 
      }
 }
 
