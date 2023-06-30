@@ -437,7 +437,7 @@ a {
      background-color: #1e1e1e;
 }
 .section10 form{
-     display: flex;
+      display: block;
 }
 
 .section10 h1{
