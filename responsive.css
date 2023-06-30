@@ -136,9 +136,11 @@
      }
      .scetion4child1 {
           width: 90%;
+          margin: 0 auto;
      }
      .scetion4child2 {
          width: 90%;
+         margin: 0 auto;
      }
      
 }
