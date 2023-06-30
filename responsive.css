@@ -26,13 +26,11 @@
      .twosection .block {
           height: 120px;
           width: 120px;
-          font-size: 1rem;
      }
      
      .threesection .block {
           height: 120px;
           width: 120px;
-          font-size: 1rem;
      }
      #section2 h1 {
           width: 80%;
@@ -49,7 +47,9 @@
 }
 
 @media(max-width: 950px) {
-
+     #section3 {
+          width: 88%;
+     }
      .button a {
           padding: 1rem 4em;
      }
