@@ -271,6 +271,7 @@ a {
 }
 
 .twosection .block {
+     transition: all 0.5s;
      justify-content: center;
      text-align: center;
      align-items: center;
@@ -311,6 +312,7 @@ a {
 }
 
 .threesection>.block {
+     transition: all 0.5s;
      justify-content: center;
      text-align: center;
      align-items: center;
