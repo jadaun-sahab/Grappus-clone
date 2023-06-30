@@ -308,9 +308,10 @@ a {
      display: flex;
      width: 100%;
 }
-.block img:hover{
+.block:hover{
      font-size: 800px;
-     /* transform: translateY(800px); */
+     opacity: 0.0;
+     z-index: -10;
 }
 
 
