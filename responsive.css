@@ -224,6 +224,10 @@
           width: 90%;
           margin: 0 auto;
      }
+     .scetion4child1 img {
+          width: 250px;
+          height: 250px;
+     }
 
 }
 @media(max-width:600px){
