@@ -433,6 +433,7 @@ a {
 }
 
 .section10 {
+     padding: 2em;
      border-radius: 20px;
      background-color: #151515;
 }
@@ -442,8 +443,8 @@ a {
      grid-template-columns: 440px 600px;
 }
 
-.section10 h1 {
-     margin: 1em auto;
+.section10 h1 { 
+     line-height: 1.3;
      font-size: 2.5rem;
      text-align: center;
      color: white;
