@@ -297,6 +297,9 @@ a {
      border-radius: 20px;
      font-size: 1rem;
 }
+.blocksepration{
+     display: flex;
+}
 
 .block img {
      margin: auto;

@@ -52,6 +52,9 @@
      #section3 {
           width: 98%;
      }
+     .section3{
+          display: block;
+     }
 
      .button a {
           padding: 1rem 4em;
