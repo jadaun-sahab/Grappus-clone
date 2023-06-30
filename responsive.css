@@ -67,7 +67,9 @@
           margin-left: 31em;
      }
 }
+@media(max-width: 900px){
 
+}
 @media(max-width: 950px) {
      #section3 {
           width: 98%;
