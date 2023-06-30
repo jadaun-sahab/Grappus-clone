@@ -328,6 +328,28 @@
      .scetion4child2>.spell>ol {
           font-size: 2.2em;
      }
+     #name,
+     #email,
+     #number  {
+          font-size: 1.1rem;
+          padding: 17px 200px 17px 17px;
+          margin: 12px 0;
+     }
+     
+     #textarea {
+          padding: 17px 250px 17px 17px;
+          width: 500px;
+          height: 200px;
+          font-size: 1.1rem;
+     }
+     .section10 form {
+          display: grid;
+          grid-template-columns: 300px ;
+     }
+     .formbtn {
+          width: 80%;
+          margin-left: 11em;
+     }
 }
 
 @media(max-width:450px) {
