@@ -339,13 +339,13 @@
      #email,
      #number  {
           font-size: 1.1rem;
-          padding: 17px 150px 17px 17px;
+          padding: 17px 140px 17px 17px;
           margin: 12px 0;
      }
      
      #textarea {
           padding: 17px 250px 17px 17px;
-          width: 380px;
+          width: 370px;
           height: 200px;
           font-size: 1.1rem;
      }
