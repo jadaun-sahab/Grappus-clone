@@ -204,5 +204,9 @@
 
 }
 @media(max-width:600px){
-
+     .section1child1 p { 
+          width: 75%;
+          margin: 0 3rem 0 6rem;
+          font-size: 2.3em;
+     }
 }
