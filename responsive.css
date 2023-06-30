@@ -292,4 +292,7 @@
           font-size: 1.2em;
           text-align: center;
      }
+     .scetion4child2>.spell>ol {
+          font-size: 1.8em;  
+     }
 }
