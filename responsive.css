@@ -7,21 +7,46 @@
           background-color: #04040466;
           box-shadow: 2px 2px 20px black;
      }
+
      #section3 {
           width: 70%;
      }
 }
 
 @media (max-width: 1250px) {
-     #section3 { 
-          width: 80%; 
+     #section3 {
+          width: 80%;
      }
 }
 
 @media(max-width: 1100px) {
-     #section3 { 
-          width: 98%; 
+     #section3 {
+          width: 98%;
      }
+
+     .section3 {
+          display: block;
+     }
+
+     .twosection {
+          margin-top: 40px;
+          display: block;
+     }
+
+     .block {
+          transition: all 0.5s;
+          cursor: pointer;
+     }
+
+     .threesection {
+          display: block;
+     }
+
+
+
+
+
+
      #section2 h1 {
           width: 80%;
      }
