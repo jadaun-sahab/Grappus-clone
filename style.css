@@ -507,8 +507,15 @@ a {
      margin:  0 auto;
      width: 80%;
 }
+.footer{
+     display: flex;
+     justify-content: space-between;
+}
 .footerchild1 h1,p{
      color: white;
+}
+.footerchild2{
+     display: flex;
 }
 
 
