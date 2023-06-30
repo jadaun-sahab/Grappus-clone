@@ -280,12 +280,10 @@ a {
      animation-duration: 3s;
      animation-iteration-count: infinite;
 }
-/* .twosection :nth-child(even){
-     background: linear-gradient(140deg,  rgb(255, 167, 167),rgb(152, 239, 255));
-} */
-.threesection   :nth-child(2n+1){
-     background: linear-gradient(140deg,  rgb(255, 167, 167),rgb(152, 239, 255));
+.twosection :nth-child(even){
+     background: linear-gradient(140deg,  rgb(220, 211, 211),rgb(53, 54, 54));
 }
+ 
 
 @keyframes blocks2 {
      /* 0% {
