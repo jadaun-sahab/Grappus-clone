@@ -471,7 +471,8 @@ a {
 }
 
 #textarea {
-     padding: 20px;
+     width: 90%;
+     height: 95%;
      font-size: 1.1rem;
      border-radius: 30px;
      color: rgb(255, 255, 255);
