@@ -520,6 +520,9 @@ a {
 
 .footerchild2 li a{
      display: flex;
+     color: white;
+     padding: 0 15px;
+     font-size: 1.4rem;
 }
 
 
