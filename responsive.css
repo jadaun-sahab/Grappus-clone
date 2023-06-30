@@ -64,14 +64,7 @@
      }
      .formbtn{ 
           width: 80%;
-          margin-left: 37em;
-          font-size: 1rem;
-          font-weight: 600;
-          padding: 15px 10px;
-          background-color: #818181;
-          border-radius: 30px;
-          text-align: center;
-          align-items: center;
+          margin-left: 29em;
      }
 }
 
