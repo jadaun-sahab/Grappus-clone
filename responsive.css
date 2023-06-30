@@ -204,6 +204,11 @@
 
 }
 @media(max-width:600px){
+     .section1child1 h1 { 
+          width: 90%;
+          margin: 0 auto;
+          font-size: 2em;
+     }
      .section1child1 p { 
           width: 90%; 
           margin: 0 2rem 0 2rem;
