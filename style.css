@@ -481,6 +481,10 @@ a {
 .formbtn{
      display: flex; 
      font-size: 1rem;
+     padding: 10px;
+     background-color: #818181;
+     border-radius: 30px;
+     text-align: center;
 }
 
 
