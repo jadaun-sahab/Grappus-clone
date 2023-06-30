@@ -427,12 +427,12 @@ a {
 /* ------------------------------------------SECTION-10-form------------------------------------------ */
 
 #section10{
-     border-radius: 20px;
      margin: 0 auto;
      display: block;
      width: 87%;
 }
 .section10{
+     border-radius: 20px;
      background-color: #1e1e1e;
 }
 
