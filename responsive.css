@@ -125,9 +125,7 @@
           text-align: left;
      }
 
-     .nav2 ul {
-          position: absolute;
-          bottom: 0;
+     .nav2 ul { 
           width: 265.5px;
           display: flex;
      }
