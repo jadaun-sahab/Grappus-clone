@@ -223,4 +223,16 @@
           margin: 0 auto;
           font-size: 1.5em;
      }
+     #section2 h1 {
+          font-weight: bolder;
+          margin: 0 auto;
+          width: 90%;
+          font-size: 2.5em;
+     }
+     
+     #section2 p {
+          line-height: 3;  
+          font-size: 1.2em;
+          text-align: center;
+     }
 }
