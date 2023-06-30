@@ -204,9 +204,21 @@
 
 }
 @media(max-width:600px){
+     .section1child1 {
+           width: 80%;
+     }
      .section1child1 p { 
           width: 90%; 
           margin: 0 2rem 0 2rem;
           font-size: 2em;
+     }
+}
+
+@media(max-width:450px){
+     .section1child1 p { 
+          display: block;
+          width: 90%; 
+          margin: 0 auto;
+          font-size: 1.5em;
      }
 }
