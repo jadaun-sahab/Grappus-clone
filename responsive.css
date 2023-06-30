@@ -50,17 +50,7 @@
 
 @media(max-width: 950px) {
      #section3 {
-          width: 88%;
-     }
-
-     .twosection .block {
-          height: 100px;
-          width: 100px;
-     }
-
-     .threesection .block {
-          height: 100px;
-          width: 100px;
+          width: 98%;
      }
 
      .button a {
