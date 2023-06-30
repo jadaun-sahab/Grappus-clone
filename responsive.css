@@ -243,6 +243,9 @@
           margin: 0 2rem 0 2rem;
           font-size: 2em;
      }
+     .scetion4child2>.spell>ol {
+          font-size: 2.2em;  
+     }
 }
 
 @media(max-width:450px){
