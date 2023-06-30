@@ -207,6 +207,6 @@
      .section1child1 p { 
           width: 90%; 
           margin: 0 2rem 0 2rem;
-          font-size: 2rem;
+          font-size: 2em;
      }
 }
