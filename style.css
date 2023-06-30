@@ -448,13 +448,13 @@ a {
      font-family: 'Raleway', sans-serif;
 }
 #name,#email,#number{
-     font-size: 2rem;
+     font-size: 1.5rem;
      padding: 10px;
      color: rgb(255, 255, 255);
      background-color: #3f3f3f;
 }
 #textarea{
-     font-size: 2rem;
+     font-size: 1.5rem;
      padding: 10px;
      color: rgb(255, 255, 255);
      background-color: #3f3f3f;
