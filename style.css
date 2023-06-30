@@ -453,6 +453,12 @@ a {
      color: rgb(255, 255, 255);
      background-color: #3f3f3f;
 }
+#textarea{
+     font-size: 2rem;
+     padding: 10px;
+     color: rgb(255, 255, 255);
+     background-color: #3f3f3f;
+}
 .section10 p {
      width: 60%;
      margin: 0 auto;
