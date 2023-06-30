@@ -440,7 +440,7 @@ a {
 
 .section10 form {
      display: grid;
-     grid-template-columns: 350px 600px;
+     grid-template-columns: 320px 600px;
 }
 
 .section10 h1 { 
@@ -467,7 +467,7 @@ a {
      background-color: #252525;
      border-radius: 25px;
      border: none;
-     margin: 10px;
+     margin: 11px 0;
 }
 
 #textarea {
