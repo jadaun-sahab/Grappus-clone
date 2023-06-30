@@ -433,7 +433,7 @@ a {
 }
 
 .section10 {
-     padding: 2em;
+     padding: 2em 2em 2em 4em;
      border-radius: 20px;
      background-color: #151515;
 }
