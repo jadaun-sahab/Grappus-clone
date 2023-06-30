@@ -101,6 +101,8 @@
      }
 
      .nav ul {
+          position: absolute;
+
           background-color: #0b0b0b;
           display: block;
           width: 280px;
@@ -124,6 +126,8 @@
      }
 
      .nav2 ul {
+          position: absolute;
+          bottom: 0;
           width: 265.5px;
           display: flex;
      }
