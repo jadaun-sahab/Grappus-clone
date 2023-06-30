@@ -458,8 +458,9 @@ a {
 }
 #textarea{
      font-size: 1.5rem;
-     /* padding: 10px; */
+     border-radius: 30px;
      color: rgb(255, 255, 255);
+     border: none;
      background-color: #3f3f3f;
 }
 .section10 p {
