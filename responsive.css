@@ -76,6 +76,7 @@
 @media(max-width: 830px) {
      #navbar {
           width: 100%;
+          padding: 1.3rem 2rem 1rem 2rem;
      }
 
      .fa-bars {
@@ -100,7 +101,6 @@
      }
 
      .nav ul {
-          background-color: #161616;
           display: block;
           width: 280px;
 
