@@ -453,7 +453,7 @@ a {
 
 .section10 p {
      width: 60%;
-     margin: 0 auto;
+     margin: 0 auto 3em auto;
      text-align: center;
      font-family: 'Raleway', sans-serif;
      color: rgb(192, 192, 192);
