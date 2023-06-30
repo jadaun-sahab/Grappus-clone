@@ -102,11 +102,7 @@
           display: grid;
           grid-template-columns: 300px 500px;
      }
-     .formbtn {
-          width: 80%;
-          margin-left: 27em;
-     }
-
+     
      #name,
      #email,
      #number {
@@ -114,11 +110,15 @@
           padding: 17px 33px;
           margin: 12px 0;
      }
-
+     
      #textarea {
           width: 75%;
           height: 95%;
           font-size: 1.1rem;
+     }
+     .formbtn {
+          width: 80%;
+          margin-left: 27em;
      }
 }
 @media(max-width: 830px) {
@@ -192,6 +192,10 @@
      .section10 form {
           display: grid;
           grid-template-columns: 300px ;
+     }
+     .formbtn {
+          width: 80%;
+          margin-left: 2em;
      }
 }
 
