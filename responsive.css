@@ -155,6 +155,10 @@
                font-size: 8rem;
           }
      }
+     #banner h3 { 
+          top: 89%;
+          left: 35%; 
+     }
 
      #navbar {
           padding: 1.3rem 1rem 1rem 1rem;
