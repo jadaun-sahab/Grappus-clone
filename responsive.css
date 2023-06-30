@@ -240,6 +240,30 @@
 }
 
 @media(max-width:450px){
+     #banner h1 {
+          font-size: 6em;
+     }
+     @keyframes bannerheading {
+          0% {
+               font-size: 3rem;
+          }
+     
+          80% {
+               opacity: 0;
+               z-index: -11;
+               font-size: 6rem;
+          }
+     
+          100% {
+               opacity: 0;
+               font-size: 6rem;
+          }
+     }
+     #banner h3 { 
+          top: 89%;
+          left: 25%; 
+     }
+
      .section1child1 p { 
           display: block;
           width: 90%; 
