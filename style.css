@@ -266,7 +266,7 @@ a {
      display: block;
 }
 
-.twosection>.block {
+.twosection .block {
      justify-content: center;
      text-align: center;
      align-items: center;
@@ -288,7 +288,7 @@ a {
 
 @keyframes blocks {
      0% {
-          background-color: #a3a1a1;
+          background-color: #202020;
      }
      50%{
           background-color: #878585;
