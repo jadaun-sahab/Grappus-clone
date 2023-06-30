@@ -38,6 +38,7 @@ a {
 }
 
 .logo a {
+     margin-left: 1rem;
      font-family: 'Roboto', sans-serif;
      color: white;
      font-weight: 900;
@@ -268,7 +269,8 @@ a {
      margin-top: 40px;
      display: block;
 }
-.block{
+
+.block {
      transition: all 0.5s;
      cursor: pointer;
 }
@@ -300,7 +302,8 @@ a {
      border-radius: 20px;
      font-size: 1rem;
 }
-.blocksepration{
+
+.blocksepration {
      display: flex;
 }
 
@@ -310,11 +313,12 @@ a {
      display: flex;
      width: 100%;
 }
-.block:hover{
+
+.block:hover {
      font-size: 800px;
      /* opacity: 0.6;   */
 }
- 
+
 
 
 /* ---------------------------------------------SECTION-3--------------------------------------------- */
