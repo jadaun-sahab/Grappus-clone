@@ -286,7 +286,7 @@ a {
      display: block;
 }
 
-.threesection>.block {
+.threesection .block {
      justify-content: center;
      text-align: center;
      align-items: center;
