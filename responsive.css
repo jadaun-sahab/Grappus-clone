@@ -333,11 +333,7 @@
      }
      
      .section10 p { 
-          margin-top: 10px;
-          margin-bottom: 30px;
           width: 86%; 
-          font-family: 'Raleway', sans-serif;
-          color: rgb(192, 192, 192);
      }
      #name,
      #email,
