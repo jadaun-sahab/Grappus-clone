@@ -412,16 +412,18 @@
      .scetion4child2>.spell>ol {
           font-size: 1.8em;
      }
-     .section10 h1 { 
-         font-size:1.4rem ;
+
+     .section10 h1 {
+          font-size: 1.4rem;
      }
-     
-     .section10 p {  
-          width: 90%; 
+
+     .section10 p {
+          width: 90%;
      }
+
      #name,
      #email,
-     #number { 
+     #number {
           padding: 12px 45px 17px 12px;
           margin: 12px 0;
      }
@@ -436,5 +438,10 @@
      .formbtn {
           width: 73%;
           margin-left: 1em;
+     }
+
+     .footer {
+          display: flex;
+          justify-content:;
      }
 }
