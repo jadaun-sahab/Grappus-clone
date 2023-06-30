@@ -438,7 +438,7 @@ a {
 }
 .section10 form{
    display: grid;
-   grid-template-columns: 490px 200px;
+   grid-template-columns: 300px 600px;
 }
 
 .section10 h1{
