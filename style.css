@@ -438,6 +438,7 @@ a {
 }
 
 .section10 h1{
+     font-size: 1.5rem;
      text-align: center;
      color: white;
      font-family: 'Raleway', sans-serif;
@@ -445,7 +446,7 @@ a {
 .section10 p {
      text-align: center;
      font-family: 'Raleway', sans-serif;
-     color: white;
+     color: rgb(192, 192, 192);
 }
 
 
