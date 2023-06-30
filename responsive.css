@@ -19,6 +19,9 @@
 }
 
 @media(max-width: 1100px) {
+     #section3 { 
+          width: 98%; 
+     }
      #section2 h1 {
           width: 80%;
      }
