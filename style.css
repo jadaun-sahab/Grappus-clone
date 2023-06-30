@@ -428,6 +428,8 @@ a {
 
 #section10{
      margin: 0 auto;
+     display: block;
+     width: 80%;
 }
 .section10{
      background-color: #484848;
