@@ -449,7 +449,9 @@ a {
 }
 #name,#email,#number{
      font-size: 2rem;
-     color: black;
+     padding: 10px;
+     color: rgb(255, 255, 255);
+     background-color: #3f3f3f;
 }
 .section10 p {
      width: 60%;
