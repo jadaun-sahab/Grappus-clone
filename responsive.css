@@ -136,6 +136,9 @@
 }
 
 @media(max-width: 750px) {
+     #banner h1 {
+          font-size: 8em;
+     }
 
      #navbar {
           padding: 1.3rem 1rem 1rem 1rem;
