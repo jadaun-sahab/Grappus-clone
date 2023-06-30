@@ -194,7 +194,7 @@
      
      #textarea {
           padding: 17px 350px 17px 17px;
-          width: 580px;
+          width: 500px;
           height: 200px;
           font-size: 1.1rem;
      }
@@ -204,7 +204,7 @@
      }
      .formbtn {
           width: 80%;
-          margin-left: 20em;
+          margin-left: 16em;
      }
 }
 
