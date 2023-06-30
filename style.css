@@ -280,10 +280,11 @@ a {
      animation-duration: 3s;
      animation-iteration-count: infinite;
 }
-.twosection :nth-child(even){
-     background: linear-gradient(140deg,  rgb(220, 211, 211),rgb(53, 54, 54));
+
+.twosection :nth-child(even) {
+     background: linear-gradient(140deg, rgb(220, 211, 211), rgb(53, 54, 54));
 }
- 
+
 
 @keyframes blocks2 {
      /* 0% {
@@ -339,7 +340,7 @@ a {
 }
 
 .scetion4child1 h1 {
-    font-size: 2.5rem;
+     font-size: 2.5rem;
      font-family: 'Raleway', sans-serif;
      color: white;
 }
