@@ -432,22 +432,34 @@ a {
      width: 87%;
 }
 
-.section10 { 
+.section10 {
      border-radius: 20px;
      background-color: #151515;
 }
-.section10 form{
-   display: grid;
-   grid-template-columns: 440px 600px;
+
+.section10 form {
+     display: grid;
+     grid-template-columns: 440px 600px;
 }
 
-.section10 h1{
+.section10 h1 {
      font-size: 2.5rem;
      text-align: center;
      color: white;
      font-family: 'Raleway', sans-serif;
 }
-#name,#email,#number{
+
+.section10 p {
+     width: 60%;
+     margin: 0 auto;
+     text-align: center;
+     font-family: 'Raleway', sans-serif;
+     color: rgb(192, 192, 192);
+}
+
+#name,
+#email,
+#number {
      font-size: 1.5rem;
      padding: 10px;
      color: rgb(255, 255, 255);
@@ -456,19 +468,13 @@ a {
      border: none;
      margin: 10px;
 }
-#textarea{
+
+#textarea {
      font-size: 1.5rem;
      border-radius: 30px;
      color: rgb(255, 255, 255);
      border: none;
      background-color: #252525;
-}
-.section10 p {
-     width: 60%;
-     margin: 0 auto;
-     text-align: center;
-     font-family: 'Raleway', sans-serif;
-     color: rgb(192, 192, 192);
 }
 
 
