@@ -53,17 +53,19 @@
           width: 98%;
      }
 
-     .section3{
+     .section3 {
           display: grid;
-          grid-template-columns: repeat(2,1fr);
+          grid-template-columns: repeat(2, 1fr);
      }
-     .threesection{
+
+     .threesection {
           display: grid;
-          grid-template-columns: repeat(1,1fr);
+          grid-template-columns: repeat(1, 1fr);
      }
-     .twosection{
+
+     .twosection {
           display: grid;
-          grid-template-columns: repeat(1,1fr);
+          grid-template-columns: repeat(1, 1fr);
      }
 
      .button a {
@@ -134,6 +136,11 @@
 }
 
 @media(max-width: 750px) {
+
+     #navbar {
+          padding: 1.3rem 2rem 1rem 2rem;
+     }
+
      #section2 h1 {
           font-weight: bolder;
           margin: 0 auto;
