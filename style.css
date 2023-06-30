@@ -305,9 +305,8 @@ a {
      width: 100%;
 }
 .block:hover{
-     
      font-size: 800px;
-     opacity: 0.6;  
+     /* opacity: 0.6;   */
 }
  
 
