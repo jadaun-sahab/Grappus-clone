@@ -339,7 +339,7 @@
      #email,
      #number  {
           font-size: 1.1rem;
-          padding: 17px 200px 17px 17px;
+          padding: 17px 170px 17px 17px;
           margin: 12px 0;
      }
      
@@ -349,13 +349,10 @@
           height: 200px;
           font-size: 1.1rem;
      }
-     .section10 form {
-          display: grid;
-          grid-template-columns: 300px ;
-     }
+     
      .formbtn {
           width: 80%;
-          margin-left: 11em;
+          margin-left: 9em;
      }
 }
 
