@@ -139,6 +139,22 @@
      #banner h1 {
           font-size: 8em;
      }
+     @keyframes bannerheading {
+          0% {
+               font-size: 4rem;
+          }
+     
+          80% {
+               opacity: 0;
+               z-index: -11;
+               font-size: 8rem;
+          }
+     
+          100% {
+               opacity: 0;
+               font-size: 8rem;
+          }
+     }
 
      #navbar {
           padding: 1.3rem 1rem 1rem 1rem;
