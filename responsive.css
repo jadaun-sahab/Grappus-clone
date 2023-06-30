@@ -30,7 +30,7 @@
 
      .twosection {
           margin-top: 40px;
-          display: block;
+          display: flex;
      }
 
      .block {
@@ -39,7 +39,7 @@
      }
 
      .threesection {
-          display: block;
+          display: flex;
      }
 
 
