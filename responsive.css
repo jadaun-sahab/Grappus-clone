@@ -21,17 +21,17 @@
 
 @media(max-width: 1100px) {
      #section3 {
-          width: 98%;
+          width: 88%;
      }
      .twosection .block {
-          height: 140px;
-          width: 140px;
+          height: 120px;
+          width: 120px;
           font-size: 1rem;
      }
      
      .threesection .block {
-          height: 140px;
-          width: 140px;
+          height: 120px;
+          width: 120px;
           font-size: 1rem;
      }
      #section2 h1 {
