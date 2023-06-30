@@ -24,29 +24,6 @@
           width: 98%;
      }
 
-     .section3 {
-          display: block;
-     }
-
-     .twosection {
-          margin-top: 40px;
-          display: flex;
-     }
-
-     .block {
-          transition: all 0.5s;
-          cursor: pointer;
-     }
-
-     .threesection {
-          display: flex;
-     }
-
-
-
-
-
-
      #section2 h1 {
           width: 80%;
      }
