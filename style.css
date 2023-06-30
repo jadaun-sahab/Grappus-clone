@@ -437,8 +437,11 @@ a {
      background-color: #1e1e1e;
 }
 
-.section10 h1,
-p {
+.section10 h1{
+     text-align: center;
+     counter-reset: white;
+}
+.section10 p {
      text-align: center;
      color: white;
 }
