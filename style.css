@@ -290,9 +290,12 @@ a {
      0% {
           background-color: #fff;
      }
+     50%{
+          background-color: #878585;
+     }
 
      100% {
-          background-color: #fff;
+          background-color: #141313;
      }
 }
 
