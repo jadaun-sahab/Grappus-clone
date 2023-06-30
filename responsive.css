@@ -99,9 +99,11 @@
           display: block;
           padding: 1rem;
      }
-
+.nav{
+     background-color: #0b0b0b;
+}
      .nav ul {
-          background-color: #0b0b0b;
+          
           display: block;
           width: 280px;
           height: 100%;
