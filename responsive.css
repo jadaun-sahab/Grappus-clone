@@ -53,6 +53,11 @@
           width: 98%;
      }
 
+     .section3{
+          display: grid;
+          grid-template-columns: repeat(3,1fr);
+     }
+
      .button a {
           padding: 1rem 4em;
      }
