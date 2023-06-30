@@ -23,7 +23,17 @@
      #section3 {
           width: 98%;
      }
-
+     .twosection .block {
+          height: 140px;
+          width: 140px;
+          font-size: 1rem;
+     }
+     
+     .threesection .block {
+          height: 140px;
+          width: 140px;
+          font-size: 1rem;
+     }
      #section2 h1 {
           width: 80%;
      }
