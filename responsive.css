@@ -97,12 +97,13 @@
           padding: 1rem 4em;
      }
 }
+
 @media(max-width: 900px) {
      .section10 form {
           display: grid;
           grid-template-columns: 300px 500px;
      }
-     
+
      #name,
      #email,
      #number {
@@ -110,17 +111,19 @@
           padding: 17px 33px;
           margin: 12px 0;
      }
-     
+
      #textarea {
           width: 75%;
           height: 95%;
           font-size: 1.1rem;
      }
+
      .formbtn {
           width: 80%;
           margin-left: 27em;
      }
 }
+
 @media(max-width: 830px) {
      #navbar {
           width: 100%;
@@ -183,25 +186,27 @@
           font-size: 1.5rem;
           padding: 0px;
      }
-     
+
      #name,
      #email,
-     #number  {
+     #number {
           font-size: 1.1rem;
           padding: 17px 270px 17px 17px;
           margin: 12px 0;
      }
-     
+
      #textarea {
           padding: 17px 350px 17px 17px;
           width: 500px;
           height: 200px;
           font-size: 1.1rem;
      }
+
      .section10 form {
           display: grid;
-          grid-template-columns: 300px ;
+          grid-template-columns: 300px;
      }
+
      .formbtn {
           width: 80%;
           margin-left: 16em;
@@ -328,26 +333,28 @@
      .scetion4child2>.spell>ol {
           font-size: 2.2em;
      }
-     .section10 h1 { 
-          font-size: 2rem; 
+
+     .section10 h1 {
+          font-size: 2rem;
      }
-     
-     .section10 p { 
-          width: 86%; 
+
+     .section10 p {
+          width: 86%;
      }
+
      #name,
      #email,
-     #number  { 
+     #number {
           padding: 17px 140px 17px 17px;
           margin: 12px 0;
      }
-     
+
      #textarea {
           padding: 17px 250px 17px 17px;
           width: 370px;
           height: 200px;
      }
-     
+
      .formbtn {
           width: 80%;
           margin-left: 8em;
@@ -405,21 +412,21 @@
      .scetion4child2>.spell>ol {
           font-size: 1.8em;
      }
+
      #name,
      #email,
-     #number  {
-          font-size: 1.1rem;
+     #number { 
           padding: 12px 45px 17px 12px;
           margin: 12px 0;
      }
-     
+
      #textarea {
           padding: 17px 200px 17px 17px;
           width: 275px;
           height: 120px;
           font-size: 1.1rem;
      }
-     
+
      .formbtn {
           width: 73%;
           margin-left: 1em;
