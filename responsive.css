@@ -50,10 +50,7 @@
 
 @media(max-width: 950px) {
      #section3 {
-          width: 50%;
-     }
-     .section3{
-          display: block;
+          width: 98%;
      }
 
      .button a {
