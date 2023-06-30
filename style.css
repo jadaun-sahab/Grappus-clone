@@ -276,7 +276,7 @@ a {
      margin: 5px 2.5px;
      border-radius: 20px;
      font-size: 1rem;
-     animation-name: blocks2;
+     animation-name: blocks;
      animation-duration: 3s;
      animation-iteration-count: infinite;
 }
@@ -286,14 +286,14 @@ a {
 }
 
 
-@keyframes blocks2 {
-     /* 0% {
-          background: linear-gradient(140deg,rgba(236, 232, 232, 0.497),rgba(153, 151, 151, 0.481),rgba(0, 0, 0, 0.437));
+@keyframes blocks {
+     0% {
+          background-color: #fff;
      }
-      
-     100%{
-          background: linear-gradient(140deg,rgba(0, 0, 0, 0.497),rgba(255, 255, 255, 0.481),rgba(0, 0, 0, 0.437));
-     } */
+
+     100% {
+          background-color: #fff;
+     }
 }
 
 .threesection {
