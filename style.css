@@ -308,6 +308,10 @@ a {
      display: flex;
      width: 100%;
 }
+.block img:hover{
+     font-size: 800px;
+     /* transform: translateY(800px); */
+}
 
 
 
