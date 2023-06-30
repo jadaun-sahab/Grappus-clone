@@ -450,7 +450,8 @@ a {
      font-family: 'Raleway', sans-serif;
 }
 
-.section10 p {
+.section10 p { 
+     margin-bottom: 30px;
      width: 66%; 
      font-family: 'Raleway', sans-serif;
      color: rgb(192, 192, 192);
