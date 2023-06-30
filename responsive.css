@@ -72,6 +72,10 @@
 }
 
 @media(max-width: 900px) {
+     .section10 form {
+          display: grid;
+          grid-template-columns: 300px 500px;
+     }
      .formbtn {
           width: 80%;
           margin-left: 27em;
@@ -81,7 +85,7 @@
      #email,
      #number {
           font-size: 1.1rem;
-          padding: 17px 38px;
+          padding: 17px 33px;
           margin: 12px 0;
      }
 
