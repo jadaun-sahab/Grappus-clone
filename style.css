@@ -291,10 +291,6 @@ a {
 }
 
 .threesection>.block {
-     transition-property: all;
-     transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);
-     transition-delay: 1s; 
-     transition-duration: 3s;
      justify-content: center;
      text-align: center;
      align-items: center;
