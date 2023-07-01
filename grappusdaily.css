@@ -1,7 +1,9 @@
 
 
 /* ------------------------------------------Section-1------------------------------------------ */
-
+#section1{
+     padding-top: 14em;
+}
 #section1 img{
      align-items: center;
      justify-content: center;
