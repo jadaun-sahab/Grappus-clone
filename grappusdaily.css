@@ -70,6 +70,12 @@
 .section2mainchild{
      display: flex;
 }
+.section2child1{
+     display: block;
+}
+.section2child2{
+     display: block;
+}
 
 
 /* ------------------------------------------Section-2------------------------------------------ */
