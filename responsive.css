@@ -458,6 +458,9 @@
           font-size:3em;
           text-align: center;
      }
+     .footerchild1 p{
+          text-align: center;
+     }
 
      .footerchild2 {
           display: flex;
