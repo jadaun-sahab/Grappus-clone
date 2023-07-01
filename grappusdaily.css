@@ -76,6 +76,7 @@
 .section2child1 img{
      border-radius: 20px;
      width: 510px;
+     height: 90%;
      object-fit: fill;
 }
 .section2child2{
