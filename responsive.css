@@ -96,6 +96,7 @@
      .button a {
           padding: 1rem 4em;
      }
+
      .scetion4child1 img {
           width: 240px;
           height: 240px;
@@ -215,6 +216,7 @@
           width: 80%;
           margin-left: 16em;
      }
+
      .section4 {
           display: block;
           width: 100%;
@@ -444,8 +446,9 @@
      }
 
      .footer {
-         display: block;
+          display: block;
      }
+
      #footer {
           display: block;
           margin: 2em auto 4em auto;
