@@ -8,11 +8,12 @@
 
 #section1 img {
      width: 300px;
-     margin: 0 auto;
+     margin: 10px auto;
      display: block;
 }
 
 #section1 p {
+     line-height: 1.5;
      text-align: center;
      width: 72%;
      margin: 0 auto;
