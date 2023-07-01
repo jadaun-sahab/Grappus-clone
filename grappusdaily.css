@@ -84,14 +84,18 @@
      display: block;
 }
 .section2child2 h1{
+     font-family: 'Raleway', sans-serif;
      margin-bottom: 15px;
      font-size: 1.3rem;
      color: white;
 }
 .section2child2 p{
      line-height: 1.6;
-     margin-bottom: 15px;
+     margin : 1.8em 0;
      width: 76%;
+}
+.section2child2 a{
+     color: aqua;
 }
 
 /* ------------------------------------------Section-2------------------------------------------ */
