@@ -5,6 +5,7 @@
      padding-top: 14em;
 }
 #section1 img{
+     display: flex;
      align-items: center;
      justify-content: center;
 }
