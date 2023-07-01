@@ -454,8 +454,8 @@
           margin: 2em auto 4em auto;
      }
 
-     .footerchild1 h1,
-     p {
+     .footerchild1 h1 {
+          font-size:3em;
           text-align: center;
      }
 
