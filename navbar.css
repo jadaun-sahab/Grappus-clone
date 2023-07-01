@@ -1,3 +1,21 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+body {
+     font-family: 'Roboto', sans-serif;
+     background-color: #000000;
+}
+
+li {
+     list-style: none;
+}
+
+a {
+     text-decoration: none;
+}
 
 #navbar {
      padding: 1.3rem 5rem 1rem 6rem;
