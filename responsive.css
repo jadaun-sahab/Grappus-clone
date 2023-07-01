@@ -454,4 +454,8 @@
           margin: 2em auto 4em auto;
           /* width: 60%; */
      }
+     .footerchild1 h1,
+p {
+     color: white;
+}
 }
