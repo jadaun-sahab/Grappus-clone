@@ -28,13 +28,13 @@
      background-color: #00f4db;
      font-size: 1rem;
      color: black;
-     padding: 14px 19px;
+     padding: 14px 24px;
      border-radius: 30px;
 }
 
 .btn2 {
      font-size: 1rem;
-     padding: 14px 19px;
+     padding: 14px 24px;
      color: white;
      background-color: #7e7e7e;
      border-radius: 30px;
@@ -42,7 +42,7 @@
 
 .btn3 {
      font-size: 1rem;
-     padding: 14px 19px;
+     padding: 14px 24px;
      color: white;
      background-color: #7e7e7e;
      border-radius: 30px;
