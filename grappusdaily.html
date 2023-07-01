@@ -114,6 +114,15 @@
 
      <!-- ---------------------------------- FOOTER ---------------------------------- -->
 </body>
-<script src="/index.js"></script>
+<script>
+     
+     const toggleButton = document.getElementsByClassName('fa-bars')[0]
+     const navbarLinks = document.getElementsByClassName('nav')[0]
+
+     toggleButton.addEventListener('click', () => {
+          navbarLinks.classList.toggle('active')
+     })
+
+</script>
 
 </html>
