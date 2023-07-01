@@ -20,7 +20,7 @@
      font-size: 1.3rem;
      color: rgb(186, 184, 184);
 }
-#section1 button{
+#section1 .button{
      display: flex;
 }
 /* ------------------------------------------Section-1------------------------------------------ */
