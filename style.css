@@ -17,60 +17,6 @@ a {
      text-decoration: none;
 }
 
-#navbar {
-     padding: 1.3rem 5rem 1rem 6rem;
-     background-color: #070707;
-     position: fixed;
-     margin: 0 auto;
-     width: 100%;
-     display: flex;
-     justify-content: space-between;
-}
-
-.fa-bars {
-     position: absolute;
-     right: 2rem;
-     top: 12px;
-     color: white;
-     display: none;
-     padding-top: 10px;
-     font-size: 2rem;
-}
-
-.logo a {
-     margin-left: 1rem;
-     font-family: 'Roboto', sans-serif;
-     color: white;
-     font-weight: 900;
-     font-size: 1.7rem;
-}
-
-.nav {
-     padding-top: 10px;
-     display: flex;
-}
-
-.nav1 ul {
-     margin-left: 3rem;
-     padding-top: 6px;
-     display: flex;
-}
-
-.nav1 ul li a {
-     font-size: 15px;
-     color: white;
-     padding: 0 14px;
-}
-
-.nav2 ul {
-     display: flex;
-}
-
-.nav2 ul li a {
-     color: white;
-     padding: 0 15px;
-     font-size: 1.4rem;
-}
 
 
 /* ---------------------------------------------navbar--------------------------------------------- */
