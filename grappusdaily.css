@@ -24,8 +24,8 @@
 #section1 .button {
      margin-top: 8em;
      display: flex;
-    align-items: center;
-    justify-content: center;
+     align-items: center;
+     justify-content: center;
 }
 
 .btn1 {
@@ -176,22 +176,22 @@ p {
 
 
 @media (max-width: 1250px) {
-      #section10 {
+     #section3 {
           margin: 1rem auto 4em auto;
           width: 92%;
      }
 
-     .section10 {
+     .section3 {
           padding: 8em 2em 2em 8em;
      }
 }
 
 @media(max-width: 1100px) {
-     .section10 {
+     .section3 {
           padding: 5em 2em 2em 2em;
      }
 
-     .section10 form {
+     .section3 form {
           display: grid;
           grid-template-columns: 320px 500px;
      }
@@ -201,8 +201,9 @@ p {
           margin-left: 31em;
      }
 }
+
 @media(max-width: 900px) {
-     .section10 form {
+     .section3 form {
           display: grid;
           grid-template-columns: 300px 500px;
      }
@@ -228,8 +229,6 @@ p {
 }
 
 @media(max-width: 830px) {
-    
-
      #name,
      #email,
      #number {
@@ -245,7 +244,7 @@ p {
           font-size: 1.1rem;
      }
 
-     .section10 form {
+     .section3 form {
           display: grid;
           grid-template-columns: 300px;
      }
@@ -255,12 +254,13 @@ p {
           margin-left: 16em;
      }
 }
-@media(max-width:600px){
-     .section10 h1 {
+
+@media(max-width:600px) {
+     .section3 h1 {
           font-size: 2rem;
      }
 
-     .section10 p {
+     .section3 p {
           width: 86%;
      }
 
@@ -285,11 +285,11 @@ p {
 }
 
 @media(max-width:450px) {
-     .section10 h1 {
+     .section3 h1 {
           font-size: 1.4rem;
      }
 
-     .section10 p {
+     .section3 p {
           width: 90%;
      }
 
@@ -322,10 +322,11 @@ p {
      }
 
      .footerchild1 h1 {
-          font-size:3em;
+          font-size: 3em;
           text-align: center;
      }
-     .footerchild1 p{
+
+     .footerchild1 p {
           text-align: center;
           font-size: 1.4em;
           color: rgb(165, 163, 163);
