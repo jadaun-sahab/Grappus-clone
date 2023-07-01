@@ -80,9 +80,12 @@
      object-fit: fill;
 }
 .section2child2{
+     margin: 2em;
      display: block;
 }
 .section2child2 h1{
+     margin-bottom: 15px;
+     font-size: 1.3rem;
      color: white;
 }
 
