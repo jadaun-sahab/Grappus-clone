@@ -82,7 +82,9 @@
 .section2child2{
      display: block;
 }
-
+.section2child2 h1{
+     color: white;
+}
 
 /* ------------------------------------------Section-2------------------------------------------ */
 
