@@ -74,7 +74,9 @@
      display: block;
 }
 .section2child1 img{
+     border-radius: 20px;
      width: 510px;
+     object-fit: fill;
 }
 .section2child2{
      display: block;
