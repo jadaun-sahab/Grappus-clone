@@ -90,9 +90,10 @@
      color: white;
 }
 .section2child2 p{
+     font-family: 'Raleway', sans-serif;
      line-height: 1.6;
      margin : 1.8em 0;
-     width: 76%;
+     width: 77%;
 }
 .section2child2 a{
      color: aqua;
