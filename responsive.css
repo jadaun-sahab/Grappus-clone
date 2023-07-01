@@ -454,10 +454,14 @@
           margin: 2em auto 4em auto;
      }
 
-     .footerchild1 h1,p {
-         text-align: center;
+     .footerchild1 h1,
+     p {
+          text-align: center;
      }
-     .footerchild2{
-display: flex;
+
+     .footerchild2 {
+          display: flex;
+          margin: 10px auto;
+          justify-content: space-evenly;
      }
 }
