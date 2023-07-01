@@ -65,7 +65,7 @@
 #section2{
      display: block;
      margin: 8em auto;
-     width: 90%;
+     width: 87%;
 }
 .section2mainchild{
      display: flex;
@@ -74,7 +74,7 @@
      display: block;
 }
 .section2child1 img{
-     width: 100%;
+     width: 540px;
 }
 .section2child2{
      display: block;
