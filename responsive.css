@@ -96,6 +96,10 @@
      .button a {
           padding: 1rem 4em;
      }
+     .scetion4child1 img {
+          width: 240px;
+          height: 240px;
+     }
 }
 
 @media(max-width: 900px) {
