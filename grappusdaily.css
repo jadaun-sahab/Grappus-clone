@@ -27,6 +27,7 @@
 .btn1 {
      font-size: 1rem;
      padding: 10px;
+     border-radius: 20px;
 }
 
 .btn2 {
@@ -34,6 +35,7 @@
      padding: 10px;
      color: white;
      background-color: #7e7e7e;
+     border-radius: 20px;
 }
 
 .btn3 {
@@ -41,6 +43,7 @@
      padding: 10px;
      color: white;
      background-color: #7e7e7e;
+     border-radius: 20px;
 }
 
 /* ------------------------------------------Section-1------------------------------------------ */
