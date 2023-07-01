@@ -26,21 +26,21 @@
 
 .btn1 {
      font-size: 1rem;
-     padding: 16px;
+     padding: 14px 19px;
      border-radius: 20px;
 }
 
 .btn2 {
      font-size: 1rem;
-     padding: 16px;
+     padding: 14px 19px;
      color: white;
      background-color: #7e7e7e;
-     border-radius: 20px;
+     border-radius: 30px;
 }
 
 .btn3 {
      font-size: 1rem;
-     padding: 16px;
+     padding: 14px 19px;
      color: white;
      background-color: #7e7e7e;
      border-radius: 20px;
