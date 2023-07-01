@@ -1,28 +1,44 @@
-
-
 /* ------------------------------------------Section-1------------------------------------------ */
-#section1{
+#section1 {
      padding-top: 14em;
      display: block;
      width: 80%;
      margin: 0 auto;
 }
-#section1 img{ 
-   width: 300px; 
-   margin: 0 auto;
-   display: block;
+
+#section1 img {
+     width: 300px;
+     margin: 0 auto;
+     display: block;
 }
 
-#section1 p{
+#section1 p {
      text-align: center;
      width: 72%;
      margin: 0 auto;
      font-size: 1.3rem;
      color: rgb(186, 184, 184);
 }
-#section1 .button{
+
+#section1 .button {
      display: flex;
 }
+
+.btn1 {
+     font-size: 1rem;
+     padding: 10px;
+}
+
+.btn2 {
+     font-size: 1rem;
+     padding: 10px;
+}
+
+.btn3 {
+     font-size: 1rem;
+     padding: 10px;
+}
+
 /* ------------------------------------------Section-1------------------------------------------ */
 
 
