@@ -279,6 +279,9 @@
           font-size: 2.2em;
      }
 
+     #section5 h1 {
+          font-size: 2.5em;
+     }
      .section10 h1 {
           font-size: 2rem;
      }
@@ -287,9 +290,6 @@
           width: 86%;
      }
 
-     #section5 h1 {
-          font-size: 2.5em;
-     }
 
      #name,
      #email,

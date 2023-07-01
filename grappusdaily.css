@@ -255,3 +255,31 @@ p {
           margin-left: 16em;
      }
 }
+@media(max-width:600px){
+     .section10 h1 {
+          font-size: 2rem;
+     }
+
+     .section10 p {
+          width: 86%;
+     }
+
+
+     #name,
+     #email,
+     #number {
+          padding: 17px 140px 17px 17px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          padding: 17px 250px 17px 17px;
+          width: 370px;
+          height: 200px;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 8em;
+     }
+}
