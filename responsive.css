@@ -286,34 +286,7 @@
           background-color: #ffffff;
      }
 
-     .section4 {
-          display: block;
-          width: 100%;
-     }
-
-     .scetion4child1 {
-          width: 90%;
-          margin: 0 auto;
-     }
-
-     .scetion4child1 p {
-          width: 90%;
-     }
-
-     .scetion4child2 {
-          width: 90%;
-          margin: 0 auto;
-     }
-
-     .scetion4child1 img {
-          width: 250px;
-          height: 250px;
-     }
-
-     .scetion4child2>.spell>ol {
-          font-size: 2.6em;
-          line-height: 1.3;
-     }
+     
 
 }
 
