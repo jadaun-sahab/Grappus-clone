@@ -3,16 +3,19 @@
 /* ------------------------------------------Section-1------------------------------------------ */
 #section1{
      padding-top: 14em;
+     display: block;
+     width: 80%;
+     margin: 0 auto;
 }
-#section1 img{
-     display: flex;
-     align-items: center;
-     justify-content: center;
+#section1 img{ 
+   width: 300px; 
+   margin: 0 auto;
+   display: block;
 }
 
 #section1 p{
      text-align: center;
-     width: 70%;
+     /* width: 70%; */
      margin: 0 auto;
      font-size: 1.3rem;
      color: rgb(186, 184, 184);
