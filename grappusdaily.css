@@ -73,6 +73,9 @@
 .section2child1{
      display: block;
 }
+.section2child1 img{
+     width: 100%;
+}
 .section2child2{
      display: block;
 }
