@@ -201,3 +201,57 @@ p {
           margin-left: 31em;
      }
 }
+@media(max-width: 900px) {
+     .section10 form {
+          display: grid;
+          grid-template-columns: 300px 500px;
+     }
+
+     #name,
+     #email,
+     #number {
+          font-size: 1.1rem;
+          padding: 17px 33px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          width: 75%;
+          height: 95%;
+          font-size: 1.1rem;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 27em;
+     }
+}
+
+@media(max-width: 830px) {
+    
+
+     #name,
+     #email,
+     #number {
+          font-size: 1.1rem;
+          padding: 17px 270px 17px 17px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          padding: 17px 350px 17px 17px;
+          width: 500px;
+          height: 200px;
+          font-size: 1.1rem;
+     }
+
+     .section10 form {
+          display: grid;
+          grid-template-columns: 300px;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 16em;
+     }
+}
