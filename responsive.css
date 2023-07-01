@@ -350,6 +350,10 @@
           width: 86%;
      }
 
+     #section5 h1 {
+          font-size: 2.5em;
+     }
+
      #name,
      #email,
      #number {
