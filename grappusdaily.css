@@ -30,6 +30,7 @@
      color: black;
      padding: 14px 24px;
      border-radius: 30px;
+     border: none;
 }
 
 .btn2 {
@@ -39,6 +40,7 @@
      color: white;
      background-color: #404040;
      border-radius: 30px;
+     border: none;
 }
 
 .btn3 {
@@ -47,6 +49,7 @@
      color: white;
      background-color: #404040;
      border-radius: 30px;
+     border: none;
 }
 
 /* ------------------------------------------Section-1------------------------------------------ */
