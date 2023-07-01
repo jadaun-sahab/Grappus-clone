@@ -133,67 +133,7 @@
 }
 
 @media(max-width: 830px) {
-     #navbar {
-          width: 100%;
-          padding: 1.3rem 2rem 1rem 2rem;
-     }
-
-     .fa-bars {
-          display: flex;
-     }
-
-     .nav {
-          height: 100%;
-          display: none;
-          width: 100%;
-     }
-
-     .nav.active {
-          position: absolute;
-          left: 0;
-          display: block;
-     }
-
-     .nav li a {
-          display: block;
-          padding: 1rem;
-     }
-
-     .nav {
-          background-color: #0b0b0b;
-     }
-
-     .nav ul {
-          background-color: #0b0b0b;
-          display: block;
-          width: 280px;
-          height: 100%;
-     }
-
-     .nav ul li {
-          padding: 1em;
-     }
-
-     .nav1 ul {
-          padding-bottom: 20em;
-          margin-top: 3em;
-          margin-left: -0.9em;
-     }
-
-     .nav1 ul li a {
-          font-size: 1.3rem;
-          text-align: left;
-     }
-
-     .nav2 ul {
-          width: 265.5px;
-          display: flex;
-     }
-
-     .nav2 ul li a {
-          font-size: 1.5rem;
-          padding: 0px;
-     }
+    
 
      #name,
      #email,
