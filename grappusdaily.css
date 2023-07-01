@@ -285,61 +285,6 @@ p {
 }
 
 @media(max-width:450px) {
-     #banner h1 {
-          font-size: 6em;
-     }
-
-     @keyframes bannerheading {
-          0% {
-               font-size: 3rem;
-          }
-
-          80% {
-               opacity: 0;
-               z-index: -11;
-               font-size: 6rem;
-          }
-
-          100% {
-               opacity: 0;
-               font-size: 6rem;
-          }
-     }
-
-     #banner h3 {
-          top: 89%;
-          left: 25%;
-     }
-
-     .section1child1 p {
-          display: block;
-          width: 90%;
-          margin: 0 auto;
-          font-size: 1.5em;
-     }
-
-     #section2 h1 {
-          font-weight: bolder;
-          margin: 0 auto;
-          width: 90%;
-          font-size: 2.5em;
-     }
-
-     #section2 p {
-          margin-top: 10px;
-          line-height: 1.2;
-          font-size: 1.2em;
-          text-align: center;
-     }
-
-     .scetion4child2>.spell>ol {
-          font-size: 1.8em;
-     }
-
-     #section5 h1 {
-          font-size: 2em;
-     }
-
      .section10 h1 {
           font-size: 1.4rem;
      }
