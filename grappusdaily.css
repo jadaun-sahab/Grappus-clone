@@ -31,10 +31,10 @@
      padding: 14px 24px;
      border-radius: 30px;
      border: none;
+     font-size: 1rem;
 }
 .btn1 {
      background-color: aqua;
-     font-size: 1rem;
      color: black;
 }
 
