@@ -299,8 +299,6 @@ p {
 
 @media(max-width: 830px) {
      #section1 p {
-          line-height: 1.5;
-          text-align: center;
           width: 72%;
      }
      .section2mainchild{
