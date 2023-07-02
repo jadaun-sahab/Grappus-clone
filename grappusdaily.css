@@ -299,9 +299,8 @@ p {
 
 @media(max-width: 830px) {
      #section1 img {
-          width: 300px;
-          margin: 20px auto;
-          display: block;
+          width: 250px;
+        
      }
      #section1 p {
           width: 100%;
