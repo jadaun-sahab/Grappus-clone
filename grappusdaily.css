@@ -299,7 +299,7 @@ p {
 
 @media(max-width: 830px) {
      #section1 p {
-          width: 72%;
+          width: 85%;
      }
      .section2mainchild{
           display: block;
