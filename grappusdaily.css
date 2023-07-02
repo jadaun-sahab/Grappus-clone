@@ -77,7 +77,7 @@
      border-radius: 20px;
      width: 510px;
      height: 90%;
-     object-fit: fill;
+     object-fit: cover;
 }
 .section2child2{
      margin: 2em;
