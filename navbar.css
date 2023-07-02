@@ -144,4 +144,11 @@ a {
      #navbar {
           padding: 1.3rem 0rem 1rem 0rem;
      }
+     .logo a {
+          margin-left: 3rem;
+          font-family: 'Roboto', sans-serif;
+          color: white;
+          font-weight: 900;
+          font-size: 1.7rem;
+     }
 }
