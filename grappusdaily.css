@@ -371,7 +371,7 @@ p {
 
 @media(max-width:450px) {
      .section2child1 img {
-          width: 350px;
+          width: 300px;
           height: 80%;
      }
      .section3 h1 {
