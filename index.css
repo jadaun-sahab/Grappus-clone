@@ -263,7 +263,8 @@ a {
 .block:hover {
      font-size: 800px;
      /* opacity: 0.6;   */
-     
+     transform: scale(1.015);
+
 }
 
 
