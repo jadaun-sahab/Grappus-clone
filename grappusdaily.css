@@ -256,6 +256,9 @@ p {
 }
 
 @media(max-width: 900px) {
+     #section2{ 
+          width: 95%;
+     }
      .section3 form {
           display: grid;
           grid-template-columns: 300px 500px;
