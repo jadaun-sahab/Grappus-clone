@@ -29,6 +29,7 @@
 }
 .btn{
      padding: 14px 24px;
+     border-radius: 30px;
 }
 .btn1 {
      background-color: aqua;
@@ -54,7 +55,7 @@
      
      color: white;
      background-color: #404040;
-     border-radius: 30px;
+     
      border: none;
 }
 
