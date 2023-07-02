@@ -27,7 +27,9 @@
      align-items: center;
      justify-content: center;
 }
-
+.btn{
+     
+}
 .btn1 {
      background-color: aqua;
      font-size: 1rem;
