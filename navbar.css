@@ -85,6 +85,7 @@ a {
           right: 2rem;
           top: 12px;
           display: flex;
+          opacity: 1;
      }
 
      .nav {
