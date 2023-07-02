@@ -35,28 +35,22 @@
      background-color: aqua;
      font-size: 1rem;
      color: black;
-      
-    
      border: none;
 }
 
 .btn2 {
      margin: 0 20px;
      font-size: 1rem;
-     
      color: white;
      background-color: #404040;
-      
      border: none;
 }
 
 .btn3 {
      font-size: 1rem;
-     
      color: white;
      background-color: #404040;
-     
-     border: none;
+    
 }
 
 /* ------------------------------------------Section-1------------------------------------------ */
