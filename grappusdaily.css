@@ -28,7 +28,7 @@
      justify-content: center;
 }
 .btn{
-     
+     padding: 14px 24px;
 }
 .btn1 {
      background-color: aqua;
@@ -51,7 +51,7 @@
 
 .btn3 {
      font-size: 1rem;
-     padding: 14px 24px;
+     
      color: white;
      background-color: #404040;
      border-radius: 30px;
