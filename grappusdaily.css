@@ -301,6 +301,10 @@ p {
      .section2mainchild{
           display: block;
      }
+     .section2child1{
+          width: 90%;
+          margin: 0 auto;
+     }
      .section2child1 img {
           width: 510px;
           height: 90%;
