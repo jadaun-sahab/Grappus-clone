@@ -108,3 +108,232 @@ p {
 
 
 /* ------------------------------------------FOOTER------------------------------------------ */
+
+/* ****************************************** media query*******************************************/
+
+
+@media (max-width: 1250px) {
+     #section3 {
+          margin: 1rem auto 4em auto;
+          width: 92%;
+     }
+
+     .section3 {
+          padding: 8em 2em 2em 8em;
+     }
+}
+
+@media(max-width: 1100px) {
+     .section2child1 img {
+          width: 410px;
+          height: 90%;
+     }
+
+     .section2child2 p {
+          line-height: 1.3;
+          width: 100%;
+     }
+
+     .section3 {
+          padding: 5em 2em 2em 2em;
+     }
+
+     .section3 form {
+          display: grid;
+          grid-template-columns: 320px 500px;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 31em;
+     }
+}
+
+@media(max-width: 900px) {
+     #section2 {
+          width: 95%;
+     }
+
+     .section2child1 img {
+          width: 310px;
+          height: 90%;
+     }
+
+     .section3 form {
+          display: grid;
+          grid-template-columns: 300px 500px;
+     }
+
+     #name,
+     #email,
+     #number {
+          font-size: 1.1rem;
+          padding: 17px 33px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          width: 75%;
+          height: 95%;
+          font-size: 1.1rem;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 27em;
+     }
+}
+
+@media(max-width: 830px) {
+     #section1 img {
+          width: 250px;
+
+     }
+
+     #section1 p {
+          width: 100%;
+     }
+
+     .section2mainchild {
+          display: block;
+     }
+
+     .section2child1 {
+          width: 90%;
+          margin: 0 auto;
+          display: block;
+     }
+
+     .section2child1 img {
+          width: 510px;
+          height: 90%;
+     }
+
+     #name,
+     #email,
+     #number {
+          font-size: 1.1rem;
+          padding: 17px 270px 17px 17px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          padding: 17px 350px 17px 17px;
+          width: 500px;
+          height: 200px;
+          font-size: 1.1rem;
+     }
+
+     .section3 form {
+          display: grid;
+          grid-template-columns: 300px;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 16em;
+     }
+}
+
+@media(max-width:600px) {
+     .section2child1 img {
+          width: 400px;
+          height: 80%;
+     }
+
+     .section3 h1 {
+          font-size: 2rem;
+     }
+
+     .section3 p {
+          width: 86%;
+     }
+
+
+     #name,
+     #email,
+     #number {
+          padding: 17px 140px 17px 17px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          padding: 17px 250px 17px 17px;
+          width: 370px;
+          height: 200px;
+     }
+
+     .formbtn {
+          width: 80%;
+          margin-left: 8em;
+     }
+}
+
+@media(max-width:450px) {
+     .section2child1 img {
+          width: 300px;
+          height: 80%;
+     }
+
+     .btns {
+          padding: 10px 18px;
+          border-radius: 30px; 
+          font-size: 14px;
+     }
+     .btn2{
+         margin:  0 10px; 
+     }
+
+     .section3 h1 {
+          font-size: 1.4rem;
+     }
+
+     .section3 p {
+          width: 90%;
+     }
+
+     #name,
+     #email,
+     #number {
+          padding: 12px 45px 17px 12px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          padding: 17px 200px 17px 17px;
+          width: 275px;
+          height: 120px;
+          font-size: 1.1rem;
+     }
+
+     .formbtn {
+          width: 73%;
+          margin-left: 1em;
+     }
+
+     .footer {
+          display: block;
+     }
+
+     #footer {
+          display: block;
+          margin: 2em auto 4em auto;
+     }
+
+     .footerchild1 h1 {
+          font-size: 3em;
+          text-align: center;
+     }
+
+     .footerchild1 p {
+          text-align: center;
+          font-size: 1.4em;
+          color: rgb(165, 163, 163);
+     }
+
+     .footerchild2 {
+          display: flex;
+          margin: 10px auto;
+          justify-content: space-evenly;
+     }
+}
