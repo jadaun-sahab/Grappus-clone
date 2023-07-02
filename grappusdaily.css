@@ -337,6 +337,10 @@ p {
 }
 
 @media(max-width:600px) {
+     .section2child1 img {
+          width: 410px;
+          height: 90%;
+     }
      .section3 h1 {
           font-size: 2rem;
      }
