@@ -298,7 +298,9 @@ p {
 }
 
 @media(max-width: 830px) {
-
+     .section2mainchild{
+          display: block;
+     }
      #name,
      #email,
      #number {
