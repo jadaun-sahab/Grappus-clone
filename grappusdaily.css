@@ -231,10 +231,9 @@ p {
 
 @media(max-width: 1100px) {
      .section2child2 p{
-          font-family: 'Raleway', sans-serif;
           line-height: 1.6;
           margin : 1.8em 0;
-          width: 77%;
+          width: 90%;
      }
      .section3 {
           padding: 5em 2em 2em 2em;
