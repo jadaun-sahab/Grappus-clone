@@ -230,6 +230,11 @@ p {
 }
 
 @media(max-width: 1100px) {
+     .section2child1 img{
+          width: 510px;
+          height: 90%;
+          object-fit: cover;
+     }
      .section2child2 p{
           line-height: 1.6;
           margin : 1.8em 0;
