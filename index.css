@@ -260,11 +260,11 @@ a {
      width: 100%;
 }
 
-.block:hover { 
+.block:hover {
      border: 1px solid #ffffff44;
      background-color: #6e6e6e89;
-     box-shadow: inset 140px 1px 10px  #7d7d7daa; 
-     transform:rotateZ(360deg);
+     box-shadow: inset 140px 1px 10px #7d7d7daa;
+     transform: rotateZ(360deg);
 }
 
 
@@ -357,25 +357,27 @@ a {
 /* ---------------------------------------------SECTION-8--------------------------------------------- */
 
 
-#section8{
-     margin:  0 auto;
+#section8 {
+     margin: 0 auto;
      display: block;
      width: 87%;
 }
 
-.section8{
+.section8 {
      display: flex;
 }
-.section8child1{
+
+.section8child1 {
      width: 60%;
 }
-.section8child1 h1{
-color: white;
-font-size: 5em;
+
+.section8child1 h1 {
+     color: white;
+     font-size: 5em;
 }
 
-.section8child1 p{
-     
+.section8child1 p {
+     color: grey;
 }
 
 
