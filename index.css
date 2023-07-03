@@ -380,6 +380,7 @@ a {
 }
 
 .section8child1 p {
+     margin: 1em 0;
      font-size: 1.2rem;
      width: 50%;
      font-family: 'Raleway', sans-serif;
