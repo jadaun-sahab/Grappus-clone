@@ -264,15 +264,9 @@ a {
      /* font-size: 800px; */
      /* opacity: 0.6;   */
      border: 1px solid #ffffff44;
-     box-shadow: inset 12px -10px -100px #7d7d7daa;
+     background-color: #6e6e6e89;
+     box-shadow: inset 140px 1px 10px  #7d7d7daa;
      transform: scale(1.015);
-     filter: brightness(1.3);
-     ::before{
-          filter: brightness(.5);
-          top: -100%;
-          right: 200%;
-     }
-
 }
 
 
