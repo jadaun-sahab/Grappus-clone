@@ -278,20 +278,6 @@ p {
 }
 
 @media(max-width:450px) {
-     .section2child1 img {
-          width: 300px;
-          height: 80%;
-     }
-
-     .btns {
-          padding: 10px 18px;
-          border-radius: 30px; 
-          font-size: 14px;
-     }
-     .btn2{
-         margin:  0 10px; 
-     }
-
      .section3 h1 {
           font-size: 1.4rem;
      }
