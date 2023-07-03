@@ -6,6 +6,9 @@
 #navbar{
      margin-top: -1.5em;
 }
+#navbar >i > .fa-solid{
+     display: none;
+}
 .fa-bars{
      display: none;
 }
