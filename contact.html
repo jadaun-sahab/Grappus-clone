@@ -23,80 +23,84 @@
 
 
      <div class="cursor small"></div>
-<div class="cursor big"><div>
-     <!-- -------------------------------------- navbar -------------------------------------- -->
+     <div class="cursor big">
+          <div>
+               <!-- -------------------------------------- navbar -------------------------------------- -->
 
 
-     <div id="navbar">
-          <div class="logo"><a href="#">grappus</a></div>
-          <div class="nav">
-               <div class="nav1">
-                    <ul>
-                         <li><a href="/grappusdaily.html">GRAPPUS DAILY</a></li>
-                         <li><a href="/culture.html">CULTURE CODE</a></li>
-                         <li><a href="/careers.html">CAREERS</a></li>
-                         <li><a href="/contact.html">CONTACT</a></li>
-                    </ul>
-               </div>
-               <div class="nav2">
-                    <ul>
-                         <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                         <li><a href="#"><i class="fa-regular fa-circle-dot"></i></a></li>
-                         <li><a href="#"><i class="fa-solid fa-basketball"></i></a></li>
-                         <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-                    </ul>
-               </div>
-          </div>
-          <i class="fa-solid fa-bars"></i>
-     </div>
-
-
-     <!-- -------------------------------------- navbar -------------------------------------- -->
-
-
-     <!-- ---------------------------------- SECTION-3 form ---------------------------------- -->
-
-     <div id="section3">
-          <div class="section3">
-               <h1>Why head into the battlefield unprepared?</h1>
-               <p>We work with ideas that inspire, engage and excite. Ideas that challenge convention and shape the
-                    trends. Through our awe-inspiring personal touch, we aim to make users fall in love with your brand.
-               </p>
-               <form action="#">
-                    <div class="section3child1">
-                         <input type="text" name="name" id="name" placeholder="Name">
-                         <input type="email" name="email" id="email" placeholder="Email ID">
-                         <input type="number" name="number" id="number" placeholder="Phone number">
+               <div id="navbar">
+                    <div class="logo"><a href="#">grappus</a></div>
+                    <div class="nav">
+                         <div class="nav1">
+                              <ul>
+                                   <li><a href="/grappusdaily.html">GRAPPUS DAILY</a></li>
+                                   <li><a href="/culture.html">CULTURE CODE</a></li>
+                                   <li><a href="/careers.html">CAREERS</a></li>
+                                   <li><a href="/contact.html">CONTACT</a></li>
+                              </ul>
+                         </div>
+                         <div class="nav2">
+                              <ul>
+                                   <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                                   <li><a href="#"><i class="fa-regular fa-circle-dot"></i></a></li>
+                                   <li><a href="#"><i class="fa-solid fa-basketball"></i></a></li>
+                                   <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                              </ul>
+                         </div>
                     </div>
-                    <div class="section3child2">
-                         <input type="text" name="textarea" id="textarea">
+                    <i class="fa-solid fa-bars"></i>
+               </div>
+
+
+               <!-- -------------------------------------- navbar -------------------------------------- -->
+
+
+               <!-- ---------------------------------- SECTION-3 form ---------------------------------- -->
+
+               <div id="section3">
+                    <div class="section3">
+                         <h1>Why head into the battlefield unprepared?</h1>
+                         <p>We work with ideas that inspire, engage and excite. Ideas that challenge convention and
+                              shape the
+                              trends. Through our awe-inspiring personal touch, we aim to make users fall in love with
+                              your brand.
+                         </p>
+                         <form action="#">
+                              <div class="section3child1">
+                                   <input type="text" name="name" id="name" placeholder="Name">
+                                   <input type="email" name="email" id="email" placeholder="Email ID">
+                                   <input type="number" name="number" id="number" placeholder="Phone number">
+                              </div>
+                              <div class="section3child2">
+                                   <input type="text" name="textarea" id="textarea">
+                              </div>
+                              <button class="formbtn">SUBMIT APPLICATION &nbsp;<i
+                                        class="fa-solid fa-chevron-right"></i></button>
+                         </form>
                     </div>
-                    <button class="formbtn">SUBMIT APPLICATION &nbsp;<i class="fa-solid fa-chevron-right"></i></button>
-               </form>
-          </div>
-     </div>
-
-
-     <!-- ---------------------------------- SECTION-3 form ---------------------------------- -->
-
-      <!-- ---------------------------------- FOOTER ---------------------------------- -->
-
-      <div id="footer">
-          <div class="footer">
-               <div class="footerchild1">
-                    <h1>Grappus</h1>
-                    <p>a product development studio</p>
                </div>
-               <div class="footerchild2">
-                    <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
-                    <li><a href="#"><i class="fa-regular fa-circle-dot"></i></a></li>
-                    <li><a href="#"><i class="fa-solid fa-basketball"></i></a></li>
-                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
-               </div>
-          </div>
-     </div>
 
-     <!-- ---------------------------------- FOOTER ---------------------------------- -->
+
+               <!-- ---------------------------------- SECTION-3 form ---------------------------------- -->
+
+               <!-- ---------------------------------- FOOTER ---------------------------------- -->
+
+               <div id="footer">
+                    <div class="footer">
+                         <div class="footerchild1">
+                              <h1>Grappus</h1>
+                              <p>a product development studio</p>
+                         </div>
+                         <div class="footerchild2">
+                              <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                              <li><a href="#"><i class="fa-regular fa-circle-dot"></i></a></li>
+                              <li><a href="#"><i class="fa-solid fa-basketball"></i></a></li>
+                              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                         </div>
+                    </div>
+               </div>
+
+               <!-- ---------------------------------- FOOTER ---------------------------------- -->
 </body>
 <script>
      // --------------------------------------navbar toggle--------------------------------------
@@ -110,6 +114,27 @@
 
 
      // --------------------------------------navbar toggle--------------------------------------
+
+
+     // --------------------------------------cursor--------------------------------------
+
+
+
+     const cursorSmall = document.querySelector('.small');
+     const cursorBig = document.querySelector('.big');
+
+
+     const positionElement = (e) => {
+          const mouseY = e.clientY;
+          const mouseX = e.clientX;
+
+          cursorSmall.style.transform = `translate3d(${mouseX}px, ${mouseY}px, 0)`;
+
+          cursorBig.style.transform = `translate3d(${mouseX}px, ${mouseY}px, 0)`;
+
+     }
+
+     window.addEventListener('mousemove', positionElement)
 </script>
 
 </html>
