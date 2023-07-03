@@ -382,9 +382,10 @@ a {
 .section8child1 p {
      margin: 1em 0;
      font-size: 1.2rem;
+     line-height: 1.2;
      width: 50%;
      font-family: 'Raleway', sans-serif;
-     color: grey;
+     color: rgb(183, 183, 183);
 }
 
 
