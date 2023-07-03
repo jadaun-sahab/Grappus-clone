@@ -261,6 +261,7 @@ a {
 }
 
 .block:hover {
+     /* font-size: 800px; */
      border: 1px solid #ffffff44;
      background-color: #6e6e6e89;
      box-shadow: inset 140px 1px 10px  #7d7d7daa; 
