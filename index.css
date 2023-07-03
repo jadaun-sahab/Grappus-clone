@@ -397,7 +397,9 @@ a {
      font-family: 'Raleway', sans-serif;
      font-size: 1.1rem;
 }
-
+.section8child2{
+     display: flex;
+}
 
 
 /* ---------------------------------------------SECTION-8--------------------------------------------- */
