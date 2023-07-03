@@ -407,13 +407,12 @@ a {
      color: white;
 }
 .sec8-child1 img{
-     width: 90%; 
-     aspect-ratio: 3/2;
+     width:200px; 
+     height: 200px;
      object-fit: contain;
-     mix-blend-mode:overlay;
 }
 .container{
-     background-color: rgb(18, 18, 18);
+     background-color: rgb(255, 255, 255);
      height: 260px;
      width: 260px;
      margin: 6px;
