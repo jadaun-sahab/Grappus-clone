@@ -244,11 +244,6 @@ p {
 }
 
 @media(max-width:600px) {
-     .section2child1 img {
-          width: 400px;
-          height: 80%;
-     }
-
      .section3 h1 {
           font-size: 2rem;
      }
