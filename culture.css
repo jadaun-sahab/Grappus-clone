@@ -193,30 +193,6 @@ p {
 }
 
 @media(max-width: 830px) {
-     #section1 img {
-          width: 250px;
-
-     }
-
-     #section1 p {
-          width: 100%;
-     }
-
-     .section2mainchild {
-          display: block;
-     }
-
-     .section2child1 {
-          width: 90%;
-          margin: 0 auto;
-          display: block;
-     }
-
-     .section2child1 img {
-          width: 510px;
-          height: 90%;
-     }
-
      #name,
      #email,
      #number {
