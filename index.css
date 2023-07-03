@@ -403,9 +403,14 @@ a {
 .sec8-child1{
      display: block;
 }
+.sec8-child1 h1{
+     color: white;
+}
 .sec8-child1 img{
-     width: 100%;
-     mix-blend-mode:normal;
+     width: 90%; 
+     aspect-ratio: 3/2;
+     object-fit: contain;
+     mix-blend-mode:color-dodge;
 }
 .container{
      background-color: rgb(18, 18, 18);
