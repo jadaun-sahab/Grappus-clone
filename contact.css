@@ -6,6 +6,9 @@
 #navbar{
      margin-top: -1.5em;
 }
+.fa-bars{
+     display: none;
+}
 #section3 {
      padding-top: 5em;
      margin: 1rem auto 4em auto;
