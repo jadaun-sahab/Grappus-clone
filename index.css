@@ -389,7 +389,8 @@ a {
 }
 
 .btn8child1{
-     padding: 12px 19px;
+     background-color: white;
+     padding: 12px 26px;
      border-radius: 30px;
      color: black;
      font-weight: bold;
