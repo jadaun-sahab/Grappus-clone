@@ -359,6 +359,8 @@ a {
 
 #section8{
      margin:  0 auto;
+     display: block;
+     width: 80%;
 }
 
 
