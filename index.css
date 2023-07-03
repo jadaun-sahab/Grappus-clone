@@ -405,7 +405,7 @@ a {
 }
 .sec8-child1 img{
      width: 100%;
-     mix-blend-mode: multiply;
+     mix-blend-mode:normal;
 }
 .container{
      background-color: rgb(18, 18, 18);
