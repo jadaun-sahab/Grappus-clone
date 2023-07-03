@@ -409,7 +409,7 @@ a {
      color: white;
 }
 .sec8-child1 img{
-     width:200px; 
+     width:100%; 
      height: 200px;
      object-fit: contain;
 }
