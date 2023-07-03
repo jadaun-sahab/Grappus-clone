@@ -414,6 +414,7 @@ a {
      object-fit: contain;
 }
 .container{
+     box-shadow: 2px 2px 123px red;
      background-color: rgb(27, 27, 27);
      height: 260px;
      width: 260px;
