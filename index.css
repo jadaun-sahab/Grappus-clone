@@ -366,6 +366,9 @@ a {
 .section8{
      display: flex;
 }
+.section8child1{
+     width: 60%;
+}
 .section8child1 h1{
 color: white;
 font-size: 5em;
