@@ -404,8 +404,8 @@ a {
      display: block;
 }
 .container{
-     background-color: #403f3f;
-     height: 280px;
+     background-color: rgb(18, 18, 18);
+     height: 260px;
      width: 260px;
      margin: 6px;
      border-radius: 20px;
