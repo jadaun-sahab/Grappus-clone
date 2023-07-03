@@ -404,10 +404,11 @@ a {
      display: block;
 }
 .container{
-     background-color: #fff;
+     background-color: #403f3f;
      height: 280px;
      width: 260px;
      margin: 6px;
+     border-radius: 20px;
 }
 /* ---------------------------------------------SECTION-8--------------------------------------------- */
 
