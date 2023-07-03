@@ -379,7 +379,7 @@ body{
                }
      
                100% {
-                   //transform: scale(2.0);
+                   transform: scale(2.0);
                    background-color: red;
                }
            }
