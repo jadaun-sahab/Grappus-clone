@@ -403,6 +403,10 @@ a {
 .sec8-child1{
      display: block;
 }
+.sec8-child1 img{
+     width: 100%;
+     mix-blend-mode: multiply;
+}
 .container{
      background-color: rgb(18, 18, 18);
      height: 260px;
