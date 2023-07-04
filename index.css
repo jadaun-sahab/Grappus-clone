@@ -423,9 +423,9 @@ a {
      border-radius: 20px;
 }
 .container:hover{
-     box-shadow: 2px 2px 3px rgb(255, 0, 0), -2px -2px 13px red;
+     /* box-shadow: 2px 2px 3px rgb(255, 0, 0), -2px -2px 13px red; */
 }
-.container:nth-child(1){
+.container :nth-child(2){
      box-shadow: 2px 2px 3px rgb(255, 0, 0), -2px -2px 13px red;
 }
 /* ---------------------------------------------SECTION-8--------------------------------------------- */
