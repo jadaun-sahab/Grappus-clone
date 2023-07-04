@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,11 +19,12 @@
      </style>
 
 </head>
+
 <body>
-      <!-- -------------------------------------- navbar -------------------------------------- -->
+     <!-- -------------------------------------- navbar -------------------------------------- -->
 
 
-      <div id="navbar">
+     <div id="navbar">
           <div class="logo"><a href="/index.html">grappus</a></div>
           <div class="nav">
                <div class="nav1">
@@ -46,13 +48,13 @@
      </div>
 
 
-      <!-- -------------------------------------- navbar -------------------------------------- -->
+     <!-- -------------------------------------- navbar -------------------------------------- -->
 
 
 
-      <!-- ---------------------------------- SECTION-3 form ---------------------------------- -->
+     <!-- ---------------------------------- SECTION-3 form ---------------------------------- -->
 
-      <div id="section3">
+     <div id="section3">
           <div class="section3">
                <h1>Why head into the battlefield unprepared?</h1>
                <p>We work with ideas that inspire, engage and excite. Ideas that challenge convention and
@@ -69,8 +71,7 @@
                     <div class="section3child2">
                          <input type="text" name="textarea" id="textarea">
                     </div>
-                    <button class="formbtn">SUBMIT APPLICATION &nbsp;<i
-                              class="fa-solid fa-chevron-right"></i></button>
+                    <button class="formbtn">SUBMIT APPLICATION &nbsp;<i class="fa-solid fa-chevron-right"></i></button>
                </form>
           </div>
      </div>
@@ -97,4 +98,21 @@
 
      <!-- ---------------------------------- FOOTER ---------------------------------- -->
 </body>
+<script>
+     // --------------------------------------navbar toggle--------------------------------------
+
+
+     const toggleButton = document.getElementsByClassName('fa-bars')[0]
+     const navbarLinks = document.getElementsByClassName('nav')[0]
+     toggleButton.addEventListener('click', () => {
+          navbarLinks.classList.toggle('active')
+     })
+
+
+     // --------------------------------------navbar toggle--------------------------------------
+
+
+
+</script>
+
 </html>
