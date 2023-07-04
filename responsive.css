@@ -207,6 +207,12 @@
           line-height: 1.5;
           width: 100%;
      }
+     .section8child2{ 
+          display: flex;
+          justify-content: center;
+          text-align: center;
+          width: 100%;
+     }
      .section8{
           display: block;
      }
