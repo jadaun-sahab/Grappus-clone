@@ -420,7 +420,6 @@ a {
 }
 
 .container {
-     box-shadow: 2px 2px 3px rgb(204, 0, 255), -2px -2px 3px rgb(204, 0, 255);
      background-color: rgb(27, 27, 27);
      margin: 18px 6px;
      border-radius: 50%;
