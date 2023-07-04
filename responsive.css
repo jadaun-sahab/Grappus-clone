@@ -101,6 +101,7 @@
           width: 240px;
           height: 240px;
      }
+     
 }
 
 @media(max-width: 900px) {
@@ -188,9 +189,13 @@
           font-size: 2.6em;
           line-height: 1.3;
      }
+     .section8{
+          display: block;
+     }
 }
 
 @media(max-width: 750px) {
+    
      #banner h1 {
           font-size: 8em;
      }
