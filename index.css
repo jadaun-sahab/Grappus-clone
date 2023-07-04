@@ -425,9 +425,7 @@ a {
 .container:hover{
      /* box-shadow: 2px 2px 3px rgb(255, 0, 0), -2px -2px 13px red; */
 }
-.sec8-child1 :nth-child(){
-     box-shadow: 2px 2px 3px rgb(255, 0, 0), -2px -2px 13px red;
-}
+
 /* ---------------------------------------------SECTION-8--------------------------------------------- */
 
 
