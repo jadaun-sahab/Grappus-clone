@@ -406,6 +406,9 @@
      #section5 h1 {
           font-size: 2em;
      }
+     .section8child1 h1{
+          font-size: 2.5rem;
+     }
      .sec8-child1 img {
           width: 90%;
           height: 170px;
