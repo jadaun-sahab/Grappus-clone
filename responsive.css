@@ -317,11 +317,8 @@
      }
      
      .container {
-          margin: 18px 6px;
-          border-radius: 50%;
           width: 200px;
-          height: 200px;
-         
+          height: 200px;  
      }
      .section10 h1 {
           font-size: 2rem;
