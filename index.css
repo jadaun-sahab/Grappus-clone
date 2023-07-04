@@ -420,7 +420,7 @@ a {
      height: 260px;
      width: 260px;
      margin: 6px;
-     border-radius: 20px;
+     border-radius: 20px 20px 20px 140px;
 }
 /* .container:hover{
      box-shadow: 2px 2px 3px rgb(255, 0, 0), -2px -2px 13px red;
