@@ -152,27 +152,31 @@
 
 
 /* ------------------------------------------SECTION-5------------------------------------------ */
-#section5{
+#section5 {}
 
-}
-#section5 h1{
+#section5 h1 {
      text-align: center;
-color: white;
+     color: white;
 }
-#section5 h4{
+
+#section5 h4 {
      text-align: center;
      color: rgb(153, 149, 149);
-     }
-.section5{
-     display: grid;
-     grid-template-columns: repeat(2,1fr);
 }
-.section5child1 h1{
+
+.section5 {
+     display: grid;
+     grid-template-columns: repeat(2, 1fr);
+}
+
+.section5child1 h1 {
      color: rgb(121, 148, 255);
 }
-.section5child1 h3{
+
+.section5child1 h3 {
      color: grey;
 }
+
 /* ------------------------------------------SECTION-5------------------------------------------ */
 
 
