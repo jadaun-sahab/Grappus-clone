@@ -14,9 +14,14 @@
 .section1{
 
 }
+.section1 h4{
+     font-size: 4em;
+     padding: 1rem 0;
+     color: white;
+}
 .section1 h1{
      font-size: 4em;
-     padding: 1em 0;
+     padding: 1rem 0;
      color: white;
 }
 
