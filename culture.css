@@ -9,7 +9,7 @@
      padding-top: 10rem;
      margin: 0 auto;
      display: block;
-     width: 80%;
+     width: 70%;
 }
 .section1{
 
@@ -31,7 +31,9 @@
      line-height: 1.8;
      font-family: 'Raleway', sans-serif;
 }
-
+.section1  :nth-child(3){
+     color: blue;
+}
 
 
 /* ------------------------------------------SECTION-1------------------------------------------ */
