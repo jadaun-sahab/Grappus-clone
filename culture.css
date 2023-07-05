@@ -11,16 +11,14 @@
      display: block;
      width: 70%;
 }
-.section1{
 
-}
 .section1 h4{  
      font-family: 'Raleway', sans-serif;
      font-size: 1.6rem;
      font-weight: 500;
      color: white;
 }
-.section1 h1{
+.section1 h1{ 
      font-family: 'Raleway', sans-serif;
      font-size: 4em;
      padding: 1rem 0;
