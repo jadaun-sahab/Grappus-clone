@@ -156,8 +156,11 @@
 
 }
 #section5 h1{
-
+color: white;
 }
+#section5 h4{
+     color: rgb(153, 149, 149);
+     }
 .section5{
      display: grid;
      grid-template-columns: repeat(2,1fr);
