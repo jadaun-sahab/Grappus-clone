@@ -80,9 +80,10 @@
 
 
 #section3{
+     color: white;
      padding: 4em 0;
      text-align: center;
-     background-color: #143064;
+     background:linear-gradient(140deg,rgb(15, 15, 189),rgb(0, 0, 0));
 }
 .section3 h1{
      margin-bottom: 1em;
