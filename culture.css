@@ -137,7 +137,7 @@
 .section4 h2 {
      font-family: 'Raleway', sans-serif;
      font-size: 2rem;
-     color: rgb(52, 52, 255);
+     color: rgb(121, 148, 255);
 }
 
 .section4 p {
@@ -156,6 +156,9 @@
 .section5{
      display: grid;
      grid-template-columns: repeat(2,1fr);
+}
+.section5child1 h1{
+     color: rgb(121, 148, 255);
 }
 .section5child1 h3{
      color: grey;
