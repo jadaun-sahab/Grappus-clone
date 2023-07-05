@@ -85,11 +85,12 @@
      background-color: #6b9df9;
 }
 .section3 h1{
+     font-size: 3rem;
 text-align: center;
 }
 
 .section3 h2{
-     font-size: 7em;
+     font-size: 6em;
      padding: 10px;
 }
 
