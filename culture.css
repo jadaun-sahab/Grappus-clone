@@ -152,7 +152,12 @@
 
 
 /* ------------------------------------------SECTION-5------------------------------------------ */
+#section5{
 
+}
+#section5 h1{
+
+}
 .section5{
      display: grid;
      grid-template-columns: repeat(2,1fr);
