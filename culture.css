@@ -157,6 +157,9 @@
      display: grid;
      grid-template-columns: repeat(2,1fr);
 }
+.section5child1 h3{
+     color: grey;
+}
 /* ------------------------------------------SECTION-5------------------------------------------ */
 
 
