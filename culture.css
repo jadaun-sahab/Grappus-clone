@@ -1,36 +1,39 @@
-#navbar{
+#navbar {
      margin-top: -1.5em;
 }
 
 /* ------------------------------------------SECTION-1------------------------------------------ */
 
 
-#section1{ 
+#section1 {
      padding-top: 10rem;
      margin: 0 auto;
      display: block;
      width: 70%;
 }
 
-.section1 h4{  
+.section1 h4 {
      font-family: 'Raleway', sans-serif;
      font-size: 1.6rem;
      font-weight: 500;
      color: white;
 }
-.section1 h1{ 
+
+.section1 h1 {
      font-family: 'Raleway', sans-serif;
      font-size: 4em;
      padding: 1rem 0;
      color: white;
 }
-.section1 p{
+
+.section1 p {
      font-size: 18.5px;
      line-height: 1.8;
      font-family: 'Raleway', sans-serif;
 }
-.section1  :nth-child(3){
-  margin-bottom: 1.6em;
+
+.section1 :nth-child(3) {
+     margin-bottom: 1.6em;
 }
 
 
@@ -41,14 +44,14 @@
 /* ------------------------------------------SECTION-2------------------------------------------ */
 
 
-#section2{ 
+#section2 {
      padding-top: 10rem;
      margin: 0 auto;
      display: block;
      width: 70%;
 }
 
-.section2 h4{  
+.section2 h4 {
      letter-spacing: 12px;
      text-align: center;
      font-family: 'Raleway', sans-serif;
@@ -56,20 +59,23 @@
      font-weight: 500;
      color: white;
 }
-.section2 h1{ 
+
+.section2 h1 {
      text-align: center;
      font-family: 'Raleway', sans-serif;
-     font-size: 4em; 
+     font-size: 4em;
      color: white;
      margin-bottom: 2.3rem;
 }
-.section2 p{
+
+.section2 p {
      font-size: 18.5px;
      line-height: 1.8;
      font-family: 'Raleway', sans-serif;
 }
-.section2  :nth-child(3){
-  margin-bottom: 1.6em;
+
+.section2 :nth-child(3) {
+     margin-bottom: 1.6em;
 }
 
 
@@ -79,30 +85,31 @@
 /* ------------------------------------------SECTION-3------------------------------------------ */
 
 
-#section3{
+#section3 {
      color: white;
      padding: 8em 0;
      text-align: center;
-     background:linear-gradient(black,blue,rgb(15, 15, 189),rgb(0, 0, 0));
-}
-.section3 h1{
-     margin-bottom: 1em;
-     font-weight: 400;
-     font-size: 2rem; 
+     background: linear-gradient(black, blue, rgb(15, 15, 189), rgb(0, 0, 0));
 }
 
-.section3 h2{
+.section3 h1 {
+     margin-bottom: 1em;
+     font-weight: 400;
+     font-size: 2rem;
+}
+
+.section3 h2 {
      font-size: 3em;
      padding: 5px;
 }
 
-.section3 h3{
+.section3 h3 {
      font-size: 1rem;
      font-weight: 400;
      margin-bottom: 2rem;
 }
 
-.section3 p{
+.section3 p {
      width: 50%;
      font-size: 1.4rem;
      margin: 20px auto;
@@ -114,10 +121,10 @@
 /* ------------------------------------------SECTION-4------------------------------------------ */
 
 
-#section4{
-width: 70%;
-margin: 0 auto;
-display: block;
+#section4 {
+     width: 70%;
+     margin: 0 auto;
+     display: block;
 }
 
 
@@ -292,6 +299,7 @@ p {
 }
 
 @media(max-width: 830px) {
+
      #name,
      #email,
      #number {
@@ -404,5 +412,3 @@ p {
 
 
 /* -----------------------------------------------cursor----------------------------------------------- */
-
- 
