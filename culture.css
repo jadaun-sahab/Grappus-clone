@@ -81,7 +81,7 @@
 
 #section3{
      color: white;
-     padding: 4em 0;
+     padding: 6em 0;
      text-align: center;
      background:linear-gradient(140deg,rgb(15, 15, 189),rgb(0, 0, 0));
 }
@@ -106,7 +106,6 @@
      width: 50%;
      font-size: 1.4rem;
      margin: 20px auto;
-     color: black;
 }
 
 /* ------------------------------------------SECTION-3------------------------------------------ */
