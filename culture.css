@@ -127,6 +127,7 @@
      display: block;
 }
 .section4 h1{
+     padding: 1.2em 0;
      font-family: 'Raleway', sans-serif;
      font-size: 3em;
      color: rgb(255, 255, 255);
@@ -139,7 +140,7 @@
 .section4 p{
      font-family: 'Raleway', sans-serif;
      font-size: 1.2rem;
-     line-height: 1.5;
+     line-height: 1.7;
 }
 
 
