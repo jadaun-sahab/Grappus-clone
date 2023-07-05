@@ -5,13 +5,15 @@
 /* ------------------------------------------SECTION-1------------------------------------------ */
 
 
-#section1{
-     padding-top: 8em;
+#section1{ 
+     padding-top: 10rem;
      margin: 0 auto;
      display: block;
      width: 80%;
 }
-.section1
+.section1{
+
+}
 
 
 
