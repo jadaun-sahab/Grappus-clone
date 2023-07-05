@@ -49,12 +49,14 @@
 }
 
 .section2 h4{  
+     text-align: center;
      font-family: 'Raleway', sans-serif;
      font-size: 1.6rem;
      font-weight: 500;
      color: white;
 }
 .section2 h1{ 
+     text-align: center;
      font-family: 'Raleway', sans-serif;
      font-size: 4em;
      padding: 1rem 0;
