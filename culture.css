@@ -152,7 +152,10 @@
 
 
 /* ------------------------------------------SECTION-5------------------------------------------ */
-#section5 {}
+#section5 {
+     display: block;
+     margin: 0 auto;
+}
 
 #section5 >h1 {
      text-align: center;
