@@ -83,7 +83,7 @@
      color: white;
      padding: 6em 0;
      text-align: center;
-     background:linear-gradient(140deg,rgb(15, 15, 189),rgb(0, 0, 0));
+     background:linear-gradient(rgb(15, 15, 189),rgb(0, 0, 0));
 }
 .section3 h1{
      margin-bottom: 1em;
