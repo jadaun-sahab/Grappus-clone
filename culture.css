@@ -78,32 +78,32 @@
 
 /* ----------------------------------------SECTION-3-form---------------------------------------- */
 
-#section3 {
+#section12 {
      padding-top: 5em;
      margin: 1rem auto 4em auto;
      display: block;
      width: 87%;
 }
 
-.section3 {
+.section12 {
      padding: 8em 2em 2em 12em;
      border-radius: 20px;
      background-color: #0f0f0f;
 }
 
-.section3 form {
+.section12 form {
      display: grid;
      grid-template-columns: 320px 600px;
 }
 
-.section3 h1 {
+.section12 h1 {
      line-height: 1.3;
      font-size: 2.6rem;
      color: white;
      font-family: 'Raleway', sans-serif;
 }
 
-.section3 p {
+.section12 p {
      margin-top: 10px;
      margin-bottom: 30px;
      width: 66%;
