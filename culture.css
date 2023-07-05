@@ -191,22 +191,22 @@ p {
 
 
 @media (max-width: 1250px) {
-     #section3 {
+     #section12 {
           margin: 1rem auto 4em auto;
           width: 92%;
      }
 
-     .section3 {
+     .section12 {
           padding: 8em 2em 2em 8em;
      }
 }
 
 @media(max-width: 1100px) {
-     .section3 {
+     .section12 {
           padding: 5em 2em 2em 2em;
      }
 
-     .section3 form {
+     .section12 form {
           display: grid;
           grid-template-columns: 320px 500px;
      }
@@ -218,7 +218,7 @@ p {
 }
 
 @media(max-width: 900px) {
-     .section3 form {
+     .section12 form {
           display: grid;
           grid-template-columns: 300px 500px;
      }
@@ -259,7 +259,7 @@ p {
           font-size: 1.1rem;
      }
 
-     .section3 form {
+     .section12 form {
           display: grid;
           grid-template-columns: 300px;
      }
@@ -271,11 +271,11 @@ p {
 }
 
 @media(max-width:600px) {
-     .section3 h1 {
+     .section12 h1 {
           font-size: 2rem;
      }
 
-     .section3 p {
+     .section12 p {
           width: 86%;
      }
 
@@ -300,11 +300,11 @@ p {
 }
 
 @media(max-width:450px) {
-     .section3 h1 {
+     .section12 h1 {
           font-size: 1.4rem;
      }
 
-     .section3 p {
+     .section12 p {
           width: 90%;
      }
 
