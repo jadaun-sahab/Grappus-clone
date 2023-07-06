@@ -627,6 +627,9 @@ p {
      .section5child1 {
           width: 96%;
      }
+     .section8child {
+          display: block;
+     }
      
 }
 
