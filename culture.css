@@ -332,8 +332,9 @@
 }
 
 .section9 {
+     padding: 2em 0;
      display: block;
-     margin: 0 auto;
+     margin: 2em auto;
      width: 75%;
 }
 
