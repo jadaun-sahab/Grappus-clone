@@ -223,7 +223,9 @@
 .section6 h3 {
      text-align: center;
      color: white;
-
+}
+.section6 p{
+     padding-bottom: 3em;
 }
 
 /* ------------------------------------------SECTION-6------------------------------------------ */
