@@ -286,7 +286,10 @@
      margin: 0 auto;
      width: 75%;
 }
-
+.section8child{
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+}
 
 /* ------------------------------------------SECTION-8------------------------------------------ */
 
