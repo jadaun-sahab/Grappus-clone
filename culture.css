@@ -624,6 +624,10 @@ p {
           display: block;
           width: 80%;
      }
+     .section5child1 {
+          width: 96%;
+     }
+     
 }
 
 @media(max-width:600px) {
