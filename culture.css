@@ -345,9 +345,11 @@
 }
 
 .section9 p {
+     width: 90%;
      font-family: 'Raleway', sans-serif;
      line-height: 1.8;
      padding-bottom: 1em;
+     font-size: 1.2rem;
 }
 
 /* ------------------------------------------SECTION-9------------------------------------------ */
