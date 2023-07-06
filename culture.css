@@ -151,15 +151,16 @@
 
 /* ------------------------------------------SECTION-5------------------------------------------ */
 #section5 {
-     margin: 4em 0;
      padding: 3em 0;
-     /* background-color: #121212; */
+     background:linear-gradient(rgb(18, 18, 18),black);
+     margin: 4em auto;
+     width: 90%;
 }
 
 .section5 {
      background:linear-gradient(rgb(18, 18, 18),black);
      margin: 3em auto;
-     width: 70%;
+     width: 90%;
      display: grid;
      grid-template-columns: repeat(2, 1fr);
 }
