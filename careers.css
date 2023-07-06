@@ -19,7 +19,12 @@
      width: 100%;
      background: url("./images/video-bg.png") no-repeat center center/cover;
 }
-
+.section1 h1{
+     color: white;
+     font-size: 5em;
+     position: absolute;
+     top: 80%;
+}
 
 /*-- ------------------------------------- section-1 ------------------------------------ */
 
