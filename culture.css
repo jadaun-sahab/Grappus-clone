@@ -618,6 +618,9 @@ p {
           margin-left: 16em;
      }
 }
+@media(max-width:768px){
+     
+}
 
 @media(max-width:600px) {
      .section12 h1 {
