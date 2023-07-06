@@ -324,7 +324,7 @@
 
 /* ------------------------------------------SECTION-9------------------------------------------ */
 #section9 {
-     background-color: #131313;
+     background:linear-gradient(rgb(18, 18, 18),black);
      border-radius: 20px;
      display: block;
      margin: 2em auto;
