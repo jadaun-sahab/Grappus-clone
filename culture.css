@@ -184,9 +184,11 @@
 
 .section5child1 h1 { 
      color: rgb(121, 148, 255);
+     font-size: 1rem;
 }
 
 .section5child1 h3 {
+     padding: 1.2rem 0;
      color: grey;
 }
 
