@@ -619,7 +619,11 @@ p {
      }
 }
 @media(max-width:768px){
-     
+     .section5 {
+          margin: 3em auto;
+          display: block;
+          width: 80%;
+     }
 }
 
 @media(max-width:600px) {
