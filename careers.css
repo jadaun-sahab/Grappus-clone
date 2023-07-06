@@ -11,8 +11,8 @@
 #section1::before {
      position: absolute;
      content: "";
-     top: 0px;
-     left: 0px;
+     top: 0;
+     left: 0;
      z-index: -1;
      opacity: 0.9;
      height: 100%;
