@@ -622,6 +622,10 @@ p {
      #section1 {
           width: 95%;
      }
+     .section1 h1 { 
+          font-size: 2em; 
+     }
+     
      .section3 h1 {  
           font-size: 1.3rem;
           width: 90%;
