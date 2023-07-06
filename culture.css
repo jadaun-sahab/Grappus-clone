@@ -297,6 +297,8 @@
      grid-template-columns: repeat(2,1fr);
 }
 .section8child li{
+     padding: 18px ;
+     line-height: 1.9;
 list-style: square;
 color: white;
 }
