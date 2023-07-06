@@ -626,7 +626,7 @@ p {
           font-size: 2em; 
      }
      #section2 { 
-          width: 96%;
+          width: 95%;
      }
      .section3 h1 {  
           font-size: 1.3rem;
@@ -636,6 +636,9 @@ p {
      .section3 p {
           width: 80%;
           font-size: 1.2rem; 
+     }
+     #section4 {
+          width: 95%; 
      }
      .section5 {
           margin: 3em auto;
