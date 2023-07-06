@@ -286,15 +286,19 @@
      margin: 0 auto;
      width: 75%;
 }
-.section8child{
-     display: grid;
-     grid-template-columns: repeat(2,1fr);
-}
 .section8 h1{
      color: white;
 }
 .section8 h2{
      color: white;
+}
+.section8child{
+     display: grid;
+     grid-template-columns: repeat(2,1fr);
+}
+.section8child li{
+list-style: square;
+color: white;
 }
 
 /* ------------------------------------------SECTION-8------------------------------------------ */
