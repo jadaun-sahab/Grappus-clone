@@ -241,6 +241,8 @@
 /* ------------------------------------------SECTION-7------------------------------------------ */
 
 .section7{
+     background-color: #171717;
+     border-radius: 20px;
      display: block;
      margin: 0 auto;
      width: 70%;
