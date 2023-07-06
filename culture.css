@@ -248,6 +248,8 @@
      width: 90%;
 }
 .section7{
+     display: block;
+     margin: 0 auto;
      width: 70%;
 }
 .section7 h1{
