@@ -619,12 +619,14 @@ p {
      }
 }
 @media(max-width:768px){
-     .section3 h1 {
-          margin-bottom: 1em;
-          font-weight: 400;
+     .section3 h1 {  
           font-size: 1.3rem;
           width: 90%;
           margin: 0 auto 1em auto;
+     }
+     .section3 p {
+          width: 80%;
+          font-size: 1.2rem; 
      }
      .section5 {
           margin: 3em auto;
