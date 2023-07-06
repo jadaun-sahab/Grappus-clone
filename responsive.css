@@ -470,6 +470,22 @@
           justify-content: space-evenly;
      }
 }
-@media(max-width:380px){
-      
+@media(max-width:370px){
+     #name,
+     #email,
+     #number {
+          padding: 12px 4px 17px 12px;
+          margin: 12px 0;
+     }
+
+     #textarea {
+          padding: 17px 200px 17px 17px;
+          width: 235px;
+          height: 120px;
+          font-size: 1.1rem;
+     }
+     .formbtn {
+          width: 72%;
+          margin-left: 10px;
+     }
 }
