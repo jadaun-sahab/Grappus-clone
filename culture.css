@@ -310,7 +310,7 @@
 
 .section8child li {
      font-family: 'Raleway', sans-serif;
-     padding: 30px 0;
+     padding: 25px 0 4px 0;
      line-height: 1.9;
      list-style: square;
      color: white;
