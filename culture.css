@@ -241,7 +241,7 @@
 /* ------------------------------------------SECTION-7------------------------------------------ */
 
 #section7{
-     background-color: #171717;
+     background-color: #131313;
      border-radius: 20px;
      display: block;
      margin: 0 auto;
@@ -257,7 +257,7 @@
      font-family: 'Raleway', sans-serif;
      text-align: center;
      color: white;
-     padding: 1.6em 0 1em 0;
+     padding: 1.6em 0 1rem 0;
 }
 
 .section7 p{
