@@ -302,13 +302,13 @@
 }
 
 .section8child {
-     grid-gap: 20px;
+     grid-gap: 30px;
      display: grid;
      grid-template-columns: repeat(2, 1fr);
 }
 
 .section8child li {
-     padding: 18px 0;
+     padding: 38px 0;
      line-height: 1.9;
      list-style: square;
      color: white;
