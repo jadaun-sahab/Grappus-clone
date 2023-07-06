@@ -784,6 +784,10 @@ p {
           height: 120px;
           font-size: 1.1rem;
      }
+     .formbtn {
+          width: 70%;
+          margin-left: 10px;
+     }
 }
 
 
