@@ -294,6 +294,8 @@
 }
 
 .section8 h1 {
+     font-family: 'Raleway', sans-serif;
+     line-height: 1.7;
      padding-top: 3em;
      color: white;
 }
