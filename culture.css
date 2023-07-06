@@ -331,7 +331,9 @@
      width: 90%;
 }
 .section9{
-
+     display: block;
+     margin: 0 auto;
+     width: 75%;
 }
 .section9 h1{
 color: white;
