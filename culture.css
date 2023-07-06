@@ -152,18 +152,19 @@
 
 
 /* ------------------------------------------SECTION-5------------------------------------------ */
-#section5{
+#section5 {
      margin: 4em 0;
      padding: 3em 0;
      background-color: #121212;
 }
+
 .section5 {
      width: 70%;
      display: block;
      margin: 3em auto;
 }
 
-#section5 >h1 {
+#section5>h1 {
      font-size: 2.5rem;
      text-align: center;
      color: white;
@@ -182,11 +183,11 @@
      grid-template-columns: repeat(2, 1fr);
 }
 
-.section5child1{ 
-    width: 80%;
+.section5child1 {
+     width: 80%;
 }
 
-.section5child1 h1 { 
+.section5child1 h1 {
      color: rgb(121, 148, 255);
      font-size: 1rem;
 }
@@ -206,19 +207,22 @@
 
 /* ------------------------------------------SECTION-6------------------------------------------ */
 
-#section6{
+#section6 {}
 
+.section6 {
+     display: block;
+     margin: 0 auto;
 }
-.section6{
 
-}
-.section6 h1{
+.section6 h1 {
      text-align: center;
      color: white;
 }
-.section6 h3{
+
+.section6 h3 {
      text-align: center;
-     
+     color: white;
+
 }
 
 /* ------------------------------------------SECTION-6------------------------------------------ */
