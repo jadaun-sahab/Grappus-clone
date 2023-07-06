@@ -87,7 +87,7 @@
      color: white;
      padding: 8em 0;
      text-align: center;
-     background: linear-gradient(black, blue, rgb(15, 15, 189), rgb(0, 0, 0));
+     background: linear-gradient(black, rgb(43, 43, 43), rgb(0, 0, 0));
 }
 
 .section3 h1 {
