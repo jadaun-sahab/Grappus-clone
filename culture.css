@@ -155,12 +155,12 @@
      background:linear-gradient(rgb(18, 18, 18),black);
      margin: 4em auto;
      width: 90%;
+     border-radius: 20px;
 }
 
-.section5 {
-     background:linear-gradient(rgb(18, 18, 18),black);
+.section5 { 
      margin: 3em auto;
-     width: 90%;
+     width: 70%;
      display: grid;
      grid-template-columns: repeat(2, 1fr);
 }
