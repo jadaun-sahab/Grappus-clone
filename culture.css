@@ -227,7 +227,8 @@
      text-align: center;
      color: white;
 }
-.section6 p{
+
+.section6 p {
      font-family: 'Raleway', sans-serif;
      font-size: 1.2rem;
      padding-bottom: 3em;
@@ -240,19 +241,21 @@
 /* ------------------------------------------SECTION-7------------------------------------------ */
 /* ------------------------------------------SECTION-7------------------------------------------ */
 
-#section7{
+#section7 {
      background-color: #131313;
      border-radius: 20px;
      display: block;
      margin: 0 auto;
      width: 90%;
 }
-.section7{
+
+.section7 {
      display: block;
      margin: 0 auto;
      width: 75%;
 }
-.section7 h1{
+
+.section7 h1 {
      font-size: 3.5em;
      font-family: 'Raleway', sans-serif;
      text-align: center;
@@ -260,47 +263,54 @@
      padding: 1.6em 0 1rem 0;
 }
 
-.section7 p{
+.section7 p {
      font-size: 1.2em;
      line-height: 1.7;
      font-family: 'Raleway', sans-serif;
      color: white;
      padding: 1.6em 0 1em 0;
 }
-.section7 h3{
+
+.section7 h3 {
      padding: 1.6rem 0 0 0;
      color: rgb(170, 170, 254);
 }
+
 /* ------------------------------------------SECTION-8------------------------------------------ */
 
 
-#section8{
+#section8 {
      background-color: #131313;
      border-radius: 20px;
      display: block;
      margin: 0 auto;
      width: 90%;
 }
-.section8{
+
+.section8 {
      display: block;
      margin: 0 auto;
      width: 75%;
 }
-.section8 h1{
+
+.section8 h1 {
      color: white;
 }
-.section8 h2{
+
+.section8 h2 {
      color: white;
 }
-.section8child{
+
+.section8child {
      display: grid;
-     grid-template-columns: repeat(2,1fr);
+     grid-template-columns: repeat(2, 1fr);
 }
-.section8child li{
-     padding: 18px ;
+
+.section8child li {
+     padding: 18px 0;
      line-height: 1.9;
-list-style: square;
-color: white;
+     list-style: square;
+     color: white;
 }
 
 /* ------------------------------------------SECTION-8------------------------------------------ */
