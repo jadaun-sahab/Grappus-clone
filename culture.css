@@ -338,7 +338,10 @@
 .section9 h1{
      font-size: 3rem;
 color: white;
-padding-bottom: 2em;
+padding-bottom: 1em;
+}
+.section9 p{
+     
 }
 /* ------------------------------------------SECTION-9------------------------------------------ */
 
