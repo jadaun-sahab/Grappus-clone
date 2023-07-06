@@ -662,6 +662,7 @@ p {
      .section7 { 
           width: 90%;
      }
+     
      .section8child {
           display: block;
      }
@@ -710,6 +711,12 @@ p {
 }
 
 @media(max-width:450px) {
+     .section7 h1{
+          font-size: 2.4em;
+     }
+     .section6 h1{
+          font-size: 2.4em;
+     }
      .section12 h1 {
           font-size: 1.4rem;
      }
