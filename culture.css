@@ -619,6 +619,9 @@ p {
      }
 }
 @media(max-width:768px){
+     #section1 {
+          width: 95%;
+     }
      .section3 h1 {  
           font-size: 1.3rem;
           width: 90%;
