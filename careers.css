@@ -27,7 +27,11 @@
      left: 6%;
 }
 .section1 h2{
-     
+     color: white;
+     font-size: 5em;
+     position: absolute;
+     top: 67%;
+     left: 6%;
 }
 
 /*-- ------------------------------------- section-1 ------------------------------------ */
