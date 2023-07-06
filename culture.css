@@ -153,10 +153,11 @@
 #section5 {
      margin: 4em 0;
      padding: 3em 0;
-     background-color: #121212;
+     /* background-color: #121212; */
 }
 
 .section5 {
+     background:linear-gradient(rgb(18, 18, 18),black);
      margin: 3em auto;
      width: 70%;
      display: grid;
@@ -636,6 +637,9 @@ p {
      .section3 p {
           width: 80%;
           font-size: 1.2rem; 
+     }
+     .section4 h1{
+          text-align: center;
      }
      #section4 {
           width: 95%; 
