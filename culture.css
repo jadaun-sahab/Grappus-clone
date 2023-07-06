@@ -283,7 +283,7 @@
      background-color: #131313;
      border-radius: 20px;
      display: block;
-     margin: 0 auto;
+     margin: 2em auto;
      width: 90%;
 }
 
@@ -302,6 +302,7 @@
 }
 
 .section8child {
+     grid-gap: 20px;
      display: grid;
      grid-template-columns: repeat(2, 1fr);
 }
