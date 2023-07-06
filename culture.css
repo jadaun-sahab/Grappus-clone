@@ -272,6 +272,22 @@
      color: rgb(170, 170, 254);
 }
 /* ------------------------------------------SECTION-8------------------------------------------ */
+
+
+#section8{
+     background-color: #131313;
+     border-radius: 20px;
+     display: block;
+     margin: 0 auto;
+     width: 90%;
+}
+.section8{
+     display: block;
+     margin: 0 auto;
+     width: 75%;
+}
+
+
 /* ------------------------------------------SECTION-8------------------------------------------ */
 
 
