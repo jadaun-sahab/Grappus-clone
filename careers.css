@@ -105,6 +105,9 @@
 .section4mainchild{
      display: flex;
 }
+.section4child1{
+     
+}
 .section4child1 h2{
      margin: 10px 0;
      color: white;
