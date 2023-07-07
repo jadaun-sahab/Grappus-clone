@@ -115,7 +115,7 @@
 
 .section4mainchild {
      display: grid;
-     grid-template-columns: repeat(3,1fr);
+     grid-template-columns: repeat(3, 1fr);
 }
 
 .section4child1 {
@@ -160,7 +160,7 @@
 
 .section5mainchild {
      display: grid;
-     grid-template-columns: repeat(3,1fr);
+     grid-template-columns: repeat(3, 1fr);
 }
 
 .section5child1 {
@@ -206,7 +206,7 @@
 
 .section6mainchild {
      display: grid;
-     grid-template-columns: repeat(3,1fr);
+     grid-template-columns: repeat(3, 1fr);
 }
 
 .section6child1 {
@@ -253,7 +253,7 @@
 
 .section7mainchild {
      display: grid;
-     grid-template-columns: repeat(3,1fr);
+     grid-template-columns: repeat(3, 1fr);
 }
 
 .section7child1 {
@@ -281,7 +281,7 @@
 /*-- --------------------------------------- section-8 ------------------------------------- */
 
 
-#section8{
+#section8 {
      width: 90%;
      display: block;
      margin: 0 auto;
@@ -300,7 +300,7 @@
 
 .section8mainchild {
      display: grid;
-     grid-template-columns: repeat(3,1fr);
+     grid-template-columns: repeat(3, 1fr);
 }
 
 .section8child1 {
@@ -338,17 +338,21 @@
      background-color: #0f0f0f;
      display: flex;
 }
-.section10child1{
+
+.section10child1 {
      display: block;
 }
-.section10child1 img{
-width: 55%;
-margin-top: -3em;
+
+.section10child1 img {
+     width: 55%;
+     margin-top: -3em;
 }
-.section10child1 p{
+
+.section10child1 p {
      font-size: 1.2em;
 }
-.section10child1 h1{
+
+.section10child1 h1 {
      font-size: 3em;
      font-family: 'Raleway', sans-serif;
      color: white;
