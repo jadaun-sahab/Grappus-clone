@@ -342,7 +342,8 @@
      display: block;
 }
 .section10child1 img{
-width: 80%;
+width: 55%;
+margin-top: -1em;
 }
 .section10child1 p{
      font-size: 1.2em;
