@@ -277,7 +277,44 @@
 /*-- --------------------------------------- section-8 ------------------------------------- */
 
 
+#section7 {
+     width: 90%;
+     display: block;
+     margin: 0 auto;
+}
 
+.section7 {
+     margin: 2em 0;
+}
+
+.section7 h5 {
+     margin-top: 60px;
+     margin-bottom: 28px;
+     font-size: 1.3em;
+     color: white;
+}
+
+.section7mainchild {
+     display: flex;
+}
+
+.section7child1 {
+     margin-right: 12em;
+}
+
+.section7child1 h2 {
+     margin: 10px 0;
+     color: white;
+}
+
+.section7child1 p {
+     color: rgb(198, 198, 198);
+     margin-bottom: 19px;
+}
+
+.section7child1 a {
+     color: white;
+}
 
 
 /*-- --------------------------------------- section-8 ------------------------------------- */
