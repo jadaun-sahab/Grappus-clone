@@ -333,7 +333,7 @@
 }
 
 .section10 {
-     padding: 0 2em;
+     padding: 0 4em;
      border-radius: 20px;
      background-color: #0f0f0f;
      display: flex;
@@ -346,6 +346,7 @@
 .section10child1 img {
      width: 55%;
      margin-top: -3em;
+     margin-bottom: 1em;
 }
 
 .section10child1 p {
