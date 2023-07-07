@@ -38,13 +38,15 @@
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
 .section2{
-     width: 90%;
+     width: 70%;
      margin: 0 auto;
 }
 .section2 h1{
      color: white;
      font-family: 'Raleway', sans-serif;
      font-size: 1.2rem;
+     font-weight: 400;
+
 }
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
