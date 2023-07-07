@@ -19,14 +19,16 @@
      width: 100%;
      background: url("./images/video-bg.png") no-repeat center center/cover;
 }
-.section1 h1{
+
+.section1 h1 {
      color: white;
      font-size: 5em;
      position: absolute;
      top: 55%;
      left: 6%;
 }
-.section1 h2{
+
+.section1 h2 {
      color: white;
      font-size: 5em;
      position: absolute;
@@ -37,13 +39,14 @@
 /*-- ------------------------------------- section-1 ------------------------------------ */
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
-#section2{
+#section2 {
      width: 90%;
      display: block;
      text-align: left;
      margin: 2em auto;
 }
-#section2 h1{
+
+#section2 h1 {
      width: 76%;
      color: white;
      font-family: 'Raleway', sans-serif;
@@ -57,29 +60,34 @@
 
 /*-- ------------------------------------- section-3 ------------------------------------ */
 
-#section3{
+#section3 {
      width: 90%;
      display: block;
      margin: 0 auto;
 }
-.section3{
+
+.section3 {
      margin: 2em 0;
 }
-.section3 h5{
+
+.section3 h5 {
      margin-top: 60px;
      margin-bottom: 28px;
      font-size: 1.3em;
      color: white;
 }
-.section3child1 h2{
+
+.section3child1 h2 {
      margin: 10px 0;
      color: white;
 }
-.section3child1 p{
+
+.section3child1 p {
      color: rgb(198, 198, 198);
      margin-bottom: 19px;
 }
-.section3child1 a{
+
+.section3child1 a {
      color: white;
 }
 
@@ -88,35 +96,42 @@
 /*-- --------------------------------------- section-4 ------------------------------------- */
 
 
-#section4{
+#section4 {
      width: 90%;
      display: block;
      margin: 0 auto;
 }
-.section4{
+
+.section4 {
      margin: 2em 0;
 }
-.section4 h5{
+
+.section4 h5 {
      margin-top: 60px;
      margin-bottom: 28px;
      font-size: 1.3em;
      color: white;
 }
-.section4mainchild{
+
+.section4mainchild {
      display: flex;
 }
-.section4child1{
+
+.section4child1 {
      margin-right: 12em;
 }
-.section4child1 h2{
+
+.section4child1 h2 {
      margin: 10px 0;
      color: white;
 }
-.section4child1 p{
+
+.section4child1 p {
      color: rgb(198, 198, 198);
      margin-bottom: 19px;
 }
-.section4child1 a{
+
+.section4child1 a {
      color: white;
 }
 
