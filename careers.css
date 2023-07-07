@@ -336,8 +336,11 @@
      padding: 8em 2em 2em 12em;
      border-radius: 20px;
      background-color: #0f0f0f;
+     display: flex;
 }
-
+.section10child1{
+     display: block;
+}
 
 /* ----------------------------------------SECTION-10---------------------------------------- */
 
