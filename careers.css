@@ -231,42 +231,42 @@
 /*-- --------------------------------------- section-7 ------------------------------------- */
 
 
-#section5 {
+#section7 {
      width: 90%;
      display: block;
      margin: 0 auto;
 }
 
-.section5 {
+.section7 {
      margin: 2em 0;
 }
 
-.section5 h5 {
+.section7 h5 {
      margin-top: 60px;
      margin-bottom: 28px;
      font-size: 1.3em;
      color: white;
 }
 
-.section5mainchild {
+.section7mainchild {
      display: flex;
 }
 
-.section5child1 {
+.section7child1 {
      margin-right: 12em;
 }
 
-.section5child1 h2 {
+.section7child1 h2 {
      margin: 10px 0;
      color: white;
 }
 
-.section5child1 p {
+.section7child1 p {
      color: rgb(198, 198, 198);
      margin-bottom: 19px;
 }
 
-.section5child1 a {
+.section7child1 a {
      color: white;
 }
 
