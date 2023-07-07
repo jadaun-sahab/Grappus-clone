@@ -55,10 +55,12 @@
      margin: 2em 0;
 }
 .section3 h5{
+     margin-bottom: 16px;
      font-size: 1.3em;
      color: white;
 }
 .section3child1 h2{
+     margin: 10px 0;
      color: white;
 }
 
