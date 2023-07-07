@@ -329,11 +329,11 @@
 #section10 {
      margin: 1rem auto 4em auto;
      display: block;
-     width: 87%;
+     width: 90%;
 }
 
 .section10 {
-     padding: 8em 2em 2em 12em;
+     padding: 0 2em;
      border-radius: 20px;
      background-color: #0f0f0f;
      display: flex;
