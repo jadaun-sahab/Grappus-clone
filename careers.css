@@ -37,13 +37,13 @@
 /*-- ------------------------------------- section-1 ------------------------------------ */
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
-.section2{
+#section2{
      width: 90%;
      display: block;
      text-align: left;
      margin: 0 auto;
 }
-.section2 h1{
+#section2 h1{
      width: 73%;
      color: white;
      font-family: 'Raleway', sans-serif;
