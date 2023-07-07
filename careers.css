@@ -38,7 +38,9 @@
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
 .section2{
-     width: 70%;
+     width: 90%;
+     display: block;
+     text-align: left;
      margin: 0 auto;
 }
 .section2 h1{
