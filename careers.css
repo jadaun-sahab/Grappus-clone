@@ -359,6 +359,28 @@
      color: white;
 }
 
+#name,
+#email,
+#number,
+#file {
+     font-size: 1.1rem;
+     padding: 17px 38px;
+     color: rgb(255, 255, 255);
+     background-color: #1a1a1a;
+     border-radius: 25px;
+     border: none;
+     margin: 12px 0;
+}
+
+#textarea {
+     width: 90%;
+     height: 95%;
+     font-size: 1.1rem;
+     border-radius: 30px;
+     color: rgb(255, 255, 255);
+     border: none;
+     background-color: #1a1a1a;
+}
 /* ----------------------------------------SECTION-10---------------------------------------- */
 
 /* ------------------------------------------FOOTER------------------------------------------ */
