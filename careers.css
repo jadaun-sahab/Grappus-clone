@@ -185,42 +185,42 @@
 /*-- --------------------------------------- section-6 ------------------------------------- */
 
 
-#section5 {
+#section6 {
      width: 90%;
      display: block;
      margin: 0 auto;
 }
 
-.section5 {
+.section6 {
      margin: 2em 0;
 }
 
-.section5 h5 {
+.section6 h5 {
      margin-top: 60px;
      margin-bottom: 28px;
      font-size: 1.3em;
      color: white;
 }
 
-.section5mainchild {
+.section6mainchild {
      display: flex;
 }
 
-.section5child1 {
+.section6child1 {
      margin-right: 12em;
 }
 
-.section5child1 h2 {
+.section6child1 h2 {
      margin: 10px 0;
      color: white;
 }
 
-.section5child1 p {
+.section6child1 p {
      color: rgb(198, 198, 198);
      margin-bottom: 19px;
 }
 
-.section5child1 a {
+.section6child1 a {
      color: white;
 }
 
