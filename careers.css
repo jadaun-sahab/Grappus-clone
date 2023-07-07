@@ -64,7 +64,11 @@
      color: white;
 }
 .section3child1 p{
+     color: rgb(198, 198, 198);
      margin-bottom: 19px;
+}
+.section3child1 a{
+     color: white;
 }
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
