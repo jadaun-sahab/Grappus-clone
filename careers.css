@@ -341,6 +341,9 @@
 .section10child1{
      display: block;
 }
+.section10child1 h1{
+     color: white;
+}
 
 /* ----------------------------------------SECTION-10---------------------------------------- */
 
