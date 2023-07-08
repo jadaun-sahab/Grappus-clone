@@ -472,14 +472,14 @@ p {
           margin-top: -5.6rem;
      }
 
-     #name,
+     /* #name,
      #email,
      #number {
           width: 40%;
      }
 
      #textarea {
-          width: 85%;
+          width: 100%;
      }
 
      .form-control {
@@ -488,5 +488,5 @@ p {
 
      .formbtn {
           width: 80%;
-     }
+     } */
 }
