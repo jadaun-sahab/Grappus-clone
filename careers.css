@@ -367,7 +367,7 @@
 #number,
 #file {
      font-size: 1.1rem;
-     padding: 17px 3px;
+     padding: 17px 1px 17px 17px;
      color: rgb(255, 255, 255);
      background-color: #1a1a1a;
      border-radius: 25px;
@@ -388,7 +388,7 @@
 .form-control{
      width: 220px;
      font-size: 1.1rem;
-     padding: 17px 3px;
+     padding: 17px 1px 17px 17px;
      margin-top: -3.9em;
      margin-bottom: 1rem;
      margin-left: 13em;
