@@ -460,4 +460,9 @@ p {
      .form-control{
          margin-top: -5.6rem;
      }
+     .section10child1 h1 {
+          font-size: 2em;
+          font-family: 'Raleway', sans-serif;
+          color: white;
+     }
 }
