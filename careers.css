@@ -372,14 +372,10 @@
      border-radius: 25px;
      border: none;
      margin: 12px 10px 12px 0;
-}
-#file{
-
-}
+} 
  
-
 #textarea {
-     width: 90%;
+     width: 87%;
      height: 300px;
      font-size: 1.1rem;
      border-radius: 30px;
@@ -393,7 +389,7 @@
      padding: 17px 1px 17px 17px;
      margin-top: -3.9em;
      margin-bottom: 1rem;
-     margin-left: 16em;
+     margin-left: 15.4em;
      border-radius: 30px;
      color: rgb(117, 113, 114);
      border: none;
