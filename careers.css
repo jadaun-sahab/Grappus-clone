@@ -473,8 +473,10 @@ p {
      }
     
 }
-@media (min-width: 880px) and (max-width: 830px){
-     
+@media (max-width: 876px) and (min-width: 830px){
+     .form-control {
+          margin-top: -5.3em;
+     }
 }
  
 
