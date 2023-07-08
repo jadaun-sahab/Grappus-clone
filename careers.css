@@ -115,7 +115,7 @@
 
 .section4mainchild {
      display: grid;
-     grid-template-columns: repeat(3, 1fr);
+     grid-template-columns: repeat(2, 1fr);
 }
 
 .section4child1 {
@@ -160,7 +160,7 @@
 
 .section5mainchild {
      display: grid;
-     grid-template-columns: repeat(3, 1fr);
+     grid-template-columns: repeat(2, 1fr);
 }
 
 .section5child1 {
@@ -474,7 +474,13 @@ p {
      .section10 {
           padding: 0 1em 0 2em;
      }
-
+     .section7mainchild {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .section7child1{
+          margin: 20px 0;
+     }
 }
 
 @media (max-width: 876px) and (min-width: 830px) {
