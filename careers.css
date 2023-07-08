@@ -457,12 +457,16 @@ p {
 
 
 @media(max-width:1130px) {
-     .form-control{
-         margin-top: -5.6rem;
+     .section10child1 {
+          width: 50%;
+          display: block;
      }
      .section10child1 h1 {
           font-size: 2em;
           font-family: 'Raleway', sans-serif;
           color: white;
+     }
+     .form-control{
+         margin-top: -5.6rem;
      }
 }
