@@ -535,8 +535,9 @@ p {
      .section7mainchild,
      .section8mainchild {
          display: block;
-         width: 90%;
-         margin: 0 auto;
          text-align: center;
+     }
+     .section2,.section3,.section4,.section5,.section6,.section7,.section8{
+          text-align: center;
      }
 }
