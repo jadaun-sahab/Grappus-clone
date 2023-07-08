@@ -500,12 +500,11 @@ p {
      #name,
      #email,
      #number {
-          width: 40%;
+          width: 46.5%;
      }
 
      #textarea {
           width: 96%;
-          height: 300px;
      }
 
      .form-control {
