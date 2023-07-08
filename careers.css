@@ -469,4 +469,45 @@ p {
      .form-control{
          margin-top: -5.6rem;
      }
+     #name,
+#email,
+#number {
+     width: 40%;
+     font-size: 1.1rem;
+     padding-left: 17px;
+     padding-top: 17px;
+     padding-bottom: 17px;
+     color: rgb(255, 255, 255);
+     background-color: #1a1a1a;
+     border-radius: 25px;
+     border: none;
+     margin: 12px 10px 12px 0;
+}
+
+#textarea {
+     width: 85%;
+     height: 300px;
+     font-size: 1.1rem;
+     border-radius: 30px;
+     color: rgb(255, 255, 255);
+     border: none;
+     background-color: #1a1a1a;
+}
+
+.form-control {
+     width: 42%;
+     font-size: 1.1rem;
+     padding: 17px 1px 17px 17px;
+     margin-top: -3.9em;
+     margin-bottom: 1rem;
+     margin-left: 42%;
+     border-radius: 30px;
+     color: rgb(117, 113, 114);
+     border: none;
+     background-color: #1a1a1a;
+}
+
+.formbtn {
+     width: 80%;
+}
 }
