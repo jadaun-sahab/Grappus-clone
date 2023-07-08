@@ -384,7 +384,9 @@
      border: none;
      background-color: #1a1a1a;
 }
-
+.form-control{
+     
+}
 .formbtn {
      width: 80%;
      margin-left: 1em;
