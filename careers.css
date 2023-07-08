@@ -461,12 +461,8 @@ p {
           font-size: 5em;
      }
      
-     .section1 h2 {
-          color: white;
-          font-size: 5em;
-          position: absolute;
-          top: 67%;
-          left: 6%;
+     .section1 h2 { 
+          font-size: 5em; 
      }
      .section10child1 {
           width: 40%;
