@@ -473,7 +473,11 @@ p {
      }
     
 }
+@media (min-width: 880px) and (max-width: 830px){
+     
+}
+ 
 
 @media(max-width:830px){
-     
+
 }
