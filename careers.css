@@ -388,8 +388,14 @@
      background-color: #1a1a1a;
 }
 .form-control{
+     font-size: 1.1rem;
+     padding: 17px 3px;
      margin-top: -3em;
      margin-left: 18em;
+     border-radius: 30px;
+     color: rgb(255, 255, 255);
+     border: none;
+     background-color: #1a1a1a;
 }
 .formbtn {
      width: 80%;
