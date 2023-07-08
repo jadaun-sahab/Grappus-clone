@@ -457,6 +457,21 @@ p {
 
 
 @media(max-width:1130px) {
+     .section1 h1 {
+          color: white;
+          font-size: 5em;
+          position: absolute;
+          top: 55%;
+          left: 6%;
+     }
+     
+     .section1 h2 {
+          color: white;
+          font-size: 5em;
+          position: absolute;
+          top: 67%;
+          left: 6%;
+     }
      .section10child1 {
           width: 40%;
      }
