@@ -458,7 +458,7 @@ p {
 
 @media(max-width:1130px) {
      .section10child1 {
-          width: 50%;
+          width: 40%;
           display: block;
      }
      .section10child1 h1 {
