@@ -534,7 +534,13 @@ p {
 }
 
 @media (max-width:600px) {
-
+     .section1 h1 {
+          font-size: 2em;
+     }
+     
+     .section1 h2 { 
+          font-size: 3em; 
+     }
      .section3mainchild,
      .section4mainchild,
      .section5mainchild,
@@ -554,4 +560,5 @@ p {
      #section8 {
           text-align: center;
      }
+
 }
