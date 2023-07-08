@@ -386,6 +386,7 @@
      background-color: #1a1a1a;
 }
 .form-control{
+     width: 220px;
      font-size: 1.1rem;
      padding: 17px 3px;
      margin-top: -3.9em;
