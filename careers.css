@@ -486,12 +486,6 @@ p {
 
 #textarea {
      width: 85%;
-     height: 300px;
-     font-size: 1.1rem;
-     border-radius: 30px;
-     color: rgb(255, 255, 255);
-     border: none;
-     background-color: #1a1a1a;
 }
 
 .form-control {
