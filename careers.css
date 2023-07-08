@@ -458,11 +458,11 @@ p {
 
 @media(max-width:1130px) {
      .section1 h1 {
-          font-size: 5em;
+          font-size: 3em;
      }
      
      .section1 h2 { 
-          font-size: 5em; 
+          font-size: 3em; 
      }
      .section10child1 {
           width: 40%;
