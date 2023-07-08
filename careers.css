@@ -458,15 +458,6 @@ p {
 
 @media(max-width:1130px) {
      .form-control{
-          width: 42%;
-          font-size: 1.1rem;
-          padding: 17px 1px 17px 17px;
-          margin-top: -3.9em;
-          margin-bottom: 1rem;
-          margin-left: 42%;
-          border-radius: 30px;
-          color: rgb(117, 113, 114);
-          border: none;
-          background-color: #1a1a1a;
+         margin-top: -5.6rem;
      }
 }
