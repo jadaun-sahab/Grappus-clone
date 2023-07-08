@@ -535,7 +535,8 @@ p {
      .section7mainchild,
      .section8mainchild {
          display: block;
-         width: 70%;
+         width: 90%;
          margin: 0 auto;
+         text-align: center;
      }
 }
