@@ -458,10 +458,11 @@ p {
 
 @media(max-width:1130px) {
      .section10child1 {
-          width: 40%;
-          display: block;
+          width: 40%; 
      }
-
+     .section10child2 {
+          width: 70%; 
+     }
      .section10child1 h1 {
           font-size: 2em;
           font-family: 'Raleway', sans-serif;
