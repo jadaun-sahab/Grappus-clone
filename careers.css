@@ -524,7 +524,7 @@ p {
 
 }
 @media (max-width:600px){
-     .section3mainchild, .section4mainchild , .section5mainchild, .section6mainchild , .{
+     .section3mainchild, .section4mainchild , .section5mainchild, .section6mainchild , .section7mainchild,.section8mainchild{
           display: grid;
           grid-template-columns: repeat(2, 1fr);
      }
