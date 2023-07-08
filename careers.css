@@ -461,38 +461,32 @@ p {
           width: 40%;
           display: block;
      }
+
      .section10child1 h1 {
           font-size: 2em;
           font-family: 'Raleway', sans-serif;
           color: white;
      }
-     .form-control{
-         margin-top: -5.6rem;
+
+     .form-control {
+          margin-top: -5.6rem;
      }
+
      #name,
-#email,
-#number {
-     width: 40%;
-     font-size: 1.1rem;
-     padding-left: 17px;
-     padding-top: 17px;
-     padding-bottom: 17px;
-     color: rgb(255, 255, 255);
-     background-color: #1a1a1a;
-     border-radius: 25px;
-     border: none;
-     margin: 12px 10px 12px 0;
-}
+     #email,
+     #number {
+          width: 40%;
+     }
 
-#textarea {
-     width: 85%;
-}
+     #textarea {
+          width: 85%;
+     }
 
-.form-control {
-     width: 42%;
-}
+     .form-control {
+          width: 42%;
+     }
 
-.formbtn {
-     width: 80%;
-}
+     .formbtn {
+          width: 80%;
+     }
 }
