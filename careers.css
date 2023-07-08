@@ -474,11 +474,13 @@ p {
      .section10 {
           padding: 0 1em 0 2em;
      }
+
      .section7mainchild {
           display: grid;
           grid-template-columns: repeat(2, 1fr);
      }
-     .section7child1{
+
+     .section7child1 {
           margin: 20px 0;
      }
 }
@@ -523,8 +525,15 @@ p {
      }
 
 }
-@media (max-width:600px){
-     .section3mainchild, .section4mainchild , .section5mainchild, .section6mainchild , .section7mainchild,.section8mainchild{
+
+@media (max-width:600px) {
+
+     .section3mainchild,
+     .section4mainchild,
+     .section5mainchild,
+     .section6mainchild,
+     .section7mainchild,
+     .section8mainchild {
           display: grid;
           grid-template-columns: repeat(2, 1fr);
      }
