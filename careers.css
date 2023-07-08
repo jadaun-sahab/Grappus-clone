@@ -372,7 +372,7 @@
      background-color: #1a1a1a;
      border-radius: 25px;
      border: none;
-     margin: 12px 0;
+     margin: 12px 10px 12px 0;
 }
  
 
@@ -386,12 +386,12 @@
      background-color: #1a1a1a;
 }
 .form-control{
-     width: 220px;
+     width: 250px;
      font-size: 1.1rem;
      padding: 17px 1px 17px 17px;
      margin-top: -3.9em;
      margin-bottom: 1rem;
-     margin-left: 13em;
+     margin-left: 14em;
      border-radius: 30px;
      color: rgb(117, 113, 114);
      border: none;
