@@ -374,6 +374,9 @@
      border: none;
      margin: 12px 0;
 }
+/* #file{
+     display: flex;
+} */
 
 #textarea {
      width: 90%;
