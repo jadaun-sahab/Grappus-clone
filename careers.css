@@ -390,12 +390,12 @@
 }
 
 .form-control {
-     width: 42%;
-     font-size: 1.1rem;
-     padding: 17px 1px 17px 17px;
      margin-top: -3.9em;
      margin-bottom: 1rem;
      margin-left: 42%;
+     width: 42%;
+     padding: 17px 1px 17px 17px;
+     font-size: 1.1rem;
      border-radius: 30px;
      color: rgb(117, 113, 114);
      border: none;
@@ -461,7 +461,7 @@ p {
           width: 40%; 
      }
      .section10child2 {
-          width: 70%; 
+          width: 60%; 
      }
      .section10child1 h1 {
           font-size: 2em;
