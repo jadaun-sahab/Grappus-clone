@@ -210,6 +210,12 @@ a {
 .section3 {
      display: flex;
 }
+.section3child1{
+     display: flex;
+}
+.section3child2{
+     display: flex;
+}
 
 .twosection {
      margin-top: 40px;
