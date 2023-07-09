@@ -375,7 +375,8 @@ a {
 }
 
 #section7 p{
-     
+     position: relative;
+     top: -30em;
 }
 
 
