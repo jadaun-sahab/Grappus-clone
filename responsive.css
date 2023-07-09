@@ -102,6 +102,9 @@
      .section3child1{
           display: flex;
      }
+     .section3child2{
+          display: flex;
+     }
 
      .threesection {
           display: grid;
