@@ -97,8 +97,10 @@
      }
 
      .section3 {
-          display: grid;
-          grid-template-columns: repeat(2, 1fr);
+         display: block;
+     }
+     .section3child1{
+          display: flex;
      }
 
      .threesection {
