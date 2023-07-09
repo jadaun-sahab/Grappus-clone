@@ -378,6 +378,8 @@ a {
      font-size: 2em;
      position: relative;
      top: -7em;
+     text-align: center;
+     width: 60%;
 }
 
 
