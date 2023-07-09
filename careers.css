@@ -553,13 +553,20 @@ p {
           margin-top: -5em;
      }
 
-     #section3 ,#section4,#section5 ,#section6 , #section7 , #section8{
+     #section3,
+     #section4,
+     #section5,
+     #section6,
+     #section7,
+     #section8 {
           text-align: center;
      }
 
-     
-
-     .section4mainchild,.section5mainchild ,.section6mainchild,.section7mainchild{
+     .section4mainchild,
+     .section5mainchild,
+     .section6mainchild,
+     .section7mainchild,
+     .section8mainchild {
           display: block;
      }
 
@@ -567,7 +574,7 @@ p {
           width: 100%;
           text-align: center;
      }
-     
+
 
 
 
@@ -575,30 +582,19 @@ p {
           width: 100%;
           text-align: center;
      }
-      
 
-      
+
+
 
      .section6child1 {
           width: 100%;
           text-align: center;
      }
-     
 
-     .section7mainchild {
-          display: block;
-     }
 
-     .section7child1 {
-          width: 100%;
-          text-align: center;
-     }
-      
 
-     .section8mainchild {
-          display: block;
-     }
 
+     .section7child1  ,
      .section8child1 {
           width: 100%;
           text-align: center;
