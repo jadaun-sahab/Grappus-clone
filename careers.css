@@ -44,10 +44,12 @@
      font-family: 'Raleway', sans-serif;
 }
 .btn1{
-
+position: absolute;
+top: 85%;
+left: 20%;
 }
 .btn2{
-     
+
 }
 /*-- ------------------------------------- section-1 ------------------------------------ */
 
