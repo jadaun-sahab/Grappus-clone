@@ -603,5 +603,18 @@ p {
      }
 }
 @media(max-width:380px){
-     
+     #name,
+#email,
+#number {
+     width: 80%;
+     font-size: 1.1rem;
+     padding-left: 17px;
+     padding-top: 17px;
+     padding-bottom: 17px;
+     color: rgb(255, 255, 255);
+     background-color: #1a1a1a;
+     border-radius: 25px;
+     border: none;
+     margin: 12px 10px 12px 0;
+}
 }
