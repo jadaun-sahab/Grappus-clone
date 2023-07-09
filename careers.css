@@ -652,6 +652,10 @@ p {
 }
 
 @media (max-width:460px) {
+     
+     .btn2 {  
+          left: 42%;
+     }
      .section10child1 h1 {
           font-size: 1.6em;
      }
