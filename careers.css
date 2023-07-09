@@ -35,7 +35,8 @@
      top: 67%;
      left: 6%;
 }
-.section1 .btn{
+
+.section1 .btn {
      background-color: #fff;
      padding: 15px 28px;
      border: none;
@@ -43,14 +44,19 @@
      font-weight: 600;
      font-family: 'Raleway', sans-serif;
 }
-.btn1{
-position: absolute;
-top: 85%;
-left: 20%;
-}
-.btn2{
 
+.btn1 {
+     position: absolute;
+     top: 85%;
+     left: 20%;
 }
+
+.btn2 {
+     position: absolute;
+     top: 85%;
+     left: 20%;
+}
+
 /*-- ------------------------------------- section-1 ------------------------------------ */
 
 /*-- ------------------------------------- section-2 ------------------------------------ */
@@ -562,7 +568,7 @@ p {
      .section1 h1 {
           font-size: 2em;
      }
- 
+
      .section1 h2 {
           font-size: 2em;
           top: 61%;
