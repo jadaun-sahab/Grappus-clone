@@ -620,5 +620,7 @@ p {
           width: 95%;
           margin-left: 0em;
      }
- 
+     .formbtn{
+          margin-left: 2px;
+     }
 }
