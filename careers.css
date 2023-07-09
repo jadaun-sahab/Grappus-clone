@@ -690,6 +690,13 @@ p {
 }
 
 @media(max-width:380px) {
+     .section1 h1 {
+          font-size: 1.5em;
+     }
+
+     .section1 h2 {
+          font-size: 1.5em; 
+     }
      .btn2 {  
           left: 6%;
           top: 80%;
