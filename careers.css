@@ -653,7 +653,7 @@ p {
 
 @media (max-width:460px) {
      .section1 .btn { 
-          padding: 12px 12px;  
+          padding: 12px 10px;  
      }
      .btn2 {  
           left: 42%;
@@ -691,7 +691,8 @@ p {
 
 @media(max-width:380px) {
      .btn2 {  
-          left: 44%;
+          left: 6%;
+          top: 80%;
      }
 
      #name,
