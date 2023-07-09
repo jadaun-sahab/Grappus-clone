@@ -581,6 +581,18 @@ p {
           width: 100%;
           text-align: center;
      }
+     #section6 {
+          text-align: center;
+     }
+
+     .section6mainchild {
+          display: block;
+     }
+
+     .section6child1 {
+          width: 100%;
+          text-align: center;
+     }
 
 }
 
