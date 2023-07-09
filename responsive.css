@@ -332,6 +332,23 @@
 }
 
 @media(max-width:600px) {
+     #section7 h1{
+          font-size: 2.5em;
+          top: -13.6em;
+          line-height: 1;
+     }
+     
+     #section7 p{
+          font-size: 1.5em;
+          top: -20.6em;
+          width: 68%;
+     }
+      
+     #section7 .btn7 { 
+          top: -27em;
+          padding: 15px 28px;
+          font-size: 1.1rem;
+     }
      .section1child1 h1 {
           width: 90%;
           margin: 0 auto;
