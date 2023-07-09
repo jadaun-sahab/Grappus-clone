@@ -571,4 +571,8 @@ p {
      .footer {
           display: block;
      }
+     #footer {
+          display: block;
+          margin: 2em auto 4em auto;
+     }
 }
