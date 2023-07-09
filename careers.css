@@ -568,3 +568,6 @@ p {
 }
 
 @media (max-width:460px) {}
+.footer {
+     display: block;
+}
