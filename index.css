@@ -368,6 +368,7 @@ a {
      background: url("./images/video-bg.png") no-repeat center center/cover;
 }
 #section7 h1{
+     font-size: 5em;
      margin-top: -7em;
      color: white;
 }
