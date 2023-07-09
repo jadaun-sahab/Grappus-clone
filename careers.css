@@ -596,18 +596,15 @@ p {
 }
 
 @media (max-width:602px) {
-     .section1 .btn { 
-          padding: 12px 15px; 
-          font-size: 0.7rem;
-     }
+     
      .btn1 { 
           top: 71%;
           left: 6%;
      }
 
      .btn2 { 
-          top: 78%;
-          left: 29%;
+          top: 71%;
+          left: 33%;
      }
      .section1 h1 {
           font-size: 2em;
