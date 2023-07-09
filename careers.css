@@ -550,6 +550,9 @@ p {
      .form-control {
           margin-top: -5em;
      }
+     #section3{
+          text-align: center;
+     }
 
      /* .section3mainchild,
      .section4mainchild,
