@@ -125,14 +125,14 @@
 @media(max-width: 900px) {
      #section7 h1{
           font-size: 3em;
-          top: -11em;
+          top: -10.6em;
           line-height: 1;
      }
      
      #section7 p{
           font-size: 1.5em;
           top: -20.6em;
-          width: 53%;
+          width: 68%;
      }
       
      #section7 .btn7 { 
