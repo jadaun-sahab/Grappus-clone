@@ -376,17 +376,17 @@ a {
 }
 
 #section7 p{
-     font-size: 2em;
+     font-size: 1.5em;
      position: relative;
-     top: -14em;
+     top: -17em;
      text-align: center;
-     width: 60%;
+     width: 40%;
      font-family: 'Raleway', sans-serif;
 }
  
 #section7 .btn7 {
      position: relative;
-     top: -4em;
+     top: -22em;
      background-color: #fff;
      padding: 15px 28px;
      border: none;
