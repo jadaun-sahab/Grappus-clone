@@ -504,6 +504,7 @@ p {
      #section2 h1 {
           width: 100%;
      }
+
      .section10 {
           display: block;
           padding: 0 1em 1em 2em;
@@ -546,12 +547,13 @@ p {
      .section1 h1 {
           font-size: 2em;
      }
-     #section2 h1 { 
-          font-size: 1.5rem;
-     }
 
      .section1 h2 {
           font-size: 2em;
+     }
+
+     #section2 h1 {
+          font-size: 1.5rem;
      }
 
      .form-control {
