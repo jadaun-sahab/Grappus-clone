@@ -503,8 +503,11 @@ p {
 @media(max-width:830px) {
      .section10 {
           display: block;
+          padding: 0 1em 1em 2em;
      }
-
+.formbtn{
+     margin-left: 10px;
+}
      .section10child1 {
           width: 100%;
      }
@@ -617,8 +620,5 @@ p {
           width: 95%;
           margin-left: 0em;
      }
-
-     .section10 {
-          padding: 0 4em 1em 4em;
-     }
+ 
 }
