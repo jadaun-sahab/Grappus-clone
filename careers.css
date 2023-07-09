@@ -688,6 +688,9 @@ p {
 }
 
 @media(max-width:380px) {
+     .btn2 {  
+          left: 44%;
+     }
 
      #name,
      #email,
