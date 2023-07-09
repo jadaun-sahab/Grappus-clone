@@ -334,14 +334,13 @@
 @media(max-width:600px) {
      #section7 h1{
           font-size: 2.5em;
-          top: -13.6em;
-          line-height: 1;
+          top: -13.6em; 
      }
      
      #section7 p{
           font-size: 1.5em;
-          top: -20.6em;
-          width: 68%;
+          top: -22em;
+          width: 84%;
      }
       
      #section7 .btn7 { 
