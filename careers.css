@@ -49,7 +49,7 @@
 .btn1 {
      position: absolute;
      top: 85%;
-     left: 6%; 
+     left: 6%;
 }
 
 .btn2 {
@@ -476,6 +476,20 @@ p {
 
 /* ------------------------------------------FOOTER------------------------------------------ */
 
+@media (max-width:1250px) {
+     .btn1 {
+          position: absolute;
+          top: 85%;
+          left: 6%;
+     }
+
+     .btn2 {
+          position: absolute;
+          top: 85%;
+          left: 24%;
+     }
+
+}
 
 @media(max-width:1130px) {
      .section1 h1 {
