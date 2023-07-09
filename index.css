@@ -371,12 +371,13 @@ a {
      font-size: 5em;
      color: white;
      position: relative;
-     top: -6em;
+     top: -3em;
 }
 
 #section7 p{
+     font-size: 2em;
      position: relative;
-     top: -30em;
+     top: -7em;
 }
 
 
