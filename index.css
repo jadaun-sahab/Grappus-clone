@@ -385,9 +385,9 @@ a {
      font-family: 'Raleway', sans-serif;
 }
  
-#section7 .btn7 {
+#section7 .btn7 { 
      position: relative;
-     top: -22em;
+     top: -25em;
      background-color: #fff;
      padding: 15px 28px;
      border: none;
