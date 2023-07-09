@@ -614,17 +614,9 @@ p {
      .form-control {
           margin-top: -1em;
           width: 80%;
-          margin-left: 1em;
-          margin-bottom: 2em;
-          margin-top: 19px;
+          margin-left: 0em;
           display: flex;
           justify-content: center;
-          font-size: 1rem;
-          font-weight: 600;
-          padding: 15px 10px;
-          background-color: #fdfdfd;
-          border-radius: 30px;
-          text-align: center;
-          align-items: center;
+          /* padding: 15px 10px; */
      }
 }
