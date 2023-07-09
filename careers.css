@@ -558,6 +558,8 @@ p {
      #section6,
      #section7,
      #section8 {
+          width: 100%;
+          display: block;
           text-align: center;
      }
 
