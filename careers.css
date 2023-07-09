@@ -605,6 +605,18 @@ p {
           width: 100%;
           text-align: center;
      }
+     #section8 {
+          text-align: center;
+     }
+
+     .section8mainchild {
+          display: block;
+     }
+
+     .section8child1 {
+          width: 100%;
+          text-align: center;
+     }
 
 }
 
