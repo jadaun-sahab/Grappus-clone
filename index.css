@@ -383,6 +383,15 @@ a {
      width: 60%;
      font-family: 'Raleway', sans-serif;
 }
+#section7 .btn7 {
+     background-color: #fff;
+     padding: 15px 28px;
+     border: none;
+     border-radius: 30px;
+     font-weight: 600;
+     font-family: 'Raleway', sans-serif;
+     font-size: 1.1rem;
+}
 
 
 /* ---------------------------------------------SECTION-7--------------------------------------------- */
