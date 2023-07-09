@@ -602,11 +602,13 @@ p {
           justify-content: space-evenly;
      }
 }
-@media(max-width:380px){
+
+@media(max-width:380px) {
+
      #name,
-#email,
-#number {
-     width: 95%;
-     font-weight: 400;
-}
+     #email,
+     #number {
+          width: 95%;
+          font-weight: 400;
+     }
 }
