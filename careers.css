@@ -578,15 +578,8 @@ p {
 
 
 
-     .section5child1 {
-          width: 100%;
-          text-align: center;
-     }
-
-
-
-
-     .section6child1 
+     .section5child1  ,
+     .section6child1 ,
      .section7child1  ,
      .section8child1 {
           width: 100%;
