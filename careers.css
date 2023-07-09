@@ -559,7 +559,7 @@ p {
 
      
 
-     .section4mainchild,.section5mainchild ,.section6mainchild{
+     .section4mainchild,.section5mainchild ,.section6mainchild,.section7mainchild{
           display: block;
      }
 
@@ -569,9 +569,7 @@ p {
      }
      
 
-     .section5mainchild {
-          display: block;
-     }
+
 
      .section5child1 {
           width: 100%;
