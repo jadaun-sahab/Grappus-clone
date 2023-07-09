@@ -615,8 +615,6 @@ p {
           margin-top: -1em;
           width: 80%;
           margin-left: 0em;
-          display: flex;
-          justify-content: center;
           /* padding: 15px 10px; */
      }
 }
