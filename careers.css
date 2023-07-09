@@ -543,6 +543,19 @@ p {
           font-size: 2em;
      }
 
+     .form-control {
+          margin-top: -3.9em;
+          margin-bottom: 1rem;
+          margin-left: 42%;
+          width: 42%;
+          padding: 17px 1px 17px 17px;
+          font-size: 1.1rem;
+          border-radius: 30px;
+          color: rgb(117, 113, 114);
+          border: none;
+          background-color: #1a1a1a;
+     }
+
      .section3mainchild,
      .section4mainchild,
      .section5mainchild,
@@ -571,19 +584,23 @@ p {
      .footer {
           display: block;
      }
+
      #footer {
           display: block;
           margin: 2em auto 4em auto;
      }
+
      .footerchild1 h1 {
           font-size: 3em;
           text-align: center;
      }
+
      .footerchild1 p {
           text-align: center;
           font-size: 1.4em;
           color: rgb(165, 163, 163);
      }
+
      .footerchild2 {
           display: flex;
           margin: 10px auto;
