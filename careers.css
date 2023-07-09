@@ -579,4 +579,9 @@ p {
           font-size: 3em;
           text-align: center;
      }
+     .footerchild1 p {
+          text-align: center;
+          font-size: 1.4em;
+          color: rgb(165, 163, 163);
+     }
 }
