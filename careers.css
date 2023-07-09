@@ -477,6 +477,15 @@ p {
 /* ------------------------------------------FOOTER------------------------------------------ */
 
 @media (max-width:1250px) {
+     .section1 .btn {
+          background-color: #fff;
+          padding: 15px 28px;
+          border: none;
+          border-radius: 30px;
+          font-weight: 600;
+          font-family: 'Raleway', sans-serif;
+          font-size: 1.1rem;
+     }
      .btn1 {
           position: absolute;
           top: 85%;
@@ -486,7 +495,7 @@ p {
      .btn2 {
           position: absolute;
           top: 85%;
-          left: 24%;
+          left: 28%;
      }
 
 }
