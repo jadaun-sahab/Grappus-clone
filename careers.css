@@ -613,8 +613,7 @@ p {
      }
      .form-control {
           margin-top: -1em;
-          width: 80%;
+          width: 95%;
           margin-left: 0em;
-          /* padding: 15px 10px; */
      }
 }
