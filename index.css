@@ -370,6 +370,8 @@ a {
 #section7 h1{
      font-size: 5em;
      color: white;
+     position: relative;
+     top: -6em;
 }
 
 
