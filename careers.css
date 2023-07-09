@@ -52,7 +52,6 @@
      font-family: 'Raleway', sans-serif;
      font-size: 1.8rem;
      font-weight: 400;
-
 }
 
 
@@ -502,6 +501,9 @@ p {
 
 
 @media(max-width:830px) {
+     #section2 h1 {
+          width: 90%;
+     }
      .section10 {
           display: block;
           padding: 0 1em 1em 2em;
