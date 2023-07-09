@@ -373,6 +373,7 @@ a {
      position: relative;
      top: -6em;
      font-family: 'Raleway', sans-serif;
+     line-height: 1;
 }
 
 #section7 p{
@@ -380,7 +381,7 @@ a {
      position: relative;
      top: -19em;
      text-align: center;
-     width: 40%;
+     width: 43%;
      font-family: 'Raleway', sans-serif;
 }
  
