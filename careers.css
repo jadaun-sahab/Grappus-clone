@@ -502,7 +502,7 @@ p {
 
 @media(max-width:830px) {
      #section2 h1 {
-          width: 90%;
+          width: 100%;
      }
      .section10 {
           display: block;
