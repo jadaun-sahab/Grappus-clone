@@ -584,4 +584,9 @@ p {
           font-size: 1.4em;
           color: rgb(165, 163, 163);
      }
+     .footerchild2 {
+          display: flex;
+          margin: 10px auto;
+          justify-content: space-evenly;
+     }
 }
