@@ -37,10 +37,11 @@
 }
 .section1 .btn{
      background-color: #fff;
-     padding: 10px 20px;
+     padding: 18px 28px;
      border: none;
      border-radius: 20px;
      font-weight: 600;
+     font-family: 'Raleway', sans-serif;
 }
 
 /*-- ------------------------------------- section-1 ------------------------------------ */
