@@ -20,6 +20,7 @@ a {
 }
 
 #navbar {
+     z-index: 100000;
      padding: 1.3rem 5rem 1rem 6rem;
      background-color: #070707;
      position: fixed;
