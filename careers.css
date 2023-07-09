@@ -615,9 +615,12 @@ p {
           margin-top: -1rem;
           width: 95%;
           margin-left: 0em;
-     }
-     .formbtn {
-          width: 80%;
-          margin-bottom: 1em;
-     }
+     } 
+     
+.section10 {
+     padding: 0 4em;
+     border-radius: 20px;
+     background-color: #0f0f0f;
+     display: flex;
+}
 }
