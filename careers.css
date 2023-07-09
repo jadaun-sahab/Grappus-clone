@@ -506,9 +506,11 @@ p {
           display: block;
           padding: 0 1em 1em 2em;
      }
-.formbtn{
-     margin-left: 10px;
-}
+
+     .formbtn {
+          margin-left: 10px;
+     }
+
      .section10child1 {
           width: 100%;
      }
@@ -550,40 +552,23 @@ p {
      .form-control {
           margin-top: -5em;
      }
-     #section3{
-          text-align: center;
-     }
-     #section4{
-          text-align: center;
-     }
-     .section4mainchild{
-          display: block;
-     }
-.section4child1{
-     width: 100%;
-     text-align: center;
-}
-     /* .section3mainchild,
-     .section4mainchild,
-     .section5mainchild,
-     .section6mainchild,
-     .section7mainchild,
-     .section8mainchild {
-          display: block;
+
+     #section3 {
           text-align: center;
      }
 
-     #section2,
-     #section3,
-     #section4,
-     #section5,
-     #section6,
-     #section7,
-     #section8 {
-          width: 100%;
-          display: block;
+     #section4 {
           text-align: center;
-     } */
+     }
+
+     .section4mainchild {
+          display: block;
+     }
+
+     .section4child1 {
+          width: 100%;
+          text-align: center;
+     }
 
 }
 
@@ -633,7 +618,8 @@ p {
           width: 95%;
           margin-left: 0em;
      }
-     .formbtn{
+
+     .formbtn {
           margin-left: 2px;
      }
 }
