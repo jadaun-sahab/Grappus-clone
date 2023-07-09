@@ -547,9 +547,10 @@ p {
      .section1 h1 {
           font-size: 2em;
      }
-
+ 
      .section1 h2 {
           font-size: 2em;
+          top: 64%;
      }
 
      #section2 h1 {
