@@ -593,6 +593,18 @@ p {
           width: 100%;
           text-align: center;
      }
+     #section4 {
+          text-align: center;
+     }
+
+     .section4mainchild {
+          display: block;
+     }
+
+     .section4child1 {
+          width: 100%;
+          text-align: center;
+     }
 
 }
 
