@@ -559,7 +559,7 @@ p {
 
      
 
-     .section4mainchild {
+     .section4mainchild,.section5mainchild {
           display: block;
      }
 
