@@ -602,3 +602,6 @@ p {
           justify-content: space-evenly;
      }
 }
+@media(max-width:380px){
+     
+}
