@@ -487,23 +487,16 @@ p {
 }
 
 @media(max-width:1130px) {
-     .section1 .btn {
-          background-color: #fff;
-          padding: 15px 20px;
-          border: none;
-          border-radius: 30px;
-          font-weight: 600;
-          font-family: 'Raleway', sans-serif;
+     .section1 .btn { 
+          padding: 15px 20px; 
           font-size: 0.9rem;
      }
-     .btn1 {
-          position: absolute;
+     .btn1 { 
           top: 78%;
           left: 6%;
      }
 
-     .btn2 {
-          position: absolute;
+     .btn2 { 
           top: 78%;
           left: 28%;
      }
