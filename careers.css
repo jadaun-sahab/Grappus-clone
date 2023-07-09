@@ -569,6 +569,18 @@ p {
           width: 100%;
           text-align: center;
      }
+     #section5 {
+          text-align: center;
+     }
+
+     .section5mainchild {
+          display: block;
+     }
+
+     /* .section5child1 {
+          width: 100%;
+          text-align: center;
+     } */
 
 }
 
