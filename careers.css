@@ -572,6 +572,11 @@ p {
 }
 
 @media (max-width:460px) {
+     .section10child1 h1 {
+          font-size: 2em;
+          font-family: 'Raleway', sans-serif;
+          color: white;
+     }
      .footer {
           display: block;
      }
