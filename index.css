@@ -348,7 +348,25 @@ a {
 /* ---------------------------------------------SECTION-7--------------------------------------------- */
 
 
+#section7 {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     height: 707px;
+}
 
+#section7::before {
+     position: absolute;
+     content: "";
+     top: 0;
+     left: 0;
+     z-index: -1;
+     opacity: 0.9;
+     height: 100%;
+     width: 100%;
+     background: url("./images/video-bg.png") no-repeat center center/cover;
+}
 
 
 /* ---------------------------------------------SECTION-7--------------------------------------------- */
