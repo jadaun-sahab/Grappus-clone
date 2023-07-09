@@ -593,7 +593,7 @@ p {
           width: 100%;
           text-align: center;
      }
-     #section7 {
+     #section7 , #section8{
           text-align: center;
      }
 
@@ -605,9 +605,7 @@ p {
           width: 100%;
           text-align: center;
      }
-     #section8 {
-          text-align: center;
-     }
+      
 
      .section8mainchild {
           display: block;
