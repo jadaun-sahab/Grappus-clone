@@ -478,8 +478,7 @@ p {
 
 @media (max-width:1250px) {
 
-     .btn2 {
-          position: absolute;
+     .btn2 { 
           top: 85%;
           left: 28%;
      }
@@ -545,6 +544,15 @@ p {
 
 
 @media(max-width:830px) {
+     .section1 .btn { 
+          padding: 12px 15px; 
+          font-size: 0.7rem;
+     }
+
+     .btn2 { 
+          top: 78%;
+          left: 29%;
+     }
      #section2 h1 {
           width: 100%;
      }
