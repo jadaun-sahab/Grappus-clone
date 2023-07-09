@@ -123,6 +123,23 @@
 }
 
 @media(max-width: 900px) {
+     #section7 h1{
+          font-size: 3em;
+          top: -11em;
+          line-height: 1;
+     }
+     
+     #section7 p{
+          font-size: 1.5em;
+          top: -20.6em;
+          width: 53%;
+     }
+      
+     #section7 .btn7 { 
+          top: -27em;
+          padding: 15px 28px;
+          font-size: 1.1rem;
+     }
      .section10 form {
           display: grid;
           grid-template-columns: 300px 500px;
