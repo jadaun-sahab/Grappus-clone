@@ -625,6 +625,9 @@ a {
      text-align: center;
      align-items: center;
 }
+.formbtn:hover{
+     cursor: pointer;
+}
 
 
 /* ------------------------------------------SECTION-10-form------------------------------------------ */
