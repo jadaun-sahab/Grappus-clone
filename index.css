@@ -373,8 +373,7 @@ a {
      width: 60%;
 }
 .section6child1 > img{  
-     width: 98%;
-     height: 400px;
+     width: 98%; 
      margin: 10px;
      border-radius: 20px;
 }
