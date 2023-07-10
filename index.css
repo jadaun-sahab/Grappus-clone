@@ -373,7 +373,9 @@ a {
      background-color: #4cf86b;
      width: 60%;
 }
-
+.section6child1 > img{ 
+     width: 100%;
+}
 .section6child2 {
      
      width: 40%;
