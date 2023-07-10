@@ -210,10 +210,12 @@ a {
 .section3 {
      display: flex;
 }
-.section3child1{
+
+.section3child1 {
      display: flex;
 }
-.section3child2{
+
+.section3child2 {
      display: flex;
 }
 
@@ -346,31 +348,37 @@ a {
 /* ---------------------------------------------SECTION-6--------------------------------------------- */
 
 
-#section6{
+#section6 {
      margin: 0 auto;
      width: 87%;
      display: block;
      background-color: #d11717;
 }
-.section6{
+
+.section6 {
      display: flex;
 }
-.section6child1child{
+
+.section6child1child {
      display: flex;
 }
-.section6child1child img{
+
+.section6child1child img {
      width: 50%;
      margin: 10px;
      border-radius: 20px;
 }
-.section6child1{
-width: 60%;
+
+.section6child1 {
+     width: 60%;
 }
-.section6child2{
+
+.section6child2 {
      width: 40%;
      display: block;
 }
-.section6child2 img{
+
+.section6child2 img {
      width: 30%;
      background-color: #e29c9c;
 }
@@ -400,7 +408,8 @@ width: 60%;
      width: 100%;
      background: url("./images/video-bg.png") no-repeat center center/cover;
 }
-#section7 h1{
+
+#section7 h1 {
      font-size: 5em;
      color: white;
      position: relative;
@@ -409,7 +418,7 @@ width: 60%;
      line-height: 1;
 }
 
-#section7 p{
+#section7 p {
      font-size: 1.5em;
      position: relative;
      top: -19em;
@@ -417,8 +426,8 @@ width: 60%;
      width: 43%;
      font-family: 'Raleway', sans-serif;
 }
- 
-#section7 .btn7 { 
+
+#section7 .btn7 {
      position: relative;
      top: -25em;
      background-color: #fff;
