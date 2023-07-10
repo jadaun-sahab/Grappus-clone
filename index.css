@@ -363,6 +363,8 @@ a {
 }
 
 .section6child1child img {
+     /* border: 2px solid white; */
+     box-shadow: 2px 2px 20px white;
      width: 46%;
      margin: 10px;
      border-radius: 20px;
@@ -372,6 +374,8 @@ a {
      width: 60%;
 }
 .section6child1 > img{ 
+     /* border: 2px solid white; */
+     box-shadow: 2px 2px 20px white;
      width: 95%;
      height: 400px;
      margin: 10px;
@@ -384,6 +388,8 @@ a {
 
 .section6child2 img { 
      display: block;
+     /* border: 2px solid white; */
+     box-shadow: 2px 2px 20px white;
      margin: 10px;
      width: 95%;
      border-radius: 20px;
