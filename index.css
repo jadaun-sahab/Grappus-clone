@@ -385,6 +385,10 @@ a {
      width: 40%;
      display: block;
 }
+.section6child2 :nth-child(1){
+     padding: 10px;
+     background:linear-gradient(to right, rgb(219, 39, 39),rgb(52, 51, 51),black);
+}
 .section6child2 :nth-child(2){
      padding: 10px;
      background:linear-gradient(to right, black,rgb(52, 51, 51),black);
