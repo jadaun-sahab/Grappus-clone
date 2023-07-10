@@ -354,7 +354,9 @@ a {
      display: block;
      background-color: #d11717;
 }
-
+.section6 img{
+     width: 300px;
+}
 .section6 {
      padding: 2rem 3rem 6rem 3rem;
      background-color: #fff;
