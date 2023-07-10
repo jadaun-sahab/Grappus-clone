@@ -372,11 +372,7 @@ a {
 .section6child1 { 
      width: 60%;
 }
-.section6child1 > img{  
-     width: 98%; 
-     margin: 10px;
-     border-radius: 20px;
-}
+
 .section6child2 {
      width: 40%;
      display: block;
