@@ -351,8 +351,7 @@ a {
 #section6 {
      margin: 0 auto;
      width: 87%;
-     display: block;
-     background-color: #d11717;
+     display: block; 
 }
 
 .section6 {
@@ -369,8 +368,7 @@ a {
      border-radius: 20px;
 }
 
-.section6child1 {
-     background-color: #4cf86b;
+.section6child1 { 
      width: 60%;
 }
 .section6child1 > img{ 
@@ -384,8 +382,7 @@ a {
      display: block;
 }
 
-.section6child2 img {
-     background-color: #4c57f8;
+.section6child2 img { 
      display: block;
      margin: 10px;
      width: 95%;
