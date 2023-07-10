@@ -358,6 +358,9 @@ a {
 .section6child1child{
      display: flex;
 }
+.section6child1child img{
+     width: 60%;
+}
 
 /* ---------------------------------------------SECTION-6--------------------------------------------- */
 
