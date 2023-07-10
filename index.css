@@ -355,7 +355,7 @@ a {
      background-color: #d11717;
 }
 .section6 img{
-     width: 300px;
+     width: 100%;
 }
 .section6 {
      padding: 2rem 3rem 6rem 3rem;
@@ -365,8 +365,8 @@ a {
      gap: 1rem;
      display: grid;
      grid-template-areas:
-         'a a b e'
-         'c d b e '
+         'a a e '
+         'c d e  '
          
      ;
 }
