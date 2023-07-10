@@ -79,6 +79,12 @@
      align-items: center;
 }
 
+.formbtn:hover{
+     transition: all 0.5s;
+     cursor: pointer;
+     background-color: #989696;
+}
+
 
 /* ------------------------------------------SECTION-3-form------------------------------------------ */
 
