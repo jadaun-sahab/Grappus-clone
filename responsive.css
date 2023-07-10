@@ -112,7 +112,7 @@
 
      .sectiontwo {
           margin-top: -8.1em;
-          margin-bottom: 3em; 
+          margin-bottom: 3em;
      }
 
      .sectionthree {
@@ -548,6 +548,23 @@
           display: flex;
           margin: 10px auto;
           justify-content: space-evenly;
+     }
+}
+
+@media(max-width:380px) {
+     .twosection .block {
+          height: 140px;
+          width: 140px;
+          margin: 5px 2.5px;
+          border-radius: 20px;
+          font-size: 1rem;
+     }
+ 
+     .threesection .block {
+          height: 140px;
+          width: 140px;
+          margin: 5px 2.5px;
+          font-size: 1rem;
      }
 }
 
