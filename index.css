@@ -385,6 +385,9 @@ a {
      width: 40%;
      display: block;
 }
+.section6child2:nth-last-child(){
+     background-color: #c32828;
+}
 
 .section6child2 img { 
      display: block;
