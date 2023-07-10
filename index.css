@@ -491,6 +491,7 @@ a {
 }
 
 .btn8child1 {
+     cursor: pointer;
      background-color: white;
      padding: 16px 26px;
      border-radius: 30px;
