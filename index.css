@@ -364,7 +364,7 @@ a {
 
 .section6child1child img {
      /* border: 2px solid white; */
-     box-shadow: 2px 2px 20px white, -2px -2px 20px white;
+     box-shadow: 2px 2px 5px white, -2px -2px 20px white;
      width: 46%;
      margin: 10px;
      border-radius: 20px;
