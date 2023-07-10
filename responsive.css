@@ -553,17 +553,17 @@
 
 @media(max-width:380px) {
      .twosection .block {
-          height: 110px;
-          width: 110px;
+          height: 100px;
+          width: 100px;
           margin: 5px 2.5px;
-          font-size: 1rem;
+          font-size: 12px;
      }
 
      .threesection .block {
-          height: 110px;
-          width: 110px;
+          height: 100px;
+          width: 100px;
           margin: 5px 2.5px;
-          font-size: 1rem;
+          font-size: 12px;
      }
 }
 
