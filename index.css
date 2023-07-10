@@ -385,11 +385,8 @@ a {
      display: block;
      margin: 10px;
      width: 90%;
-     /* background-color: #e29c9c; */
 }
-.section6child2 img :nth-child(1){
-     background-color: #fff;
-}
+
 
 /* ---------------------------------------------SECTION-6--------------------------------------------- */
 
