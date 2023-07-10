@@ -11,7 +11,7 @@ toggleButton.addEventListener('click', () => {
 
  
 
-    let arr = ["images/grab.svg", "images/oyo.svg", "images/vk.svg",
+    let arr = ["images/pikachu.gif", "images/oyo.svg", "images/vk.svg",
     "images/sita.png", "images/uber.svg"];
    
     let i = 0;
