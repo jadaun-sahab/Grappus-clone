@@ -386,7 +386,8 @@ a {
      display: block;
 }
 .section6child2 :nth-child(2){
-     background-color: #4c7ae7;
+     padding: 10px;
+     background:linear-gradient(to right, black,white,black);
 }
 
 .section6child2 img { 
