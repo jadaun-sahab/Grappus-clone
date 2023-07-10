@@ -375,7 +375,7 @@ a {
 }
 .section6child1 > img{ 
      width: 95%;
-     height: 380px;
+     height: 400px;
      margin: 10px;
      border-radius: 20px;
 }
@@ -388,7 +388,7 @@ a {
      background-color: #4c57f8;
      display: block;
      margin: 10px;
-     width: 90%;
+     width: 95%;
 }
 
 
