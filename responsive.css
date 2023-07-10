@@ -350,6 +350,9 @@
 }
 
 @media(max-width:600px) {
+     #section6 { 
+          width: 99%; 
+     }
      #section7 h1 {
           font-size: 2.5em;
           top: -13.6em;
