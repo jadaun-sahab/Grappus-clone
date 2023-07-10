@@ -534,6 +534,7 @@ a {
 }
 
 .container:hover {
+     cursor: pointer;
      box-shadow:
           0 0 5px #e2e0e0,
           -10px 0 20px #f0f,
