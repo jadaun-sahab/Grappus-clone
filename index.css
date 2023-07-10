@@ -361,12 +361,12 @@ a {
      padding: 2rem 3rem 6rem 3rem;
      background-color: #fff;
      margin: 6rem auto 2rem auto;
-     width: 55%;
+     /* width: 55%; */
      gap: 1rem;
      display: grid;
      grid-template-areas:
-         'a a e '
-         'c d e  '
+         'a a a e'
+         'c d d e'
          
      ;
 }
