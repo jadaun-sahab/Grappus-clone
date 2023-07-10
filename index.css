@@ -363,7 +363,11 @@ a {
      margin: 10px;
      border-radius: 20px;
 }
+.section6child1{
+width: 60%;
+}
 .section6child2{
+     width: 40%;
      display: block;
 }
 .section6child2 img{
