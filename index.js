@@ -12,7 +12,7 @@ toggleButton.addEventListener('click', () => {
  
 
     let arr = ["images/pikachu.gif", "images/Articuno.webp", "images/p1.gif",
-    "images/p3.gif", "images/p2.gif"];
+    "images/p3.gif", "images/p2.gif","images/snorlax.gif"];
    
     let i = 0;
  
