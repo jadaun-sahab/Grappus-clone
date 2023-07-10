@@ -106,12 +106,13 @@
           display: flex;
      }
 
-     .sectiontwo{
-           /* background-color: #ed1b1b; */
+     .sectiontwo{ 
            margin-top: -2em;
            margin-bottom: 3em;
      }
-     
+     .sectionthree{
+          display: none;
+     }
 
      .twosection .block {
           justify-content: center;
