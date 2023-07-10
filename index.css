@@ -381,7 +381,8 @@ a {
 }
 
 .section6child2 img {
-     width: 30%;
+     display: block;
+     width: 90%;
      background-color: #e29c9c;
 }
 
