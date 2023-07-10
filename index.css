@@ -363,8 +363,7 @@ a {
      display: flex;
 }
 
-.section6child1child img {
-     border: 2px solid rgb(114, 114, 114);
+.section6child1child img { 
      width: 47.8%;
      margin: 10px;
      border-radius: 20px;
