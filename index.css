@@ -387,7 +387,7 @@ a {
 }
 .section6child2 :nth-child(1){
      padding: 10px;
-     background:linear-gradient(to right, rgb(219, 39, 39),rgb(242, 88, 242),rgb(198, 65, 242));
+     background:linear-gradient(140deg, rgb(219, 39, 39),rgb(174, 47, 174),rgb(157, 39, 196));
 }
 .section6child2 :nth-child(2){
      padding: 10px;
