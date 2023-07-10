@@ -4,11 +4,6 @@ const navbarLinks = document.getElementsByClassName('nav')[0]
 toggleButton.addEventListener('click', () => {
     navbarLinks.classList.toggle('active')
 }) 
-
-
-
-
-
  
 
     let arr = ["images/pikachu.gif", "images/Articuno.webp", "images/p1.gif",
