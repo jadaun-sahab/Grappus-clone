@@ -97,20 +97,25 @@
      }
 
      .section3 {
-         display: block;
+          display: block;
      }
-     .section3child1{
-          display: flex;
-     }
-     .section3child2{
+
+     .section3child1 {
+     justify-content: center;
+     align-items: center;
           display: flex;
      }
 
-     .sectiontwo{ 
-           margin-top: -2em;
-           margin-bottom: 3em;
+     .section3child2 {
+          display: flex;
      }
-     .sectionthree{
+
+     .sectiontwo {
+          margin-top: -2em;
+          margin-bottom: 3em;
+     }
+
+     .sectionthree {
           display: none;
      }
 
@@ -126,7 +131,7 @@
           font-size: 1rem;
      }
 
-      
+
 
 
      .button a {
@@ -141,23 +146,24 @@
 }
 
 @media(max-width: 900px) {
-     #section7 h1{
+     #section7 h1 {
           font-size: 3em;
           top: -10.6em;
           line-height: 1;
      }
-     
-     #section7 p{
+
+     #section7 p {
           font-size: 1.5em;
           top: -20.6em;
           width: 68%;
      }
-      
-     #section7 .btn7 { 
+
+     #section7 .btn7 {
           top: -27em;
           padding: 15px 28px;
           font-size: 1.1rem;
      }
+
      .section10 form {
           display: grid;
           grid-template-columns: 300px 500px;
@@ -350,22 +356,23 @@
 }
 
 @media(max-width:600px) {
-     #section7 h1{
+     #section7 h1 {
           font-size: 2.5em;
-          top: -13.6em; 
+          top: -13.6em;
      }
-     
-     #section7 p{
+
+     #section7 p {
           font-size: 1.3em;
           top: -25.6em;
           width: 84%;
      }
-      
-     #section7 .btn7 { 
+
+     #section7 .btn7 {
           top: -32em;
           padding: 12px 20px;
           font-size: 1rem;
      }
+
      .section1child1 h1 {
           width: 90%;
           margin: 0 auto;
