@@ -376,6 +376,7 @@ a {
 .section6child1 > img{ 
      width: 95%;
      margin: 10px;
+     border-radius: 20px;
 }
 .section6child2 {
      
