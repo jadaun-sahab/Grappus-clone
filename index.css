@@ -392,8 +392,7 @@ a {
 }
 
 .section6child2 img { 
-     display: block;
-     border: 2px solid rgb(114, 114, 114);
+     display: block; 
      margin: 10px;
      width: 95%;
      border-radius: 20px;
