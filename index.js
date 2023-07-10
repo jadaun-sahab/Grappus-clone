@@ -22,4 +22,4 @@ toggleButton.addEventListener('click', () => {
     if (i < arr.length - 1) i++;
     else i = 0;
   }
-  setInterval(slides, 500);
+  setInterval(slides, 1500);
