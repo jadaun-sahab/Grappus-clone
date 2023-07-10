@@ -364,16 +364,18 @@ a {
 }
 
 .section6child1child img {
-     width: 50%;
+     width: 45%;
      margin: 10px;
      border-radius: 20px;
 }
 
 .section6child1 {
+     background-color: #4cf86b;
      width: 60%;
 }
 
 .section6child2 {
+     background-color: #4c57f8;
      width: 40%;
      display: block;
 }
