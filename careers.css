@@ -439,6 +439,12 @@
      align-items: center;
 }
 
+.formbtn:hover {
+     transition: all 0.5s;
+     cursor: pointer;
+     background-color: #989696;
+}
+
 /* ----------------------------------------SECTION-10---------------------------------------- */
 
 /* ------------------------------------------FOOTER------------------------------------------ */
@@ -478,7 +484,7 @@ p {
 
 @media (max-width:1250px) {
 
-     .btn2 { 
+     .btn2 {
           top: 85%;
           left: 28%;
      }
@@ -486,19 +492,21 @@ p {
 }
 
 @media(max-width:1130px) {
-     .section1 .btn { 
-          padding: 15px 20px; 
+     .section1 .btn {
+          padding: 15px 20px;
           font-size: 0.9rem;
      }
-     .btn1 { 
+
+     .btn1 {
           top: 78%;
           left: 6%;
      }
 
-     .btn2 { 
+     .btn2 {
           top: 78%;
           left: 28%;
      }
+
      .section1 h1 {
           font-size: 3em;
      }
@@ -544,15 +552,16 @@ p {
 
 
 @media(max-width:830px) {
-     .section1 .btn { 
-          padding: 12px 15px; 
+     .section1 .btn {
+          padding: 12px 15px;
           font-size: 0.7rem;
      }
 
-     .btn2 { 
+     .btn2 {
           top: 78%;
           left: 29%;
      }
+
      #section2 h1 {
           width: 100%;
      }
@@ -596,16 +605,17 @@ p {
 }
 
 @media (max-width:602px) {
-     
-     .btn1 { 
+
+     .btn1 {
           top: 71%;
           left: 6%;
      }
 
-     .btn2 { 
+     .btn2 {
           top: 71%;
           left: 35%;
      }
+
      .section1 h1 {
           font-size: 2em;
      }
@@ -652,12 +662,14 @@ p {
 }
 
 @media (max-width:460px) {
-     .section1 .btn { 
-          padding: 12px 10px;  
+     .section1 .btn {
+          padding: 12px 10px;
      }
-     .btn2 {  
+
+     .btn2 {
           left: 42%;
      }
+
      .section10child1 h1 {
           font-size: 1.6em;
      }
@@ -695,9 +707,10 @@ p {
      }
 
      .section1 h2 {
-          font-size: 1.5em; 
+          font-size: 1.5em;
      }
-     .btn2 {  
+
+     .btn2 {
           left: 6%;
           top: 80%;
      }
