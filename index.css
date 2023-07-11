@@ -249,7 +249,7 @@ a {
 
 .block:hover {
      border: 1px solid #ffffff44;
-     background-color: #6e6e6e89;
+     background-color: #6e6e6e8b;
      box-shadow: inset 140px 1px 10px #7d7d7daa;
      transform: rotateZ(360deg);
 }
