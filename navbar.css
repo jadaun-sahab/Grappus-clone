@@ -112,7 +112,7 @@ a {
           background-color: #0b0b0b; 
           display: block;
           width: 280px;
-          height: 380px;
+          height: 360px;
      }
 
      .nav ul li {
@@ -131,7 +131,7 @@ a {
      }
  
      .nav2 ul {
-          padding-top: 18em;
+          padding-top: 19em;
           width: 265.5px;
           display: flex;
      }
