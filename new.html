@@ -8,4 +8,24 @@
 <body>
      
 </body>
+<script>
+     document.addEventListener('DOMContentLoaded', function() {
+  window.addEventListener('scroll', function() {
+    var flipSections = document.querySelectorAll('.flip-section');
+  
+    for (var i = 0; i < flipSections.length; i++) {
+      var flipSection = flipSections[i];
+      var rect = flipSection.getBoundingClientRect();
+  
+      // Check if the section is visible in the viewport
+      if (rect.top < window.innerHeight && rect.bottom >= 0) {
+        flipSection.classList.add('section-flipped');
+      } else {
+        flipSection.classList.remove('section-flipped');
+      }
+    }
+  });
+});
+
+</script>
 </html>
